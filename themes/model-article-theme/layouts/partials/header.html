@@ -1,0 +1,26 @@
+<!doctype html>
+<html class="no-js" lang="{{ .Site.LanguageCode }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="description" />
+        <title>{{ .Site.Title }}</title>
+
+        <link rel="shortcut icon" href="{{.Site.BaseURL}}assets/img/favicon.ico">
+        {{ $sass := resources.Get "scss/app.scss" }}
+        {{ $style := $sass | resources.ToCSS }}    
+        <link rel="stylesheet" href="{{$style.RelPermalink}}" media="screen">
+        <link rel="stylesheet" href="{{.Site.BaseURL}}css/foundation-icons/foundation-icons.css">
+    </head>
+<body>
+<header class="grid-x align-right">
+  <div class="auto cell">
+      <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+  </div>
+  <div class="small-4 cell">
+      {{ partial "nav-menu.html" }}
+  </div>
+</header>
+
+<hr>

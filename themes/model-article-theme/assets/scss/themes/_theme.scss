@@ -1,0 +1,425 @@
+// --------------------------------------------------
+// Theme
+// --------------------------------------------------
+
+body {
+    font-size: 18px;
+}
+
+/* Avoid text right against the margin on small screens */
+@media only screen and (max-width: 1225px) {
+    body {
+        margin: 0 5px;
+    }
+}
+
+em {
+    font-family: 'glacial_indifferenceitalic';
+}
+
+strong {
+    font-family: 'glacial_indifferencebold';
+}
+
+p {
+    margin-bottom: $paragraph-margin-bottom;
+}
+
+h1, h2 {
+    background-color: #000;
+    color: #fff;
+    display: inline;
+
+    a {
+        color: #fff;
+    }
+}
+
+h3, h4, h5, h6 {
+    font-family: $body-font-family;
+    font-weight: bold;
+}
+
+blockquote {
+    color: #000;
+    padding: 1rem 2rem;
+    border-left: 0;
+}
+
+blockquote p {
+    color: #000;
+}
+
+figure {
+    text-align: center;
+    margin: (4 * $card-margin-bottom) 0;
+}
+
+
+article.essay figure img {
+    margin: 0 0 $paragraph-margin-bottom;
+    max-height: 90vh;
+    width: auto;
+}
+
+figure iframe {
+    background-color: transparent;
+    border: 0px none transparent;
+    padding: 0px;
+    overflow: hidden;
+    width: 100%;
+}
+
+figcaption {
+    border-top: 5px solid #000;
+    padding: 1rem;
+    border-bottom: 1px solid #000;
+    text-align: left;
+}
+
+header,
+footer {
+    background-color: transparent;
+}
+
+footer img {
+    max-height: 2 * $base-line-height;
+    margin-bottom: $paragraph-margin-bottom;
+    margin-right: $paragraph-margin-bottom;
+    width: auto;
+}
+
+footer .cell.large-6 {
+    padding-right: $paragraph-margin-bottom;
+}
+
+body > header {
+    border-top: 10px solid black;
+}
+
+body > header h1 {
+    font-size: 40px;
+    line-height: 40px;
+    margin-top: 3 * $subheader-margin-top;
+    background-color: transparent;
+    display: block;
+}
+
+body > header h1 a {
+    color: #000;
+}
+
+.menu li {
+    border-right: 1px solid black;
+}
+
+.menu a {
+    color: $secondary-color;
+}
+
+div.essay h3 small {
+    display: block;
+    margin-top: $subheader-margin-top;
+}
+
+div.essay:first-of-type {
+    margin-top: 1rem;
+}
+
+div.essay .author {
+    display: block;
+}
+
+div.essay button {
+    margin: $global-margin 0;
+}
+
+div.essay .abstract {
+    display: none;
+    margin-bottom: $paragraph-margin-bottom;
+}
+
+.abstract + blockquote {
+    font-size: 2 * $base-font-size;
+    border-left: 0;
+    padding: 0 3rem;
+}
+
+.volume {
+    position: relative;
+    margin-bottom: $card-margin-bottom;
+}
+
+.volume .volume-number {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    text-align: center;
+    width: 30px;
+    font-family: $header-font-family-bold;
+    line-height: 35px;
+
+    &:after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        border-top: 50px solid $primary-color;
+        border-right: 50px solid transparent;
+        z-index: -1;
+    }
+}
+
+
+.volume a img:last-child,
+.volume a:hover img:first-child,
+.volume a:active img:first-child {
+    display: none;
+}
+
+.volume a:hover img:last-child,
+.volume a:active img:last-child {
+    display: block;
+}
+
+article.essay img {
+    margin: (2 * $card-margin-bottom) 0;
+}
+
+article.essay img.orcid {
+    margin: 0 .25rem .5rem 0;
+    display: inline-block;
+}
+
+.essay-header {
+    text-align: center;
+    margin: 3rem 0;
+}
+
+.essay-header h2 {
+    font-size: 4em;
+}
+
+.essay-header h2 small {
+    color: #000;
+    background-color: #fff;
+    line-height: 100%;
+    display: block;
+    font-family: $header-font-family-bold;
+    margin-top: 1rem;
+}
+
+.essay-header .author,
+.essay-header .meta {
+    display: block;
+    margin: 1rem 0;
+}
+
+.essay-header .author {
+    font-family: $header-font-family-bold;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+article.essay .abstract {
+    margin: 2rem 0;
+}
+
+.callout {
+    border-top: 10px solid #000;
+}
+
+.volume-list.grid-x .volume {
+    margin: $global-margin $global-margin $global-margin 0;
+}
+
+#volume-archive .volume {
+    max-width: 350px;
+}
+
+.thumbnail img {
+    max-width: 350px;
+}
+
+/* Wrap URLs in bibliography entries on small screens */
+p a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+
+
+.notation{
+	min-height: 50px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+}
+
+.notation i {
+	font-size:3rem;
+}
+
+// .notation:after{
+// 	position: absolute;
+// 	top:0;
+// 	left: 0;
+// 	right:0;
+// 	bottom: 0;
+// /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a29ca9+0,95909b+99 */
+// background: #a29ca9; /* Old browsers */
+// background: -moz-linear-gradient(-45deg, #a29ca9 0%, #95909b 99%); /* FF3.6-15 */
+// background: -webkit-linear-gradient(-45deg, #a29ca9 0%,#95909b 99%); /* Chrome10-25,Safari5.1-6 */
+// background: linear-gradient(135deg, #a29ca9 0%,#95909b 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+// filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a29ca9', endColorstr='#95909b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+// 	content: '';
+// 	opacity: 0;
+// 		-webkit-transition: opacity 0.9s ease 0s; 
+// }
+
+.notation:hover:after{
+	opacity: 0.4;
+}
+
+.notation > span {
+	width:100%;
+}
+
+.notation button{
+	border: none;
+	background: none;
+	color:$red;
+	width: 50px;
+	height:50px;
+	padding: 0;
+	margin: 0;
+	outline: none;
+	z-index: 10;
+}
+
+.notation div{
+	display: block;
+	cursor: pointer;
+	color:#000;
+	width:100%
+}
+
+.notation div:after{
+	content:'';
+	position: absolute;
+	top:0;
+	left: 50%;
+	width: 50px;
+	height: 0;
+	
+	border: 1px solid $red;
+	border-left: none;
+	border-bottom: none;
+	
+	    transition: height .5s ease-out, width .5s ease-out .5s;
+}
+
+.notation:hover div:after{
+	width: calc(50% - 1px);
+	height: calc(100% - 2px);
+	transition: width .5s ease-out, height .5s ease-out .5s;
+}
+
+.notation div:before{
+	content:'';
+	position: absolute;
+	top:0;
+	right: 50%;
+	width: 50px;
+	height: 0;
+	
+	border: 1px solid $red;
+	border-right: none;
+	border-bottom: none;
+	
+	    transition: height .5s ease-out, width .5s ease-out .5s;
+}
+
+.notation:hover div:before{
+	width: calc(50% - 1px);
+	height: calc(100% - 2px);
+	transition: width .5s ease-out, height .5s ease-out .5s;
+}
+
+.notation div > span:before{
+	content:'';
+	position: absolute;
+	bottom:0;
+	right: 0%;
+	width: 1px;
+	height: 1px;
+	opacity: 0;
+	
+}
+
+.notation:hover div > span:before{
+	opacity: 1;
+	border-bottom: 1px solid $red;
+	width: calc(50%);
+	height: 1px;
+	transition: opacity 0s ease-out 0.5s, width 0.5s ease-out 1s;
+}
+
+.notation div > span:after{
+	content:'';
+	position: absolute;
+	bottom:0;
+	left: 0%;
+	width: 1px;
+	height: 1px;
+	opacity: 0;
+	
+}
+
+.notation:hover div > span:after{
+	opacity: 1;
+	border-bottom: 1px solid $red;
+	width: calc(50%);
+	height: 1px;
+	transition: opacity 0s ease-out 0.5s, width 0.5s ease-out 1s;
+}
+
+.notation button > span > span > span{
+	transition: color 0.15s ease-out 0.3s;
+	color: transparent;
+}
+
+.notation:hover button > span > span > span{
+	color:white;
+}
+
+.notation button > span > span > span:after{
+	position: absolute;
+	top:0;left:0;right:0;bottom:0;
+	color:#1f2e4d;
+	content: attr(data-attr-span);
+	width: 0%;
+	height: 100%;
+	background:white;
+	white-space: nowrap;
+	text-align: center;
+	margin: auto;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	transition: width 0.2s;
+}
+
+.notation button:hover > span > span > span:after{
+	width: 100%;
+}
+
+.blur, .blur sup a {
+    text-shadow: 2px 6px 19px #000000;
+    color:transparent;
+}

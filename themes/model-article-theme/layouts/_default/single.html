@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+<main class="grid-x">
+    <article class="essay large-8 large-offset-2 medium-10 medium-offset-1 small-10 small-offset-1 cell">
+        <header class="essay-header">
+            
+                {{ range .Params.author }}
+                <span class="author">{{ .name }}, {{ .affiliation }}, {{ .email }}</span>
+                {{ end }}
+
+            <h2>
+                {{ .Params.title }}
+                <br><small>{{ .Params.subtitle }}</small>
+            </h2>
+            <span class="meta"><a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span>
+            <!-- <span class="meta">from <a href="{{.Site.BaseURL}}/volume/{{ .Params.category }}/">volume {{ .Params.volumeNumber }} ({{ .Params.category }})</a>, <a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span> -->
+        </header>
+        <section class="abstract callout">
+            <h3>Abstract</h3>
+            <div class="abstract-contents">
+                {{ .Params.abstract }}
+            </div>
+        </section>
+        {{ .Content }}
+
+    </article>
+
+</main> 
+
+
+{{ partial "footer.html" . }}
