@@ -4,9 +4,11 @@
 
 //
 // Initialize Foundation
-// --------------------------------------------------
+// --
 
 $(document).foundation();
+
+
 
 //
 // Custom JS
