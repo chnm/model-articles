@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Model Article"
+title = "Model Articles"
 theme = "model-article-theme"
 
 [markup]

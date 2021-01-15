@@ -1,65 +1,6 @@
   //  Foundation for Sites Settings
   //  -----------------------------
 
-@font-face {
-    font-family: 'majesti_bannerbold';
-    src: url('/font/majesti-banner-bold-webfont.woff2') format('woff2'),
-         url('/font/majesti-banner-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'majesti_bannerbold_italic';
-    src: url('/font/majesti-banner-bolditalic-webfont.woff2') format('woff2'),
-         url('/font/majesti-banner-bolditalic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'majesti_bannerheavy';
-    src: url('/font/majesti-banner-heavy-webfont.woff2') format('woff2'),
-         url('/font/majesti-banner-heavy-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'majesti_bannerheavy_italic';
-    src: url('/font/majesti-banner-heavyitalic-webfont.woff2') format('woff2'),
-         url('/font/majesti-banner-heavyitalic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'glacial_indifferencebold';
-    src: url('/font/glacialindifference-bold-webfont.woff2') format('woff2'),
-         url('/font/glacialindifference-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'glacial_indifferenceitalic';
-    src: url('/font/glacialindifference-italic-webfont.woff2') format('woff2'),
-         url('/font/glacialindifference-italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'glacial_indifferenceregular';
-    src: url('/font/glacialindifference-regular-webfont.woff2') format('woff2'),
-         url('/font/glacialindifference-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 $foundation-palette: (
   primary: #ff0000,
   secondary: #1750a5,
@@ -68,11 +9,11 @@ $foundation-palette: (
   alert: #cc4b37,
 );
 
-$body-font-family: "glacial_indifferenceregular", sans-serif;
-$header-font-family: "majesti_bannerbold", serif;
-$header-font-family-italic: "majesti_bannerbold_italic", serif;
-$header-font-family-bold: "majesti_bannerheavy", serif;
-$header-font-family-bold-italic: "majesti_bannerheavy_italic", serif;
+$body-font-family: "Source Sans Pro", sans-serif;
+$header-font-family: "Josefin Slab", serif;
+$header-font-family-italic: "Josefin Slab ", serif;
+$header-font-family-bold: "Josefin Slab", serif;
+$header-font-family-bold-italic: "Josefin Slab", serif;
 
 $grid-container-padding: 0;
 

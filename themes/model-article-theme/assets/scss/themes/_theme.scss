@@ -14,11 +14,11 @@ body {
 }
 
 em {
-    font-family: 'glacial_indifferenceitalic';
+    font-family: 'Source Sans Pro';
 }
 
 strong {
-    font-family: 'glacial_indifferencebold';
+    font-family: 'Source Sans Pro';
 }
 
 p {
@@ -26,18 +26,16 @@ p {
 }
 
 h1, h2 {
-    background-color: #000;
-    color: #fff;
+    color: #333;
     display: inline;
 
     a {
-        color: #fff;
+        color: #333;
     }
 }
 
 h3, h4, h5, h6 {
     font-family: $body-font-family;
-    font-weight: bold;
 }
 
 blockquote {
@@ -93,20 +91,19 @@ footer .cell.large-6 {
     padding-right: $paragraph-margin-bottom;
 }
 
-body > header {
-    border-top: 10px solid black;
-}
-
 body > header h1 {
-    font-size: 40px;
-    line-height: 40px;
-    margin-top: 3 * $subheader-margin-top;
-    background-color: transparent;
+    padding: 9 * $subheader-margin-top;
+    background-color: #000;
+    color:#fff;
     display: block;
+    font-size:5rem;
+    line-height:5rem;
+    text-align: center;
+    margin:0;
 }
 
-body > header h1 a {
-    color: #000;
+body > header h1 a,body > header h1 a:hover {
+    color: #fff;
 }
 
 .menu li {
@@ -158,6 +155,7 @@ div.essay .abstract {
     text-align: center;
     width: 30px;
     font-family: $header-font-family-bold;
+    font-weight: bold;
     line-height: 35px;
 
     &:after {
@@ -254,4 +252,19 @@ p a {
 .button {
     width:100%;
     margin:0;
+    font-size:1.5rem;
+    font-weight:bold;
+}
+h2.home {
+    display: block;
+    text-align: center;
+}
+
+.article-list {
+    padding:1rem 0;
+    border-bottom: 1px solid #cacaca;
+}
+
+.article-list:last-child {
+    border:none;
 }

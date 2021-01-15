@@ -1,13 +1,12 @@
 ---
 title: "Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800"
+subtitle: "An Example of a Subtitle"
+doi: http://thelinktothearticle
 author: 
 - name: Leonardo Barleta
-  affiliation: 
-  email: 
+  affiliation: A University of Note
+  email: someone@somewhere.com
 ---
-
-
-
 
 On April 22, 1715, the marriage of Maria de Arruda Leite and João
 Antunes Maciel was listed laconically in the parish books of Itu, a
@@ -23,10 +22,6 @@ groom grew up in the same nearby town and, coincidentally, moved with
 their families to Itu a few years before the wedding. Most likely, they
 knew each other quite well and the wedding was a much-awaited event in
 the community.
-
-
-
-
 
 The ceremony thus seemed an ordinary event in the daily affairs of the
 town -- to the point that the absence of the groom could pass unnoticed
@@ -186,15 +181,21 @@ For these settlers, the backlands were not an undistinguished interior
 -- as the term *sertão* and its correlates (wilderness, frontier) might
 suggest -- but a set of specific locations traveled by their relatives
 for generations.
-<div class="button" data-toggle="note1">Note 1: A Comment About Methodology</div>
-<div class="callout primary is-hidden" id="note1" data-toggler=".is-hidden">
-<p>This article relies heavily on what has been generically described as “digital methods.” Although the term itself isn’t very descriptive, it serves to indicate that the central evidence discussed in the text was systematically produced, analyzed, and represented using computational tools. The research was a multi-step process and required a combination of different tools and techniques. In the process of creating the dataset, I used optical character recognition (OCR) to generate raw data, custom-written Python code to parse and extract information, a front-end web interface for manual revision, and a relational database (MySQL) to organize and store the data. The database format allowed different types of queries, from browsing records of the family of an individual to quantitative analysis, which were essential for writing this article. Lastly, GIS mapping was also crucial to analyze and create visualizations that support the argument of the paper.</p>
-<p>The term “digital methods” covers all these different steps, which was the most time-consuming part of the project. Individually, however, each of these parts –except for GIS mapping – was a very ordinary way of handling data. (There are some noteworthy insights, though. For example, the computational techniques I used allowed me to “read” a book differently, such as connecting parts of the genealogies that were scattered across the different volumes of the book.) In this sense, they don’t constitute as a standalone method. Moreover, their reproducibility is also questionable. While genealogical data is widely available for many places and periods, I used a very specific set of materials that was intimately associated with the research question I was investigating. A detailed account of the process of creating the dataset, which is common in digital humanities articles, thus seemed less important than focus on the historiographical contribution I intended to make.</p>
-<p>Therefore, I decided to write this text as a regular historiographical essay and include methodological information sparingly. My rule of thumb was to have the minimal amount of methodological discussion to make my evidence understandable and support my claims. I attempted to inform the reader very briefly about the data I presented and how I was interpreting it. In this sense, the digital methods that I used lie in the background of the text.</p>
-<p>This choice raised two issues. First, the flexibility of the database in reorganizing the data in different always allowed me to repurpose pieces of evidence as the argument developed. On the other hand, it also demanded that, throughout the text, I explained these slightly different versions of the presented data. It was hard not to overburden the reader sometimes, especially in the last part of the text. It also limited the length I had to discuss how I was interpreting that particular piece of evidence. Second, hard-to-acquire data might seem deceptively trivial in some cases. When I make a statement like “X descendants of an explorer ended up settling in the place he discovered,” the amount of work and tinkering to produce that small bit of information is obscured. Often, it required a lot of fiddling with the dataset to find the best records to make a point.</p>
-<p>Still, writing this paper wouldn’t be possible without these methods, as I discuss in these annotations. The hardest part to communicate, however, is how the practice of doing digital humanities deeply informed the understanding of the research object and shaped the argument of the article. These digital methods not only produced analyzable data but also created an environment and offered tools to “play” with the source material. </p>
-<p>Foremost, building this dataset, which was the starting point of this article, was a way of thinking through the source material. It was like taking apart and rebuilding, in a novel and purposeful way, a toy. On the surface, the research begins with a dataset that “replicates” the original object (the genealogical writings.) However, the process of disassembling these genealogical writings and reassembling them digitally transformed my understanding of its content and structure. For example, the idea of a pattern of multi-generational circular mobility –  of “returnees” that were born in new inland towns that came back to their parent’s hometown – came after revising dozens of records in which siblings married in the same town. It wasn’t a prior hypothesis tested through quantification, but an argument developed through the painstaking work of handling the dataset. They were the results of the experience of working with the genealogical writings through various digital methods. None of these questions would be part of a methodological section of an article.</p>
-</div>
+
+{{% notation title="On Digital Methods" %}}
+
+This article relies heavily on what has been generically described as “digital methods.” Although the term itself isn’t very descriptive, it serves to indicate that the central evidence discussed in the text was systematically produced, analyzed, and represented using computational tools. The research was a multi-step process and required a combination of different tools and techniques. In the process of creating the dataset, I used optical character recognition (OCR) to generate raw data, custom-written Python code to parse and extract information, a front-end web interface for manual revision, and a relational database (MySQL) to organize and store the data. The database format allowed different types of queries, from browsing records of the family of an individual to quantitative analysis, which were essential for writing this article. Lastly, GIS mapping was also crucial to analyze and create visualizations that support the argument of the paper.
+
+The term “digital methods” covers all these different steps, which was the most time-consuming part of the project. Individually, however, each of these parts –except for GIS mapping – was a very ordinary way of handling data. (There are some noteworthy insights, though. For example, the computational techniques I used allowed me to “read” a book differently, such as connecting parts of the genealogies that were scattered across the different volumes of the book.) In this sense, they don’t constitute as a standalone method. Moreover, their reproducibility is also questionable. While genealogical data is widely available for many places and periods, I used a very specific set of materials that was intimately associated with the research question I was investigating. A detailed account of the process of creating the dataset, which is common in digital humanities articles, thus seemed less important than focus on the historiographical contribution I intended to make.
+
+Therefore, I decided to write this text as a regular historiographical essay and include methodological information sparingly. My rule of thumb was to have the minimal amount of methodological discussion to make my evidence understandable and support my claims. I attempted to inform the reader very briefly about the data I presented and how I was interpreting it. In this sense, the digital methods that I used lie in the background of the text.
+This choice raised two issues. First, the flexibility of the database in reorganizing the data in different always allowed me to repurpose pieces of evidence as the argument developed. On the other hand, it also demanded that, throughout the text, I explained these slightly different versions of the presented data. It was hard not to overburden the reader sometimes, especially in the last part of the text. It also limited the length I had to discuss how I was interpreting that particular piece of evidence. Second, hard-to-acquire data might seem deceptively trivial in some cases. When I make a statement like “X descendants of an explorer ended up settling in the place he discovered,” the amount of work and tinkering to produce that small bit of information is obscured. Often, it required a lot of fiddling with the dataset to find the best records to make a point.
+
+Still, writing this paper wouldn’t be possible without these methods, as I discuss in these annotations. The hardest part to communicate, however, is how the practice of doing digital humanities deeply informed the understanding of the research object and shaped the argument of the article. These digital methods not only produced analyzable data but also created an environment and offered tools to “play” with the source material.
+
+Foremost, building this dataset, which was the starting point of this article, was a way of thinking through the source material. It was like taking apart and rebuilding, in a novel and purposeful way, a toy. On the surface, the research begins with a dataset that “replicates” the original object (the genealogical writings.) However, the process of disassembling these genealogical writings and reassembling them digitally transformed my understanding of its content and structure. For example, the idea of a pattern of multi-generational circular mobility –  of “returnees” that were born in new inland towns that came back to their parent’s hometown – came after revising dozens of records in which siblings married in the same town. It wasn’t a prior hypothesis tested through quantification, but an argument developed through the painstaking work of handling the dataset. They were the results of the experience of working with the genealogical writings through various digital methods. None of these questions would be part of a methodological section of an article.
+
+{{% /notation %}}
 
 This article is the result of a novel way of reading traditional sources
 using digital methods. For generations, genealogists have recorded
@@ -209,15 +210,21 @@ study, the former allows the locating of historical agents in space and
 time and, from there, the delineation of broad patterns of behavior; the
 latter permits the reconstitution of the convoluted fabric of kinship
 that bound that society together.
-<div class="button" data-toggle="note2">Note 2</div>
-<div class="callout primary is-hidden" id="note2" data-toggler=".is-hidden">
-<p>Digital history projects generate a massive amount of data that could be used in several ways. A challenge in writing this article was to decide what should be included or not. The first draft of this article had a 12-page section on genealogical writing in São Paulo and the process of transforming it into a database. As the argument evolved, I decided to suppress the entire section as the main point of the text wasn’t about the genealogies, but the spatial practices of the people whose lives were narrated in it.</p>
-<p>An overview of the dataset</p>
-<p>Genealogical compilations about the people of São Paulo exists since the late 18th century when Pedro Taques de Almeida Paes Leme – whose a short biography appears towards the end of the article – began to gather information about their fellow countrypeople. He produced a few dozen manuscripts (collectively entitled Nobiliarchia Paulistana) that were posthumously published in the mid 19th century. This initial compilation served as the basis of a new publication – Silva Leme’s Genealogia Paulistana – whose 9 volumes were published between 1903 and 1905. Throughout the 20th century, several individual researchers criticized, revised, and made amendments to Silva Leme’s work. In 2002, Marta Amato compiled several of these corrections and additions and published a new version of the Genealogia Paulistana with three extra volumes.</p>
-<p>Amato’s publication was the basis for the dataset analyzed in this research. It contains 70,000+ individual entries of people organized in a descending numbering system starting from a progenitor (an “original” Luso-Brazilian colonist of São Paulo.) I was able to place 28,849 of these life stories in the 18th century or before. From this subset, I then identified 2,948 whose records indicated places of birth and marriage and used this information to trace their mobility. Figures 3 to 5 are visual representations of this data. In addition, some different forms of selection – like including places of death – complemented the evidence analyzed in the text.</p>
-<p>Demographic data is scant for colonial Brazil, so it is impossible to determine the size of the selection in comparison to the total population. Some estimates are possible, though. For 1687, when there were around 15,400 parishioners (based on the number of people that confessed) in the captaincy of São Paulo, the dataset listed 4,209 people that were alive. If we consider who was over twelve years old (2,848), it would mean that the dataset covers about 18% of the entire population living in the Luso-Brazilian settlements in the captaincy at that point in time. </p>
-<p>Gender distribution, assigned based on first names, slightly favors women (1:0.97 female-to-male ratio), but they tend to have less information than their male counterparts. On average, the records of males were 173 characters long, while women’s were 156. Very long, detailed records were rare, but were vastly male. One can also assume that, due to the nature of the genealogical enterprises, the top sector of São Paulo society is overrepresented in the dataset.</p>
-</div>
+
+{{% notation title="About Sources" %}}
+Digital history projects generate a massive amount of data that could be used in several ways. A challenge in writing this article was to decide what should be included or not. The first draft of this article had a 12-page section on genealogical writing in São Paulo and the process of transforming it into a database. As the argument evolved, I decided to suppress the entire section as the main point of the text wasn’t about the genealogies, but the spatial practices of the people whose lives were narrated in it.
+
+An overview of the dataset
+
+Genealogical compilations about the people of São Paulo exists since the late 18th century when Pedro Taques de Almeida Paes Leme – whose a short biography appears towards the end of the article – began to gather information about their fellow countrypeople. He produced a few dozen manuscripts (collectively entitled Nobiliarchia Paulistana) that were posthumously published in the mid 19th century. This initial compilation served as the basis of a new publication – Silva Leme’s Genealogia Paulistana – whose 9 volumes were published between 1903 and 1905. Throughout the 20th century, several individual researchers criticized, revised, and made amendments to Silva Leme’s work. In 2002, Marta Amato compiled several of these corrections and additions and published a new version of the Genealogia Paulistana with three extra volumes.
+
+Amato’s publication was the basis for the dataset analyzed in this research. It contains 70,000+ individual entries of people organized in a descending numbering system starting from a progenitor (an “original” Luso-Brazilian colonist of São Paulo.) I was able to place 28,849 of these life stories in the 18th century or before. From this subset, I then identified 2,948 whose records indicated places of birth and marriage and used this information to trace their mobility. Figures 3 to 5 are visual representations of this data. In addition, some different forms of selection – like including places of death – complemented the evidence analyzed in the text.
+
+Demographic data is scant for colonial Brazil, so it is impossible to determine the size of the selection in comparison to the total population. Some estimates are possible, though. For 1687, when there were around 15,400 parishioners (based on the number of people that confessed) in the captaincy of São Paulo, the dataset listed 4,209 people that were alive. If we consider who was over twelve years old (2,848), it would mean that the dataset covers about 18% of the entire population living in the Luso-Brazilian settlements in the captaincy at that point in time. 
+
+Gender distribution, assigned based on first names, slightly favors women (1:0.97 female-to-male ratio), but they tend to have less information than their male counterparts. On average, the records of males were 173 characters long, while women’s were 156. Very long, detailed records were rare, but were vastly male. One can also assume that, due to the nature of the genealogical enterprises, the top sector of São Paulo society is overrepresented in the dataset.
+
+{{% /notation %}}
 
 This study is based on a relational database of more than 30,000 entries
 about individuals that lived in São Paulo or its area of expansion
@@ -256,12 +263,14 @@ their naval power to control, though not uncontested, a series of
 coastal settlements and maritime routes connecting these exclaves to
 Lisbon, turning the capital city into a vital entrepôt between Europe
 and other places around the globe.[^8]
-<div class="button" data-toggle="note3">Note 3</div>
-<div class="callout primary is-hidden" id="note3" data-toggler=".is-hidden">
-    <p>Because of my option of limiting methodological discussions, I had to leave many small but interesting methodological interventions out of the text. The augmentation techniques were one of them. For instance, I leverage the fact the units of my dataset – the individuals that were part of the most prominent families of São Paulo during the colonial era – were connected to each other to identify and complement potential gaps. For people whose records didn’t indicate any dates, I used siblings’ information to place that person in large temporal units (blocks of 50 years.) That complemented several observations in the dataset and turned them “analyzable” by the other methods of the research.</p>
-    <p>I also connected families that, because of the linear structure of the text, were in different parts of the Genealogia Paulistana. (For instance, family A has a record of X marrying to Y, and family B has another one of Y marrying X.) This technique allowed me to observe the importance of in-laws, as already pointed out by the historiography, is making cohesive the dispersed geography of colonial Brazil.</p>
-    <p>Because I wasn’t explicitly discussing then, I decided to take a conservative approach and only adopt procedures that I judged to be uncontroversial. Nevertheless, it is possible to expand the dataset in many ways – for instance, adding to the parent’s place list, the location of their children’s birth. Nevertheless, that would require more extensive discussion, and I opted to leave it out this article.</p>
-</div>
+
+{{% notation title="Augmentation Techniques" %}}
+Because of my option of limiting methodological discussions, I had to leave many small but interesting methodological interventions out of the text. The augmentation techniques were one of them. For instance, I leverage the fact the units of my dataset – the individuals that were part of the most prominent families of São Paulo during the colonial era – were connected to each other to identify and complement potential gaps. For people whose records didn’t indicate any dates, I used siblings’ information to place that person in large temporal units (blocks of 50 years.) That complemented several observations in the dataset and turned them “analyzable” by the other methods of the research.
+
+I also connected families that, because of the linear structure of the text, were in different parts of the Genealogia Paulistana. (For instance, family A has a record of X marrying to Y, and family B has another one of Y marrying X.) This technique allowed me to observe the importance of in-laws, as already pointed out by the historiography, is making cohesive the dispersed geography of colonial Brazil.
+
+Because I wasn’t explicitly discussing then, I decided to take a conservative approach and only adopt procedures that I judged to be uncontroversial. Nevertheless, it is possible to expand the dataset in many ways – for instance, adding to the parent’s place list, the location of their children’s birth. Nevertheless, that would require more extensive discussion, and I opted to leave it out this article.
+{{% /notation %}}
 
 In Brazil, the physical and human geography of the territory favored
 this mode of empire-building. The Serra do Mar, a system of mountains
@@ -276,13 +285,17 @@ encountered a relatively homogenous linguistic group, the Tupi, but the
 interior was inhabited by the Tapuia -- a generic designation for
 non-Tupi people -- who were depicted as ferocious, backward, and nomad
 groups.[^10]
-<div class="button" data-toggle="note4">Note 4</div>
-<div class="callout primary is-hidden" id="note4" data-toggler=".is-hidden">
-   <p>A feedback I frequently received in writing this article, including from one of the reviewers, was to include a “simple map” giving an overview of the studied areas and showing the places I mentioned in the text. As it is a common practice among historians, especially those that don’t focus on “central” places – nobody asks for a map to show we Paris is – the absence of such a map causes discomfort and disorientation among the readers.</p>
-    <p>Not having this simple map was an intentional choice for several reasons. My work attempts to understand how space is historically produced and, thus, liable to changes over time and explainable through temporal analysis. Giving such a static representation of this space, especially when the article covers a long period, would contradict this conceptual framework. It would also mislead the reader to believe that a well-ordered space actually existed. This choice is also supported by debates on information design and among historians who use of visualizations, which defend that visualization should further arguments. That is, visualizations articulate a set of evidence to demonstrate something to the reader.  A “simple map” – which would offer a stagnant depiction of colonial Brazil – would undermine the article’s argument.</p>
-    <p>The use of the basic map also raises issues specific to my research. First, it would ascribe a top-down, grided territoriality that was alien to the historical agents discussed in the article. A 17th-century Luso-Brazilian colonist had a very different perception of space than of the aerial view of a modern map. Second, that map would emphasize the linear distance between settlements as a central explanatory variable. Indeed, distance, especially when measured using contemporary standards (such as day’s travel instead of miles), are an essential piece of any analysis that centers on space. However, the underlying argument of the paper is that, in shaping the mobility of the inhabitants of São Paulo, the distance or availability of infrastructure mattered less than the social relation and kinship networks established across locations.</p>
-    <p>Still, the discomfort caused by this absence remains, and I took two measures to mitigate the disorientation of the readers. First, I tried to dilute the information that would exist in the basic map into the existing visualizations. Second, in the revised version, I opted to openly confront this problem. I made explicit the choice of not having the map and try to use that as an opportunity to discuss the theoretical underpinnings of my work and how they manifest in the structure and choices of the article.</p>
-</div>
+
+{{% notation title="The Simple Map" %}}
+A feedback I frequently received in writing this article, including from one of the reviewers, was to include a “simple map” giving an overview of the studied areas and showing the places I mentioned in the text. As it is a common practice among historians, especially those that don’t focus on “central” places – nobody asks for a map to show we Paris is – the absence of such a map causes discomfort and disorientation among the readers.
+
+Not having this simple map was an intentional choice for several reasons. My work attempts to understand how space is historically produced and, thus, liable to changes over time and explainable through temporal analysis. Giving such a static representation of this space, especially when the article covers a long period, would contradict this conceptual framework. It would also mislead the reader to believe that a well-ordered space actually existed. This choice is also supported by debates on information design and among historians who use of visualizations, which defend that visualization should further arguments. That is, visualizations articulate a set of evidence to demonstrate something to the reader.  A “simple map” – which would offer a stagnant depiction of colonial Brazil – would undermine the article’s argument.
+
+The use of the basic map also raises issues specific to my research. First, it would ascribe a top-down, grided territoriality that was alien to the historical agents discussed in the article. A 17th-century Luso-Brazilian colonist had a very different perception of space than of the aerial view of a modern map. Second, that map would emphasize the linear distance between settlements as a central explanatory variable. Indeed, distance, especially when measured using contemporary standards (such as day’s travel instead of miles), are an essential piece of any analysis that centers on space. However, the underlying argument of the paper is that, in shaping the mobility of the inhabitants of São Paulo, the distance or availability of infrastructure mattered less than the social relation and kinship networks established across locations.
+
+Still, the discomfort caused by this absence remains, and I took two measures to mitigate the disorientation of the readers. First, I tried to dilute the information that would exist in the basic map into the existing visualizations. Second, in the revised version, I opted to openly confront this problem. I made explicit the choice of not having the map and try to use that as an opportunity to discuss the theoretical underpinnings of my work and how they manifest in the structure and choices of the article.
+{{% /notation %}}
+
 
 In the first two centuries of colonization, the extent of the Portuguese
 empire in South America barely stretched a few miles away from the sea.
@@ -334,10 +347,9 @@ any major settlement. Data from Tiago Gil et al., "Vilas e Cidades,"
 *Atlas Digital da América Portuguesa*. Brasilia: LHS/UnB, 2017.
 http://lhs.unb.br/atlas. Accessed January 4, 2017.
 
-<div class="button" data-toggle="note5">Note 5</div>
-<div class="callout primary is-hidden" id="note5" data-toggler=".is-hidden">
-    <p>This visualization gives a brief overview of the process of territorial expansion of the Portuguese colonization in Brazil. Because I used a comprehensive dataset of towns and cities, it included many places that weren’t part of my narrative. They could mislead the reader, though. For example, what appears to be the most dynamic area of expansion – the string-like network of new towns along the Amazon river in the second half of the 18th century – isn’t centrally related to the process I’m describing. (For an excellent analysis of this subject, see Heather Roller’s Amazonian Routes.) Instead of arbitrarily select points that would demonstrate my argument, I indicated in the captions that aspects I wanted to emphasize in the visualizations and then discuss them in the text. This is becoming standard practice in DH articles, although many readers still just skim through the images and captions.</p> 
-</div>
+{{% notation title="Figure 1" %}}
+This visualization gives a brief overview of the process of territorial expansion of the Portuguese colonization in Brazil. Because I used a comprehensive dataset of towns and cities, it included many places that weren’t part of my narrative. They could mislead the reader, though. For example, what appears to be the most dynamic area of expansion – the string-like network of new towns along the Amazon river in the second half of the 18th century – isn’t centrally related to the process I’m describing. (For an excellent analysis of this subject, see Heather Roller’s Amazonian Routes.) Instead of arbitrarily select points that would demonstrate my argument, I indicated in the captions that aspects I wanted to emphasize in the visualizations and then discuss them in the text. This is becoming standard practice in DH articles, although many readers still just skim through the images and captions.
+{{% /notation %}}
 
 As pointed out by the extensive literature, the backlands of South
 America provided the inhabitants of São Paulo with critical resources --
@@ -848,11 +860,12 @@ original request.[^42] Besides incorporating these lands through
 judicial instruments recognized by the empire, these requests registered
 for the first time the names of faraway, unheard-of places in the
 records of the bureaucracy of the empire.
-<div class="button" data-toggle="note7">Note 7</div>
-<div class="callout primary is-hidden" id="note7" data-toggler=".is-hidden">
-    <p>In this section, I’m attempting to further my argument even though the main evidentiary base – the genealogical dataset – is limited. While the dataset gives the overall picture of the spatial practices of the inhabitants of São Paulo, it is less forthright about the texture and scale of their mobile lifestyles. These aspects of social life aren’t easily translated as data. By reconstituting the life story of Pedro Taques de Almeida Paes Leme using other sources, I tried to give the dimensions to which his life and his contemporaries’ were lived simultaneously in many places.</p>
-    <p>The option of sidelining methodological discussion made this transition easier however. Since my narrative isn’t an exploration of a method and its potentialities, I could, without any embarrassment, simply move to a different approach to qualify part of the argument I was making. I didn’t feel the need to have a long discussion about the limitations of my method, for instance.</p>
-</div>
+
+{{% notation title="Limitations of the Method and Alternative Examples" %}}
+In this section, I’m attempting to further my argument even though the main evidentiary base – the genealogical dataset – is limited. While the dataset gives the overall picture of the spatial practices of the inhabitants of São Paulo, it is less forthright about the texture and scale of their mobile lifestyles. These aspects of social life aren’t easily translated as data. By reconstituting the life story of Pedro Taques de Almeida Paes Leme using other sources, I tried to give the dimensions to which his life and his contemporaries’ were lived simultaneously in many places.
+
+The option of sidelining methodological discussion made this transition easier however. Since my narrative isn’t an exploration of a method and its potentialities, I could, without any embarrassment, simply move to a different approach to qualify part of the argument I was making. I didn’t feel the need to have a long discussion about the limitations of my method, for instance.
+{{% /notation %}}
 
 The land ownership did not diminish the mobility of the people of São
 Paulo. In fact, the survival of settlements created in the backlands
@@ -889,10 +902,10 @@ major livestock supplier for the rest of the colony.[^45]
 extracted from genealogical records. The interwoven space of the
 highlands of São Paulo in the 17^th^ century acquired a broader
 geographic extent in the first half of the 18^th^ century.
-<div class="button" data-toggle="note6">Note 6</div>
-<div class="callout primary is-hidden" id="note6" data-toggler=".is-hidden" data-closable>
-    <p>Digital historians and humanists claim that visualizations make arguments. If I were to choose a visualization that best encapsulates my argument, it would be this one. It gives the scale of the movement undertaken by the inhabitants of São Paulo and demonstrates, through the thickness of the lines, how kinship connected different locations. The overall impression I tried to make is a space that is connected and made cohesive through family ties.</p>
-</div>
+
+{{% notation title="Figure 4" %}}
+Digital historians and humanists claim that visualizations make arguments. If I were to choose a visualization that best encapsulates my argument, it would be this one. It gives the scale of the movement undertaken by the inhabitants of São Paulo and demonstrates, through the thickness of the lines, how kinship connected different locations. The overall impression I tried to make is a space that is connected and made cohesive through family ties.
+{{% /notation %}}
 
 Inter-regional connections were stronger with the captaincy of Minas
 Gerais, represented by the towns of São João del Rei, São José del Rei,

@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+<main class="grid-x">
+    <div class="essay large-8 large-offset-2 medium-10 medium-offset-1 small-10 small-offset-1 cell"> 
+        {{ .Content }}
+        <h2 class="home">Annotated Articles</h2>
+            {{ range where .Site.RegularPages "Section" "articles" }}
+            <h3 class="article-list"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ end }}
+
+    </div>
+</main>
+{{ partial "footer.html" . }}

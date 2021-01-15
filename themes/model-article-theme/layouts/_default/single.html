@@ -2,15 +2,15 @@
 <main class="grid-x">
     <article class="essay large-8 large-offset-2 medium-10 medium-offset-1 small-10 small-offset-1 cell">
         <header class="essay-header">
-            
-                {{ range .Params.author }}
-                <span class="author">{{ .name }}, {{ .affiliation }}, {{ .email }}</span>
-                {{ end }}
 
             <h2>
                 {{ .Params.title }}
                 <br><small>{{ .Params.subtitle }}</small>
             </h2>
+
+            {{ range .Params.author }}
+                <span class="author">{{ .name }}, {{ .affiliation }}, {{ .email }}</span>
+            {{ end }}
             <span class="meta"><a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span>
             <!-- <span class="meta">from <a href="{{.Site.BaseURL}}/volume/{{ .Params.category }}/">volume {{ .Params.volumeNumber }} ({{ .Params.category }})</a>, <a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span> -->
         </header>
@@ -20,7 +20,8 @@
                 {{ .Params.abstract }}
             </div>
         </section>
-        {{ .Content }}
+        {{ replaceRE `\^(.*?)\^` "<sup>$1</sup>" .Content | safeHTML }}
+
 
     </article>
 
