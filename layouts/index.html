@@ -3,13 +3,16 @@
     <div class="essay large-8 large-offset-2 medium-10 medium-offset-1 small-10 small-offset-1 cell"> 
         {{ .Content }}
         <h2 class="home">Annotated Articles</h2>
-            {{ range where .Site.RegularPages "Section" "articles" }}
+            {{ $pages := where .Site.RegularPages "Section" "articles"}}
+            {{ range $pages.GroupBy "Weight" }}
+            {{ range .Pages.ByTitle }}
             <div class="article-list">
             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
             {{ range .Params.citation }}
             <span class="meta">{{ .author }} | {{ .journal }}</span>
             {{ end }}
             </div>
+            {{ end }}
             {{ end }}
 
     </div>

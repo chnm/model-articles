@@ -1,5 +1,6 @@
 ---
 title: "Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800"
+weight: 1
 subtitle: "An Example of a Subtitle"
 doi: http://thelinktothearticle
 author: 
