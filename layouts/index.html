@@ -4,7 +4,12 @@
         {{ .Content }}
         <h2 class="home">Annotated Articles</h2>
             {{ range where .Site.RegularPages "Section" "articles" }}
-            <h3 class="article-list"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <div class="article-list">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ range .Params.citation }}
+            <span class="meta">{{ .author }} | {{ .journal }}</span>
+            {{ end }}
+            </div>
             {{ end }}
 
     </div>
