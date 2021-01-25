@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Model Articles"
+title = "Models of Argument-Driven Digital History"
 theme = "model-article-theme"
 
 [markup]
