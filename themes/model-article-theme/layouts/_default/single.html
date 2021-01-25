@@ -12,7 +12,10 @@
                 <span class="author">{{ .name }}, {{ .affiliation }}, {{ .email }}</span>
             {{ end }}
             <span class="meta"><a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span>
-            <!-- <span class="meta">from <a href="{{.Site.BaseURL}}/volume/{{ .Params.category }}/">volume {{ .Params.volumeNumber }} ({{ .Params.category }})</a>, <a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span> -->
+            
+            {{ range .Params.citation }}
+            <h4>Citation:</h4> <span class="citation"> {{ .author }}. "{{ .title }}," <em>{{ .journal }}</em> {{ .volume }}, {{ .issue }} ({{ .year }}): {{ .pages }}, <a href="{{ .doi }}">{{ .doi }}</a></span>
+            {{ end }}
         </header>
         <section class="abstract callout">
             <h3>Abstract</h3>

@@ -6,6 +6,16 @@ author:
 - name: Leonardo Barleta
   affiliation: A University of Note
   email: someone@somewhere.com
+citation:
+- author: Barleta, Leonardo
+  title: "Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800"
+  journal: Journal Title
+  year: 2020
+  volume: 12
+  issue: 3
+  pages: 6-22
+  doi: http://doi.org/doi
+
 ---
 
 On April 22, 1715, the marriage of Maria de Arruda Leite and João
