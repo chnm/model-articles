@@ -11,17 +11,16 @@
             {{ range .Params.author }}
                 <span class="author">{{ .name }}, {{ .affiliation }}, {{ .email }}</span>
             {{ end }}
-            <span class="meta"><a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span>
+            <span class="meta"><b>Annotated article DOI: </b><a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span>
             
-            {{ range .Params.citation }}
-            <h4>Citation:</h4> <span class="citation"> {{ .author }}. "{{ .title }}," <em>{{ .journal }}</em> {{ .volume }}, {{ .issue }} ({{ .year }}): {{ .pages }}, <a href="{{ .doi }}">{{ .doi }}</a></span>
-            {{ end }}
+            
         </header>
         <section class="abstract callout">
-            <h3>Abstract</h3>
+            <h4>Citation for Original Article:</h4> 
             <div class="abstract-contents">
-                {{ .Params.abstract }}
-            </div>
+                {{ range .Params.citation }}
+                <span class="citation"> {{ .author }}. "{{ .title }}," <em>{{ .journal }}</em> {{ .volume }}, {{ .issue }} ({{ .year }}): {{ .pages }}, <a href="{{ .doi }}">{{ .doi }}</a></span>
+                {{ end }}            </div>
         </section>
         {{ replaceRE `\^(.*?)\^` "<sup>$1</sup>" .Content | safeHTML }}
 
