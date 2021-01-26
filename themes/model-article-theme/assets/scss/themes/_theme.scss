@@ -25,7 +25,16 @@ p {
     margin-bottom: $paragraph-margin-bottom;
 }
 
-h1, h2 {
+a {
+    text-decoration: underline;
+    color:$secondary-color;
+}
+
+a:hover, a:focus {
+    color:lighten($secondary-color, 15%);
+}
+
+h2 {
     color: #333;
     display: inline;
 
@@ -91,21 +100,30 @@ footer .cell.large-6 {
     padding-right: $paragraph-margin-bottom;
 }
 
-body > header h1 {
-    padding: 9 * $subheader-margin-top;
-    background-color: #000;
-    color:#fff;
-    display: block;
-    font-size:5rem;
-    line-height:5rem;
-    text-align: center;
-    margin:0;
-}
 
-body > header h1 a,body > header h1 a:hover {
-    color: #fff;
-}
 
+body > header {
+    border-top: 10px solid black;
+    border-bottom: 1px solid #cacaca;
+    h1 {
+        padding: 9 * $subheader-margin-top;
+        color:$primary-color;
+        display: block;
+        font-size:3.5rem;
+        line-height:3.5rem;
+        text-align: center;
+        margin:0;
+
+        a {
+            text-decoration: none;
+            color:$primary-color;
+        }
+
+        a:hover, a:focus {
+            color:lighten($primary-color, 10%);
+        }
+    }
+}
 .menu li {
     border-right: 1px solid black;
 }
@@ -255,6 +273,10 @@ p a {
     font-size:1.5rem;
     font-weight:bold;
 }
+
+.button:hover {
+    background-color: lighten($primary-color, 10%);
+}
 h2.home {
     display: block;
     text-align: center;
@@ -268,4 +290,17 @@ h2.home {
 
 .article-list:last-child {
     border:none;
+}
+
+blockquote {
+    border-left: 10px solid #000;
+    background:#cacaca;
+}
+
+.note.callout {
+    border-top:none;
+}
+
+sup {
+    font-weight: 900;
 }
