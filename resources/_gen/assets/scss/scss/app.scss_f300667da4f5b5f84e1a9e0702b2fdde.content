@@ -5986,7 +5986,11 @@ p a {
   width: 100%;
   margin: 0;
   font-size: 1.5rem;
-  font-weight: bold; }
+  font-weight: bold;
+  text-align: right; }
+
+.button.headnote {
+  text-align: left; }
 
 .button:hover {
   background-color: #fdaa3f; }
