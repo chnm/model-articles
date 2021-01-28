@@ -360,14 +360,8 @@ the other favored the engagement of the inhabitants of colonial São
 Paulo with this perceived boundless frontier as well as shaped their
 patterns of mobility.
 
-![Figure 1](/img/image1.png)
-*Figure 1*. Location of Portuguese towns (*vilas*) and cities
-(*cidades*) in South America. Several smaller settlements (mining camps,
-parishes, chapels, ranches, outposts, mining fields, etc.) existed
-alongside these cities and towns and sometimes several miles away from
-any major settlement. Data from Tiago Gil et al., "Vilas e Cidades,"
-*Atlas Digital da América Portuguesa*. Brasilia: LHS/UnB, 2017.
-http://lhs.unb.br/atlas. Accessed January 4, 2017.
+{{< figure src="/img/image1.png" title="Figure 1" alt="Map of Portuguese towns in South America" caption="Location of Portuguese towns (*vilas*) and cities (*cidades*) in South America. Several smaller settlements (mining camps, parishes, chapels, ranches, outposts, mining fields, etc.) existed alongside these cities and towns and sometimes several miles away from any major settlement. Data from Tiago Gil et al., \"Vilas e Cidades,\" *Atlas Digital da América Portuguesa*. Brasilia: LHS/UnB, 2017. http://lhs.unb.br/atlas. Accessed January 4, 2017." >}}
+
 
 {{% notation title="Figure 1" %}}
 This visualization gives a brief overview of the process of territorial expansion of the Portuguese colonization in Brazil. Because I used a comprehensive dataset of towns and cities, it included many places that weren’t part of my narrative. They could mislead the reader, though. For example, what appears to be the most dynamic area of expansion – the string-like network of new towns along the Amazon river in the second half of the 18th century – isn’t centrally related to the process I’m describing. (For an excellent analysis of this subject, see Heather Roller’s Amazonian Routes.) Instead of arbitrarily select points that would demonstrate my argument, I indicated in the captions that aspects I wanted to emphasize in the visualizations and then discuss them in the text. This is becoming standard practice in DH articles, although many readers still just skim through the images and captions.
@@ -422,45 +416,11 @@ towns inland (and only three along the coast.) They remained relatively
 small, as the creation of new settlements meant a demographic decrease
 in older towns but allowed the empire to extend itself to a large area
 in the interior even with meager population growth.[^17]
-<div class="grid-x grid-padding-x medium-up-2">
 
-<div class="cell">
-
-![](/img/image2.png)
-
-</div>
-<div class="cell">
-
-![](/img/image3.png)
-
-</div>
-
-<div class="cell">
-
-![](/img/image4.png)
-
-</div>
-
-<div class="cell">
-
-![](/img/image5.png)
-
-</div>
-
-</div>
+{{< figure src="/img/figure2.png" title="Figure 2" alt="Four maps of towns changing over time" caption="Towns created in the captaincy of São Vicente between 1550 and 1710. These maps reveal two expanding frontiers in the backlands. First, the towns of Parnaíba, Jundiaí, Itu, and Sorocaba followed the Tiete River westward, marking a vital route to access the central regions in South America. Second, colonists also populated the valley of the Paraíba River, creating the towns of Jacareí, Taubaté, Guaratinguetá, and Pindamonhagaba. In the second half of the 17^th^ century, this string-like network of towns pointed colonists to the Cataguazes region, around 100 miles towards the northeast. In these maps, only towns created in the timespan of the frame are labeled. Dark gray represents areas with hilly topography." >}}
 
 
-*Figure 2*. Towns created in the captaincy of São Vicente between 1550
-and 1710. These maps reveal two expanding frontiers in the backlands.
-First, the towns of Parnaíba, Jundiaí, Itu, and Sorocaba followed the
-Tiete River westward, marking a vital route to access the central
-regions in South America. Second, colonists also populated the valley of
-the Paraíba River, creating the towns of Jacareí, Taubaté,
-Guaratinguetá, and Pindamonhagaba. In the second half of the 17^th^
-century, this string-like network of towns pointed colonists to the
-Cataguazes region, around 100 miles towards the northeast. In these
-maps, only towns created in the timespan of the frame are labeled. Dark
-gray represents areas with hilly topography.
+
 
 Similarly, labor was also a product of the frontier, and its primary
 mechanism of production, slaving expeditions, also made the inhabitants
@@ -608,18 +568,7 @@ bound to other towns, such as fresh tracts of land, marriages
 established with outside residents increased the alliances and potential
 partnerships that a family could forge.[^26]
 
-![](/img/image6.png)
-
-*Figure 3*. Spatial trajectories of spouses in the second half of the
-17^th^ century, based on places of birth and marriage. Line thickness
-represents the number of people that made the journey between two towns
-and, therefore, the strength of the connections forged by families
-established in different locations. To avoid over-fragmentation of the
-data, nearby towns -- like those that appear in Figures 1 and 2 -- are
-grouped in micro-regions named after the most important town. Lines are
-"bundled" based on Anita Graser et al., "Untangling Origin-Destination
-Flows in Geographic Information Systems," *Information Visualization*
-18, no. 1 (January 2019): 153--7.
+{{< figure src="/img/image6.png" title="Figure 3" alt="Map showing movement of spouses" caption="Spatial trajectories of spouses in the second half of the 17^th^ century, based on places of birth and marriage. Line thickness represents the number of people that made the journey between two towns and, therefore, the strength of the connections forged by families established in different locations. To avoid over-fragmentation of the data, nearby towns -- like those that appear in Figures 1 and 2 -- are grouped in micro-regions named after the most important town. Lines are \"bundled\" based on Anita Graser et al., \"Untangling Origin-Destination Flows in Geographic Information Systems,\" *Information Visualization* 18, no. 1 (January 2019): 153--7." >}}
 
 Genealogical data for the second half of the 17^th^ century illustrates
 this strategy of expanding the radius of the spousal search. Figure 3
@@ -918,12 +867,7 @@ settlements also began to send spouses to the extreme south of
 Portuguese America, in the territory of Rio de Grande de São Pedro, a
 major livestock supplier for the rest of the colony.[^45]
 
-![](/img/image7.png)
-*Figure 4*. Spatial trajectories of spouses in the first half of the
-18^th^ century (1700-1750), based on places of birth and marriage
-extracted from genealogical records. The interwoven space of the
-highlands of São Paulo in the 17^th^ century acquired a broader
-geographic extent in the first half of the 18^th^ century.
+{{< figure src="/img/image7.png" title="Figure 4" alt="Map showing movement of spouses" caption="Spatial trajectories of spouses in the first half of the 18^th^ century (1700-1750), based on places of birth and marriage extracted from genealogical records. The interwoven space of the highlands of São Paulo in the 17^th^ century acquired a broader geographic extent in the first half of the 18^th^ century." >}}
 
 {{% notation title="Figure 4" %}}
 Digital historians and humanists claim that visualizations make arguments. If I were to choose a visualization that best encapsulates my argument, it would be this one. It gives the scale of the movement undertaken by the inhabitants of São Paulo and demonstrates, through the thickness of the lines, how kinship connected different locations. The overall impression I tried to make is a space that is connected and made cohesive through family ties.
@@ -995,17 +939,7 @@ regions that had been associated with their families even before they
 were born and where they had cultivated, despite being away for many
 years, strong social, political, and economic connections.
 
-![](/img/image8.png)
-
-*Figure 5*. Spatial trajectories of spouses in the second half of the
-18^th^ century (1750-1800), based on places of birth and marriage listed
-in the genealogical records. Although the mobility of spouses kept the
-same geographic extent, the proportion of long-distance trajectories
-decreased during the period, favoring short-distance mobility.
-Connections between urban centers in São Paulo with Mato Grosso and
-Goiás reveal a large number of "returnees" -- people that were born in
-the mining areas but returned to their parents' hometowns to find
-spouses.
+{{< figure src="/img/image8.png" title="Figure 5" alt="Map showing movement of spouses" caption="Spatial trajectories of spouses in the second half of the 18^th^ century (1750-1800), based on places of birth and marriage listed in the genealogical records. Although the mobility of spouses kept the same geographic extent, the proportion of long-distance trajectories decreased during the period, favoring short-distance mobility. Connections between urban centers in São Paulo with Mato Grosso and Goiás reveal a large number of \"returnees\" -- people that were born in the mining areas but returned to their parents' hometowns to find spouses." >}}
 
 The sparseness of the dataset does not allow an appraisal of the scale
 of the flux of returnees. However, cases of two-way, multi-generational

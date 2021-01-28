@@ -6016,3 +6016,14 @@ blockquote {
 
 sup {
   font-weight: 900; }
+
+figcaption h4 {
+  display: inline;
+  font-weight: bold;
+  text-decoration: underline; }
+
+figcaption p {
+  display: inline; }
+  figcaption p:before {
+    content: " ";
+    white-space: pre; }
