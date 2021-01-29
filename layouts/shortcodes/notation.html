@@ -1,6 +1,6 @@
 {{$noteTitle := .Get "title"}}
 {{$shortNoteTitle := replaceRE "(\\s)" "" $noteTitle}}
 <div class="button dropdown" data-toggle="{{ $shortNoteTitle }}">{{ $noteTitle }}</div>
-<div class="callout note primary is-hidden" id="{{ $shortNoteTitle }}" data-toggler=".is-hidden">
+<div class="callout note primary" id="{{ $shortNoteTitle }}" data-toggler=".is-hidden">
 {{.Inner}}
 </div>
