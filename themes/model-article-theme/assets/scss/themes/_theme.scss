@@ -22,7 +22,7 @@ strong {
 }
 
 p {
-    margin-bottom: $paragraph-margin-bottom;
+    margin-top: $paragraph-margin-bottom;
 }
 
 a {
@@ -306,7 +306,7 @@ blockquote {
     border-top:none;
 }
 
-sup {
+sup a {
     font-weight: 900;
 }
 
