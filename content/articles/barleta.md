@@ -1,8 +1,8 @@
 ---
 title: "Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800"
 weight: 1
-subtitle: "An Example of a Subtitle"
-doi: http://thelinktothearticle
+subtitle:
+doi: http://thelinktothisarticlehere
 author: 
 - name: Leonardo Barleta
   affiliation: A University of Note
@@ -26,8 +26,6 @@ A headnote.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus 
 Quisque placerat urna vitae nulla efficitur, sit amet semper nisl tincidunt. Sed mattis in justo at suscipit. Aenean egestas lacinia dui, in semper libero posuere id. Phasellus eu eros luctus, vestibulum massa eget, fermentum sapien. Donec gravida sapien gravida lectus ultrices sodales. Vestibulum vitae ipsum aliquam tellus egestas mollis. Fusce sit amet luctus urna, eget semper mauris. In varius ante arcu, quis finibus risus tristique sit amet. Nullam nec posuere magna. Aliquam nec nunc hendrerit, commodo purus quis, lacinia leo. Proin convallis tristique placerat. Praesent porta orci mi, in accumsan sem suscipit at. In imperdiet turpis sapien, id mollis turpis vestibulum et. Suspendisse potenti. Duis sollicitudin varius est, nec consequat felis fringilla a. Phasellus dignissim fringilla leo sed porttitor.
 
 Aliquam pellentesque, felis nec viverra iaculis, mauris odio cursus nisi, et euismod quam velit at augue. Donec dignissim bibendum varius. Cras posuere nisl vel tincidunt volutpat. Duis non condimentum neque. Fusce a accumsan lorem. Mauris sit amet quam non eros interdum egestas. Morbi a est in urna placerat vehicula vitae id arcu. Pellentesque porta, dui in porttitor vestibulum, tortor libero convallis lacus, et vehicula nunc elit venenatis arcu. Morbi mi sem, maximus non fringilla sit amet, malesuada in neque. Cras imperdiet elementum blandit. Sed aliquet gravida commodo. Nam lobortis eget odio vitae fringilla. Donec mollis pretium leo in iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-
-Scroll down to review the annotations.
 {{% /headnote %}}
 
 On April 22, 1715, the marriage of Maria de Arruda Leite and João

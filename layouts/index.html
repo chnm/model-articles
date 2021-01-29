@@ -7,7 +7,7 @@
             {{ range $pages.GroupBy "Weight" }}
             {{ range .Pages.ByTitle }}
             <div class="article-list">
-            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <h3><a href="{{ .Permalink }}">{{ .Title }} {{ .Params.subtitle }}</a></h3>
             {{ range .Params.citation }}
             <span class="meta">{{ .author }} | {{ .journal }}</span>
             {{ end }}
