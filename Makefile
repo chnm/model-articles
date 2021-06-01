@@ -2,6 +2,11 @@ preview :
 	@echo "Serving the preview site ..."
 	hugo serve --buildDrafts --buildFuture --disableFastRender 
 
+# Preview on Windows
+windows :
+	@echo "Serving the preview site ..."
+	./hugo serve --buildDrafts --buildFuture --disableFastRender 
+
 deploy :
 	@echo "\nDeploying the site with rsync ..."
 	rsync --delete --itemize-changes --omit-dir-times \
