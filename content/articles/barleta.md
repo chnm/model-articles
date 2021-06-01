@@ -5,8 +5,8 @@ subtitle:
 doi: http://thelinktothisarticlehere
 author: 
 - name: Leonardo Barleta
-  affiliation: A University of Note
-  email: someone@somewhere.com
+  affiliation: Stanford University
+  email: lbarleta@stanford.edu
 citation:
 - author: Barleta, Leonardo
   title: "Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800"
