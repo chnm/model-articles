@@ -21,7 +21,10 @@ citation:
 
 {{% headnote title="Headnote" %}}
 
-Placeholder text
+This article is a part of a broader research project that examines the interiorization of the Portuguese colonization in Brazil during the seventeenth and eighteenth centuries. This process is usually studied from a regional perspective, in which scholars discuss how mobility and frontier resources shaped local communities, or through ideas of discovery, exploration, and pioneering that emphasize the agency of particular individuals or specific events. Both interpretations, however, didn’t account for a defining characteristic of this process that intrigued me: the resulting spatial distribution of settlements was highly dispersed and discontinuous. This fact raises a series of questions (some of them very naive) that go unanswered in the historiography. (For example, how, in remote mining camps and nascent settlements, did a person acquire goods that were not produced locally? Was the mere existence of gold enough to explain the entire process? Also, given the limited geographic knowledge and absence of maps and regular infrastructure, how did a person get there in the first place?) My research shifted the discussion to what were the mechanisms that linked and allowed exchanges between distant settlements and how they were integrated into the Portuguese empire.  
+
+Besides leaving these questions open, scholars that studied this process also used (in very different ways) extensively genealogical writings, particularly those that focused on colonial São Paulo. In this region, recordings of family lineages have been part of the historiographical tradition since the eighteenth century. Since then, three major compilations, which list the names, family relationships, and other information of thousands of Luso-Brazilians colonists that lived in São Paulo, were published and are still used by historians. Although many records contain evidence of the spatial practice of these historical actors, they are mainly used in an anecdotal fashion. In contrast, digital methods enabled me to revisit these well-known materials and look for broader patterns that only intuitively gathered in close reading. 
+
 
 {{% /headnote %}}
 
@@ -199,7 +202,7 @@ For these settlers, the backlands were not an undistinguished interior
 suggest -- but a set of specific locations traveled by their relatives
 for generations.
 
-{{% notation title="On Digital Methods" %}}
+{{% notation title="Digital Methods" %}}
 
 This article relies heavily on what has been generically described as “digital methods.” Although the term itself isn’t very descriptive, it serves to indicate that the central evidence discussed in the text was systematically produced, analyzed, and represented using computational tools. The research was a multi-step process and required a combination of different tools and techniques. In the process of creating the dataset, I used optical character recognition (OCR) to generate raw data, custom-written Python code to parse and extract information, a front-end web interface for manual revision, and a relational database (MySQL) to organize and store the data. The database format allowed different types of queries, from browsing records of the family of an individual to quantitative analysis, which were essential for writing this article. Lastly, GIS mapping was also crucial to analyze and create visualizations that support the argument of the paper.
 
