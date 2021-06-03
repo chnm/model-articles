@@ -227,7 +227,7 @@ itineraries.
 
 {{% /notation %}}
 
-{{< figure src="/img/Midura1a.png" title="Fig 1a:" alt="Page from Ottavio Codogno's Nuovo intinerario" caption="Page from Ottavio Codogno’s Nuovo itinerario, with manuscript reader additions. Journeys are organized by headings, generally consisting of an origin and a destination (see “Poste da Augusta a Colonia”, or “Posts from Augsburg to Cologne.”) The list beneath provides all intermediary postal waystations with their respective distance in posts (“p.I”)." >}}
+{{< figure src="/img/Midura1a.png" title="Fig. 1a:" alt="Page from Ottavio Codogno's Nuovo intinerario" caption="Page from Ottavio Codogno’s Nuovo itinerario, with manuscript reader additions. Journeys are organized by headings, generally consisting of an origin and a destination (see “Poste da Augusta a Colonia”, or “Posts from Augsburg to Cologne.”) The list beneath provides all intermediary postal waystations with their respective distance in posts (“p.I”)." >}}
 
 {{% notation title="Dropped Figure" %}}
 
@@ -243,16 +243,9 @@ in any case.
 
 {{% /notation %}}
 
-![](media/image2.jpg){width="5.02344050743657in"
-height="4.122569991251094in"}
+{{< figure src="/img/Midura1b.png" title="Fig. 1b:" alt="Map of edges indicated in Nuovo itinerario" caption="Map of all edges indicated by the headings of Nuovo itinerario. The map overlays the network approach on geographic space, drawing a single direct connection between origin, intermediaries as listed in the route heading, and destination. The page shown in 1a appears as a single link between Augsburg and Cologne." >}}
 
-**Fig 1b: Map of all edges indicated by the headings of *Nuovo
-itinerario*. The map overlays the network approach on geographic space,
-drawing a single direct connection between origin, intermediaries as
-listed in the route heading, and destination. The page shown in 1a
-appears as a single link between Augsburg and Cologne.**
-
-**Building Data**:
+{{% notation title= "Building Data" %}}
 
 I compiled the database over the course of the past four years,
 hand-entering itineraries as I came across them during my dissertation
@@ -261,6 +254,8 @@ Library have been particularly valuable. The database itself is a set of
 relational tables which I primarily access through Google Sheets. Tab
 and Comma Separated Data (.tsv or .csv formats) allow for smooth
 movement between different visualization programs.
+
+{{% /notation %}}
 
 Based on more than 70 published itineraries, the Early Modern Digital
 Itineraries database consists of close to 3,500 unique routes connecting
@@ -295,7 +290,7 @@ building of new infrastructures, the professionalization of cosmopolitan
 knowledge brokers in many guises, and the wildfire growth of the
 printing press and ephemeral reference literature.[^21]
 
-**Data Structure:**
+{{% notation title="Data Structure"%}}
 
 The dataset consists of a series of relational tables: an edition, a
 location, an overview, a route, and an edge table. The edition table
@@ -319,9 +314,11 @@ consideration. I have provided an image below that includes the
 interpretation of the page shown in figure 1a in the Overview, Route,
 and Edge tables (shown in Google Sheets).
 
-![](media/image3.png){width="4.875in" height="1.4583333333333333in"}
+{{< figure src="/img/Midura-Data-Structure1.png" alt="Data in Google Sheet" >}}
 
-![](media/image4.png){width="4.875in" height="1.4583333333333333in"}
+{{< figure src="/img/Midura-Data-Structure2.png" alt="Data in Google Sheet" >}}
+
+{{% /notation %}}
 
 While the term "itinerary" was used by a variety of books, including
 many prose accounts, the chosen examples follow the established formula
@@ -389,7 +386,7 @@ utilized by travelers and couriers. A similar absence holds true across
 the Baltic, despite significant advances in Swedish postal
 infrastructure.[^30]
 
-**Comparing Itineraries**:
+{{% notation title= "Comparing Itineraries" %}}
 
 The best way of finding commonalities among the itineraries was to
 construct an adjacency table (shown in Google Sheets) where each common
@@ -402,7 +399,9 @@ but it largely communicated information that could otherwise be
 reasonably inferred, such as the similarity between editions of the same
 title and of itinerary creators of the same nationality (produced in R).
 
-![](media/image5.png){width="6.5in" height="2.8472222222222223in"}
+{{< figure src="/img/Midura-Comparing-Itineraries.png" alt="Itineraries adjacecy table in Google Sheets" >}}
+
+{{% /notation %}}
 
 Distant reading of the routes highlights the relationships between
 itineraries, indicating which books had disproportionate, transnational
@@ -420,11 +419,11 @@ Naples by the road of Valmonte and the Algiere woods" --- which was
 published by 5 authors in 21 editions --- makes coincidence
 unlikely*.*[^33]
 
-![](media/image6.jpg){width="6.5in" height="5.197916666666667in"}
+{{< figure src="/img/Midura-Figure2a.png" title="Fig. 2a:" alt="Map of itinerary publication locations." caption="Map and timeline indicating the publication place and date of included itineraries." >}}
 
-**[Scope & Representation:]{.ul}**
+{{% notation title= "Scope & Representation" %}}
 
-[The bibliography and database contain several itineraries published
+The bibliography and database contain several itineraries published
 after 1720, however they serve primarily as a point of contrast to the
 earlier itineraries. As the histogram demonstrates, the database
 currently is most comprehensive with regard to the seventeenth century.
@@ -435,9 +434,9 @@ identified for each location and year, as well as the number included
 within the dataset. While I generally added any itinerary I was able to
 consult in person or through a digitized version, I had made a special
 effort to represent the temporal and geographic breadth of the
-genre.]{.ul}
+genre.
 
-[I selected the editions that are referred to most frequently in the
+I selected the editions that are referred to most frequently in the
 article, and that demonstrate a variety of republication proportions.
 The relatively individual route compositions of Charles Estienne (CE)
 and Giovanni Maria Vidari (GV) contrast to that of Theodore Mayenne
@@ -446,18 +445,12 @@ du Verdier (GS). The style of notation by initials and publication date
 (occasionally followed by a letter to indicate one of multiple editions
 in the same year, as in GH1598A) is a unique identifier (the Edition ID)
 that allows for easily linking information across the relational tables
-of the database.]{.ul}
+of the database.
 
-**Fig 2a: Map and timeline indicating the publication place and date of
-included itineraries.**
+{{% /notation %}}
 
-![A screenshot of a cell phone Description automatically
-generated](media/image7.png){width="6.5in" height="5.293055555555555in"}
 
-**Fig 2b: Bar chart of selection of itineraries demonstrating the number
-of routes as well as the proportion of routes appearing in an itinerary
-published by another author. Edition ID's represent the initials and
-publication date of a given itinerary.**
+{{< figure src="/img/Midura-Figure2b.png" title="Fig. 2b:" alt="Bar chart of Number and Proportion of Common Routes by Edition" caption="Bar chart of selection of itineraries demonstrating the number of routes as well as the proportion of routes appearing in an itinerary published by another author. Edition ID’s represent the initials and publication date of a given itinerary." >}}
 
 The digital approach also brings to light the geographic scope of
 collaboration. For example, while British renegade Richard Verstegan
@@ -481,12 +474,14 @@ the documentation of common infrastructure.[^38] Close reading of the
 common routes provides further verification, with many of them
 consisting of the same intermediary stops.
 
-**Remembering the Sources:**
+{{% notation title="Remembering the Sources" %}}
 
 While the route tables themselves can offer further evidence as to
 audiences, these questions are best supported by a combination of close
 and distant reading as well as integrating the paratextual material of
 the itineraries (such as the author's letter to the reader).
+
+{{% /notation %}}
 
 We see from this common genome the manner in which itinerary creators
 read across existing works. In some cases, the process of incorporation
@@ -506,11 +501,13 @@ of personal interest or professional imperative. Many occupations
 ---including but not limited to bookselling---required international
 correspondence and knowledge of distribution networks.
 
-**Terminology**:
+{{% notation title="Terminology" %}}
 
 I often use the term itinerary creator in the article to indicate both
 the author and publisher. Both frequently intervened with regard to the
 route tables, but it is not always clear who had the primary agency.
+
+{{% /notation %}}
 
 Yet the evidence that authors frequently republished routes with few
 changes also provides an important caveat for the use of the itinerary
@@ -545,7 +542,7 @@ routes in the intervening periods. They may also have sought to market
 future editions to a more international clientele based on the success
 of the first editions.[^44]
 
-**Choices in Data Construction**:
+{{% notation title="Choices in Data Construction" %}}
 
 I constructed the database with an aim to preserve as much of the
 original meaning as possible, while avoiding reading in additional
@@ -557,6 +554,8 @@ never) indicated in the route headings, and so deduplication and
 disambiguation would have required substantial intervention. My choice
 of filters reflect my research questions, however the data remains
 accessible for framing new questions in future iterations.
+
+{{% /notation %}}
 
 The form of the early modern itinerary lends itself well to the
 construction of a network model of cities linked by these "imagined
@@ -597,7 +596,7 @@ of the cities from their network neighbors.[^48] Instead of spatial
 positioning, this model privileges the number of connections drawn by
 the itinerary creators as a proxy for closeness.
 
-**Visualization Platforms:**
+{{% notation title="Visualization Platforms" %}}
 
 This network visualization was produced within Gephi using the Geolayout
 plugin (<https://gephi.wordpress.com/tag/geolayout/>). While possible to
@@ -609,11 +608,11 @@ Italy. I chose a subset of cities to label across the visualizations
 based on which show interesting change over time and help convey a sense
 of geography, even in the non-spatial network layouts.
 
-![](media/image8.png){width="7.311005030621172in"
-height="4.0442979002624675in"}**Fig. 3a: A spatial network of all edges
-as published by multiple authors, colored by modern nationality.**
+{{% /notation %}}
 
-**Refining Visualizations**:
+{{< figure src="/img/Midura-Figure3a.png" title="Fig. 3a:" alt="A spatial network of all edges as published by multiple authors" caption="A spatial network of all edges as published by multiple authors, colored by modern nationality." >}}
+
+{{% notation title="Refining Visualizations" %}}
 
 The use of a subsection here and a highlighting box in figure 6c were
 both suggested in the course of workshopping this paper as means of
@@ -625,25 +624,19 @@ overcome these shortcomings. See Scott Weingart, "Demystifing Networks,"
 [scottbott.net](http://scottbott.net), Dec 14 2011, at
 <http://www.scottbot.net/HIAL/index.html@p=6279.html>.
 
-![](media/image9.png){width="4.092286745406824in"
-height="3.8148589238845143in"}![](media/image10.png){width="4.050300743657043in"
-height="3.300246062992126in"}
+{{% /notation %}}
 
-**Fig. 3b & 3c: A Fruchterman-Rheingold force-directed network layout. A
-spatial relationship still emerges by virtue of the strong connections
-within geographic regions, but major cities form the central axis,
-despite their relative distances. Cities featured in a high proportion
-of domestic to international routes are pushed to the margins of the
-network despite their high degree; see, for example, Cologne, Naples,
-and Valladolid. On the right (3c), filtering the same layout by degree
-\>= 10 reveals the international core of the network.**
+{{< figure src="/img/Midura-Figure3b.png" title="" alt="A forced-directed network layout" >}} {{< figure src="/img/Midura-Figure3c.png" title="Fig. 3b & 3c:" alt="A filtered version of the force directed layout" caption="A Fruchterman-Rheingold force-directed network layout. A spatial relationship still emerges by virtue of the strong connections within geographic regions, but major cities form the central axis, despite their relative distances. Cities featured in a high proportion of domestic to international routes are pushed to the margins of the network despite their high degree; see, for example, Cologne, Naples, and Valladolid. On the right (3c), filtering the same layout by degree >= 10 reveals the international core of the network." >}}
 
-**Calculating Network Metrics:**
+
+{{% notation title="Calculating Network Metrics" %}}
 
 It is possible to calculate these network metrics using either Gephi or
 relevant packages in the R or Python programming languages. The easiest
 web platform tool is John Ladd, "Network Navigator," Aug 30 2019, at
 <https://network-navigator.library.cmu.edu/>.
+
+{{% /notation %}}
 
 Both visualizations highlight hubs, from a complex of Northern Italian
 cities, to the political capitals of Madrid, Paris and Vienna. Other
@@ -682,7 +675,7 @@ indicate that merchant and pilgrim routes played a key structuring role
 in the worldview referenced, reprinted and employed by postal agents
 among other itinerary producers.
 
-**Reading the Metrics:**
+{{% notation title="Reading the Metrics" %}}
 
 This method has been primarily employed by Ruth and Sebastian Ahnert in
 their consideration of Tudor networks. I picked up this approach from
@@ -691,6 +684,8 @@ is now well represented in a new volume (available as an open access
 Ebook): Ruth Ahnert, Sebastian Ahnert, Catherine Nicole Coleman, Scott
 B. Weingart, *The Network Turn: Changing Perspectives in the Humanities*
 (Cambridge: 2020).
+
+{{% /notation %}}
 
 Betweenness centrality provides a metric of the likelihood of the
 shortest paths within the network to pass through the given point.[^53]
@@ -706,7 +701,7 @@ Loire regions (Amboise, Blois, Orléans), and Nouvelle-Aquitaine
 (Bayonne, Bordeaux, Poitiers). These are joined by the Spanish region of
 Castille and León (Valladolid).
 
-**Generative Exploration:**
+{{% notation title="Generative Exploration" %}}
 
 At the outset of this project, I knew very little about the Camino de
 Santiago, outside of a brief encounter during my time at the Archivo
@@ -716,6 +711,8 @@ to demonstrate how a digital methodology reveals news insight by
 comparison to traditional methods. In this and many other cases, the
 digital surfaces new research directions, which can be further
 reinforced through traditional evidence, such as prose excerpts.
+
+{{% /notation %}}
 
 The relatively high centrality of the Nouvelle-Aquitaine, Loire, and
 Castille and León regions can all be associated with the more than
@@ -744,7 +741,7 @@ channeling of traffic to and from its northern ports: early signs of a
 trend that would strengthen with the meteoric rise of London in the
 eighteenth century.
 
-**Selective Mapping:**
+{{% notation title="Selective Mapping" %}}
 
 Representing this data as a map instead of a network or table guides
 analysis back in the direction of real journeys, as well as
@@ -754,13 +751,13 @@ exported, and then reimported into Tableau for these visualizations. The
 plain grey backgrounds function as a minimalist background without
 adding anachronistic political divisions. While I experimented with maps
 that included more terrain elements, I found these to be more useful for
-the research rather than presentation stage of visualization.
+the research rather than the presentation stage of visualization.
 
-![](media/image11.jpg){width="5.820371828521435in"
-height="3.162402668416448in"}
+{{% /notation %}}
 
-![](media/image12.jpg){width="4.860985345581803in"
-height="3.042976815398075in"}
+{{< figure src="/img/Midura-Figure4a.png" title="" alt="Map route of locations by betweenness centrality rank." >}}
+{{< figure src="/img/Midura-Figure4b.png" title="Fig. 4a & 4b:" alt="Map of points along the Path of St. James." caption="Map of route locations colored by betweenness centrality rank (darkest gradient being the highest rank) and map of points along the historic Path of St. James. High betweenness centrality indicates the likelihood of connections in the network to pass through a given node, demonstrating that the path of St. James continued to play a uniquely important role connecting Spain and France." >}}
+
 
 **Fig. 4a & 4b: Map of route locations colored by betweenness centrality
 rank (darkest gradient being the highest rank) and map of points along
@@ -787,11 +784,9 @@ especially highly, despite the relative difficulty of the passes, only
 made tenable with the construction of the *Teufelsbrücke* ("Devil's
 Bridge") over the Schöllenen Gorge in the thirteenth century.[^57]
 
-![](media/image13.jpg){width="6.755705380577428in"
-height="3.6706003937007874in"}
+{{< figure src="/img/Midura-Figure5a.png" title="" alt="Map route of locations by eigenvector centrality rank." >}}
+{{< figure src="/img/Midura-Figure5b.png" title="Fig. 5a & 5b:" alt="Map of the historic Roman Way." caption="Map of route locations colored by eigenvector centrality rank (darkest being the highest rank) and map of the historic Roman Way (Romweg) as depicted by Erhard Etzlaub’s Romweg map (Nürnberg: c. 1500). High eigenvector centrality indicates the connectivity of nodes to which a node is itself connected. Transalpine commerce continued to connect the most influential cities by way of a limited number of Alpine passes." >}}
 
-![](media/image14.jpg){width="6.310294181977253in"
-height="3.4044028871391077in"}
 
 **Fig. 5a & 5b: Map of route locations colored by eigenvector centrality
 rank (darkest being the highest rank) and map of the historic Roman Way
@@ -871,12 +866,14 @@ audience. Historians of news and communications have also shown how the
 mixture of oral, visual, scribal, and print modes could diffuse through
 a much wider swath of society.[^67]
 
-**Stepping Back**:
+{{% notation title="Stepping Back" %}}
 
 The initial results from data analysis took me back to secondary sources
 as well as primary sources, as I ascertained whether researchers of
 other media (using digital and traditional methods) had seen similar
 results.
+
+{{% /notation %}}
 
 In most cases, the paratextual materials of the itineraries called
 attention to their inclusion of pilgrimage routes; the structuring
@@ -899,11 +896,13 @@ modern newsletter production, indicating Spanish dependence on
 intermediaries, and inferring that a poorly integrated postal network
 might be the cause.[^68]
 
-**Internal Contradictions**:
+{{% notation title="Internal Contradictions" %}}
 
 Distant reading route tables and close reading paratextual material does
 not always provide a harmonious picture. This case was one of important
 contradictions, revealing a fundamental tension in the genre.
+
+{{% /notation %}}
 
 The itineraries offer a very different spatial organization than a
 traditional hub-periphery model of empire. The majority of authors and
@@ -953,7 +952,7 @@ the conflicted views of itinerary creators, the network model allows us
 to visualize and explore the push-pull forces at work in shaping
 conceived space.
 
-**Tailoring the Visual:**
+{{% notation title="Tailoring the Visual" %}}
 
 Original iterations of this article juxtaposed spatial/non-spatial,
 static/dynamic models much more strongly, making the case for a
@@ -962,7 +961,9 @@ spectrum of interpretations and visualizations, matching the approach to
 the question being asked in each section. No one visualization method is
 wrong, but can be unsuitable to answer a given research question.
 
-**[Network Dynamism]{.ul}**
+{{% /notation %}}
+
+**Network Dynamism**
 
 Based on the static networks alone, one might wrongly conclude that
 little changed in patterns of European travel and exchange from the
@@ -972,7 +973,7 @@ pilgrimage routes continued to be republished into the seventeenth
 century, they played a diminishing structural role in the overall
 conceptual network.
 
-**Animation**:
+{{% notation title="Animation" %}}
 
 The depiction of dynamic networks remains a challenging problem based on
 the tendency of animated visualization to overwhelm, rather than inform.
@@ -980,6 +981,8 @@ Working with the mentioned R packages allowed for moving between static
 and dynamic visualizations. See Alex Brey, \"Temporal Network Analysis
 with R,\" The Programming Historian 7 (2018), at
 <https://programminghistorian.org/en/lessons/temporal-network-analysis-with-r>
+
+{{% /notation %}}
 
 In order to consider the corpus as an evolving body, I introduced a
 temporal element in the form of the published "lives" of routes and
@@ -1032,7 +1035,7 @@ a lull. In fact, it was not until the final period of 1680-1740 that new
 titles appeared, including Giuseppe Miselli's *Burattino veridico*
 (1682) and Giovan Vidari's *Viaggio in pratica* (1718).[^77]
 
-**Constructing the Model:**
+{{% notation title="Constructing the Model" %}}
 
 While these assumptions and filters will rightfully invite questions and
 even pushback, they make explicit several assumptions that are often
@@ -1040,6 +1043,8 @@ implicit, such as the continued relevance of republished material.
 Similarly, while the analysis does exclude information, it includes a
 great deal more information than would be possible in a traditional
 selection of case-studies
+
+{{% /notation %}}
 
 The networkDynamic package in R aids in the creation of a dynamic
 network model, and the extraction of many static networks to represent
@@ -1059,15 +1064,16 @@ the impact of highly anomalous itineraries and routes, in keeping with
 the goal of illustrating the logic common to many authors, as well as
 for simple legibility of visualization.
 
-**Time-Slices**:
+{{% notation title=Time-Slices" %}}
 
 The choice of timeslices is always a matter of balancing subjective and
 objective divisions. In this case, the unit of each timeslice (35 years)
 is uniform, but the dates are chosen with an eye to contemporary
 political events and traditional historiographical periodization.
 
-![](media/image15.png){width="6.151193132108486in"
-height="1.0446194225721785in"}
+{{% /notation %}}
+
+{{< figure src="/img/Midura-Table1.png" title="Table 1:" alt="A table of network properties on given timeslices." caption="A table representing the network properties at any given timeslice. The density refers to the ratio of connections present in a network to total possible connections (i.e. all nodes being connected to all others). Note that the overall trend is towards increasing density, although the mean degree peaks in the middle of the seventeenth century. The standardization of routes reduced the size and diversity of the route corpus." >}}
 
 **Table 1: A table representing the network properties at any given
 timeslice. The density refers to the ratio of connections present in a
@@ -1115,7 +1121,7 @@ existing literature, but also pushed it further in a few noteworthy
 routes, following new postal infrastructure across the Alps and the
 English Channel, but also Russia, southern Italy, and the New World.
 
-**Small Multiples**:
+{{% notation title="Small Multiples" %}}
 
 "Small multiples" allows for the representation of dynamism in a static
 form. I have kept the labeled cities and national group colorings
@@ -1125,23 +1131,11 @@ address a subset of cities in the article text, an interested reader
 will be able to follow cities such as Constantinople or Naples across
 the visualizations.
 
-![](media/image16.png){width="3.258254593175853in"
-height="3.021062992125984in"}
-![](media/image17.png){width="3.188371609798775in"
-height="3.025188101487314in"}
+{{% /notation %}}
 
-![](media/image18.png){width="3.6920330271216097in"
-height="3.3539687226596677in"}
-
-**Figures 6a, b, c: Network extracts dating from 1585, 1600 & 1635. The
-earliest route networks relied on a core of Madrid, Genoa, Milan and
-Lyon, reflecting the early influence of the postal itinerary subgenre.
-By 1600, the route corpus had become much more interwoven, with the
-structuring effect of the Spanish road becoming apparent. New locations
-such as London and Constantinople reflect the expanding scope of the
-itinerary genre. By 1635, the connections representing the path of St.
-James appear as a separate chain beneath the dense core, as indicated
-within the blue box.**
+{{< figure src="/img/Midura-Figure6a.png" title="" alt="Network extract from 1585." >}}
+{{< figure src="/img/Midura-Figure6b.png" title="" alt="Network extract from 1600" >}}
+{{< figure src="/img/Midura-Figure6c.png" title="Figures 6a, b, c:" alt="Network extract from 1635" caption="Network extracts dating from 1585, 1600 & 1635. The earliest route networks relied on a core of Madrid, Genoa, Milan and Lyon, reflecting the early influence of the postal itinerary subgenre. By 1600, the route corpus had become much more interwoven, with the structuring effect of the Spanish road becoming apparent. New locations such as London and Constantinople rNeeflect the expanding scope of the itinerary genre By 1635, the connections representing the path of St. James appear as a separate chain beneath the dense core, as indicated within the blue box." >}}
 
 By 1600, the core of the network had become more diverse, with
 international connections weaving together European space. Even prior to
@@ -1189,13 +1183,15 @@ primary organizing logics. The separation of the axis indicates how the
 connections --- once building blocks for other routes as well as the
 path --- remain as a genre trope rather than fundamental component.
 
-**New Insight:**
+{{% notation title="New Insight" %}}
 
 This was a result that I had not predicted upon beginning the project.
 While the digital method can occasionally be hidden by the following
 return to close reading, it is worth stating here that the initial
 surprise of the results took me down a new road of inquiry, particularly
 reconsidering the role of cartography.
+
+{{% /notation %}}
 
 The most dramatic shift in the network dates to the period of greatest
 edge dissolution, around 1680. The crowded transnational core, and
@@ -1213,17 +1209,8 @@ that authors published fewer routes in common with the past, and second,
 that authors published fewer routes in common with their contemporaries.
 In either case, we see a clear departure from prior practice.
 
-![](media/image19.png){width="4.175921916010498in"
-height="4.462679352580928in"}![](media/image20.png){width="4.385534776902887in"
-height="4.281117672790901in"}
-
-**Figures 6d and 6e: Network extracts from 1670 and 1680. The radical
-shift in structure illustrates the end or re-organization of several
-long-running titles. It demonstrates how new titles standardized the
-route corpus, likely due in part to the influence of new infrastructure
-and ideology.**
-
-**.**
+{{< figure src="/img/Midura-Figure6d.png" title="" alt="Network extract from 1670" >}}
+{{< figure src="/img/Midura-Figure6e.png" title="Figures 6d and 6e:" alt="Network extract from 1680" caption="The radical shift in structure illustrates the end or re-organization of several long-running titles. It demonstrates how new titles standardized the route corpus, likely due in part to the influence of new infrastructure and ideology." >}}
 
 The dynamic network demonstrates that after 1680, itinerary creators
 structured European space in fundamentally different ways than they had
@@ -1239,17 +1226,8 @@ network model- particularly given that several editions were published
 under the same titles as they had been for the past century, obscuring
 substantial alterations in content.
 
-![](media/image21.jpg){width="4.4851367016622925in"
-height="4.230521653543307in"}
-![](media/image22.jpg){width="4.279958442694663in"
-height="4.14739501312336in"}
-
-**Fig.7a & 7b: The two postal itineraries produced by Northern Italian
-postal officials encapsulate the difference in organization logic
-developed over time. Whereas Codogno's *Compendio delle poste* (1623)
-drew direct connections between major cities, Vidari's *Viaggio in
-prattica* (1720) followed along long, regularized roads. Note the new
-prominence of cities such as Frankfurt, London, and Leipzig.**
+{{< figure src="/img/Midura-Figure7a.png" title="" alt="Postal itinerary network graph" >}}
+{{< figure src="/img/Midura-Figure7b.png" title="Fig. 7a & 7b:" alt="Postal itinerary network graph" caption="The two postal itineraries produced by Northern Italian postal officials encapsulate the difference in organization logic developed over time. Whereas Codogno’s Compendio delle poste (1623) drew direct connections between major cities, Vidari’s Viaggio in prattica (1720) followed along long, regularized roads. Note the new prominence of cities such as Frankfurt, London, and Leipzig." >}}
 
 A comparison of the structure of Codogno's *Nuovo itinerario* (1608)
 with Giovanni Maria Vidari's *Viaggio in prattica* (1720) demonstrates
@@ -1317,20 +1295,16 @@ passed through the increasingly popular Calais.[^91] Leipzig was
 conspicuously absent from Codogno's itineraries, while it featured quite
 prominently in Vidari's *Viaggio* (1720) and others.[^92]
 
-**Network Layouts**:
+{{% notation title="Network Layouts" %}}
 
 These graphs are produced in R, see Brey, \"Temporal Network Analysis
 with R." While visual network layouts always have a random element, the
 graphs represent the underlying quantitative changes.
 
-![](media/image23.png){width="3.6494805336832896in"
-height="4.722712160979878in"}![](media/image24.png){width="3.6183300524934383in"
-height="4.682402668416448in"}
+{{% /notation %}}
 
-**Fig.8a and 8b: Graphs of edge formation and dissolution in the
-networks over time. While the 1560s and 1600s saw the addition of many
-new relations between cities, the 1680s saw the disappearance of many of
-the same from the route corpus.**
+{{< figure src="/img/Midura-Figure8a.png" title="" alt="Graph of edge formation over time" >}}
+{{< figure src="/img/Midura-Figure8b.png" title="Fig. 8a & 8b:" alt="Graph of edge dissolution over time" caption="Graphs of edge formation and dissolution in the networks over time. While the 1560s and 1600s saw the addition of many new relations between cities, the 1680s saw the disappearance of many of the same from the route corpus." >}}
 
 In this way, structural shifts both reflected and impacted the fate of
 individual cities. By the beginning of the eighteenth century, few
@@ -1379,8 +1353,7 @@ line is betrayed in a copy held by Princeton library, where the former
 border at Salses has been roughly expunged and redrawn to the south of
 Perpignan.[^95]
 
-![](media/image25.jpg){width="5.490729440069991in"
-height="4.347742782152231in"}
+{{< figure src="/img/Midura-Figure9.png" title="Fig. 9" alt="Carte Geographique" caption="Nicolas Sanson’s Carte Geographique. The map charted postal routes, but only those within France’s borders." >}}
 
 **Fig. 9: Nicolas Sanson's *Carte Geographique*. The map charted postal
 routes, but only those within France's borders.**
