@@ -10,12 +10,12 @@ author:
 citation:
 - author: "Barleta, Leonardo"
   title: "Spatial Genealogoies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800"
-  journal: Journal Title
-  year: 
-  volume: 
-  issue: 
+  journal: Journal of Social History
+  year: 2021
+  volume: 54
+  issue: 4
   pages:
-  doi: http://doi.org/doi
+  doi: http://doi.org/10.1093/jsh/shab006
 
 ---
 
@@ -441,7 +441,7 @@ mountains that form the horizon."[^17] This stark contrast between an
 impeding topography and an inviting flatland favored the engagement of
 the inhabitants of colonial São Paulo with the interior. Nevertheless,
 this process relied on spatial practices adequate to the exploitation of
-the backlands. As an unknown set of environs, South America\'s interior
+the backlands. As an unknown set of environs, South America's interior
 posed challenges that were slowly overcome by the people in the fringes
 of the empire. By venturing the interior in search of land and labor
 throughout the 17^th^ century, Luso Brazilians living far from the

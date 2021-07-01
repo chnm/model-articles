@@ -10,12 +10,12 @@ author:
 citation:
 - author: Midura, Rachel
   title: "Itinerating Europe: Early Modern Spatiial Networks in Printed Itineraries, 1545-1700"
-  journal: Journal Title
-  year: 2020
-  volume: 12
-  issue: 3
+  journal: Journal of Social History
+  year: 2021
+  volume: 54
+  issue: 4
   pages:
-  doi: http://doi.org/doi
+  doi: http://doi.org/10.1093/jsh/shab011
 
 ---
 
@@ -1336,7 +1336,7 @@ Milan, Augsburg, and Lyon remained landlocked, while cities like
 Marseille, Livorno, and Genoa provided crucial links to a developing
 global network of trade and travel.
 
-**[Conclusion]{.ul}**
+## Conclusion 
 
 In 1632, Nicolas Sanson published *Carte Geographique des Postes qui
 traversent la France* with royal privilege, the first known printed
@@ -1495,7 +1495,7 @@ community.
     Connolly, "Imagined Pilgrimage in the Itinerary Maps of Matthew
     Paris," The Art Bulletin 81 4 (Dec. 1999): 598-622 ; John S. Lee,
     "The Functions and Fortunes of English Small Towns at the Close of
-    the Middle Ages: Evidence from John Leland\'s "Itinerary," Urban
+    the Middle Ages: Evidence from John Leland's "Itinerary," Urban
     History 37 1, (May 2010): 3-25. For an example of a New World
     itinerary see Jan Huygen's Itinerario, voyage of te schipvaert naer
     Oost ofte Portugaels Indien (Antwerp: 1596).
@@ -1594,27 +1594,27 @@ community.
     Hopkins University, the Centre for Editing Lives and Letters at the
     University College of London, Princeton University Library and the
     Andrew W. Mellon Foundation, at
-    [[https://archaeologyofreading.org/]{.ul}](https://archaeologyofreading.org/);
+    [https://archaeologyofreading.org/](https://archaeologyofreading.org/);
     Andrew Pettegree, et al., The Universal Short Title Catalogue, The
     University of St. Andrews at
-    [[https://www.ustc.ac.uk/]{.ul}](https://www.ustc.ac.uk/); The
+    [https://www.ustc.ac.uk/](https://www.ustc.ac.uk/); The
     Bibliotheque Bleue de Troyes by the Project for American and French
     Research on the Treasury of the French Language (ARTFL) at the
     University of Chicago and Collaborative Initiative for French and
     North American Libraries (CIFNAL) at
-    [<https://artfl-project-uchicago-edu.stanford.idm.oclc.org/bibliotheque-bleue>.]{.ul}
+    [<https://artfl-project-uchicago-edu.stanford.idm.oclc.org/bibliotheque-bleue>.]
 
 [^19]: Jim Tice, Erik Steiner, et al., The Nolli Map Website, University
     of Oregon, 2005-2019, at
-    [<http://nolli.uoregon.edu/default.asp>.]{.ul} Janelle Jenstad, et
+    [<http://nolli.uoregon.edu/default.asp>.] Janelle Jenstad, et
     al., The University of Victoria, The Map of Early Modern London
-    (MoEML) at [<https://mapoflondon.uvic.ca/>.]{.ul} See also Benedikt
+    (MoEML) at [<https://mapoflondon.uvic.ca/>.] See also Benedikt
     Budig, Extracting Spatial Information from Historical Maps:
     Algorithms and Interaction (Wurzburg: 2018).
 
 [^20]: Walter Scheidel and Elijah Meeks, "ORBIS: the Stanford Geospatial
     Network Model of the Roman World" Stanford University, 2012-2019, at
-    [<http://orbis.stanford.edu/>.]{.ul}
+    [<http://orbis.stanford.edu/>.]
 
 [^21]: On the professionalization of agents, see Douglas Biow, Doctors,
     Ambassadors, Secretaries (Chicago: 2002). On the explosion of
@@ -1910,9 +1910,9 @@ community.
     Moxham, ed.s, News Networks. With thanks to Yann Ryan for sharing
     his work on the Moderate Intelligencer. See Newspaper Windows,
     Wordpress.com, 2015-2017, accessed at
-    [<https://newspaperwindows.wordpress.com/> on 8/8/19]{.ul}
+    [<https://newspaperwindows.wordpress.com/> on 8/8/19]
 
-[^59]: Peter Hamish Wilson, The Thirty Years War: Europe\'s Tragedy
+[^59]: Peter Hamish Wilson, The Thirty Years War: Europe's Tragedy
     (Cambridge, Mass: 2011); Geoffrey Parker, The Thirty Years' War (New
     York: 1988). For a work that focuses on a lesser-known, but crucial
     Alpine arena of the Thirty Years War, see Randolph Head, Jenatsch's
@@ -2146,4 +2146,4 @@ community.
 
 [^97]: Oceanic Exchanges Project Team, 2017. Oceanic Exchanges: Tracing
     Global Information Networks in Historical Newspaper Repositories,
-    1840-1914, [[osf.io/wa94s]{.ul}](https://osf.io/wa94s).
+    1840-1914, [osf.io/wa94s](https://osf.io/wa94s).

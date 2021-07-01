@@ -5,20 +5,20 @@ subtitle: Data Mining Two Decades of Women’s History Abstracts
 doi: http://thelinktothisarticlehere
 author: 
 - name: Sharon Block
-  affiliation: A University of Note
-  email: someone@somewhere.com
+  affiliation: University of California, Irvine
+  email: sblock@uci.edu
 - name: David J. Newman
-  affiliation: Another University of Note
-  email: someoneelse@somewhere.com
+  affiliation: The University of British Columbia
+  email: david.newman@ubc.ca
 citation:
 - author: "Block, Sharon, and Newman, David J."
   title: "What, Where, When and Sometimes Why: Data Mining Two Decades of Women’s History Abstracts"
-  journal: Journal Title
-  year: 2020
-  volume: 12
-  issue: 3
-  pages: 6-22
-  doi: http://doi.org/doi
+  journal: Journal of Women's History
+  year: 2011
+  volume: 23
+  issue: 1
+  pages: 81-109
+  doi: http://doi.org/10.1353/jowh.2011.0001
 
 ---
 
@@ -75,7 +75,7 @@ While topic modeling has not seen
 widespread use in women's history, in 2014, the feminist journal *Signs*
 used topic modeling to build an interactive tool to interrogate its past
 forty years of publications ("Signs @ 40 1975-2014,"
-[[http://signsat40.signsjournal.org/topic-model/]{.underline}](http://signsat40.signsjournal.org/topic-model/)
+[http://signsat40.signsjournal.org/topic-model/](http://signsat40.signsjournal.org/topic-model/)
 {{% /notation %}}
 
 We then move to exploring the approximately 31,000 abstracts that we
@@ -147,14 +147,14 @@ not particularly interested in how the technological sausage was made.
 It was a challenge, especially when topic modeling was so new, to
 describe it in terms historians would understand, so we went with a
 citation to my 2006 historian-friendly introduction to topic modeling
-\[Sharon Block, "[[Doing More with Digitization: An Introduction to
+\[Sharon Block, "[Doing More with Digitization: An Introduction to
 Topic Modeling of Early American
-Sources]{.underline}](http://commonplace.online/article/doing-more-with-digitization/),"
+Sources](http://commonplace.online/article/doing-more-with-digitization/),"
 *Common-place: the Interactive Journal of Early American Life* 6:2
 (January 2006)\]. We did not cite our jointly authored technical piece
-\[David Newman and Sharon Block, "[[Probabilistic Topic Decomposition
+\[David Newman and Sharon Block, "[Probabilistic Topic Decomposition
 of an Eighteenth-Century American
-Newspaper]{.underline}](https://drive.google.com/open?id=1c9xwiSApankjwoLwjE7luo81D_sHQvN5),"
+Newspaper](https://drive.google.com/open?id=1c9xwiSApankjwoLwjE7luo81D_sHQvN5),"
 *Journal of the American Society for Information Science and Technology*
 57:6 (April 2006), 753-767\] because it was not aimed at humanities
 scholars. Personally, I find methods discussions engaging, and would have
@@ -404,7 +404,7 @@ work on racism and sexism in a popular scholarly database extends this
 kind of analysis (Sharon Block, "Erasure, Misrepresentation, and
 Confusion: Shortcomings of JSTOR Topics on Women's and Race Histories,"
 *Digital Humanities Quarterly*, 14:1 (2020)
-[[http://www.digitalhumanities.org/dhq/vol/14/1/000448/000448.html]{.underline}](http://www.digitalhumanities.org/dhq/vol/14/1/000448/000448.html))
+[[http://www.digitalhumanities.org/dhq/vol/14/1/000448/000448.html](http://www.digitalhumanities.org/dhq/vol/14/1/000448/000448.html)
 {{% /notation %}}
 
 Still, this leveling off also raises several questions for women's
@@ -1320,7 +1320,7 @@ moves more to embrace the importance of relevance in all scholarship.).
 {{% /notation %}}
 
 In June 2009, the *New York Times* published an article on the decline
-of "traditional history" courses, and held women\'s/gender history
+of "traditional history" courses, and held women's/gender history
 largely accountable for this decline.[^28] The author made these claims
 using a very limited (and as some have argued, quite flawed)
 quantitative analysis. We counteract this kind of misrepresentation of
@@ -1518,12 +1518,12 @@ about what the next decades of women's history might accomplish.
 
 [^2]: For example, Anne Firor Scott, Sara M. Evans, Susan K. Cahn, and
     Elizabeth Faue, "A Conversation across Three \'Generations\': Part
-    1,\" *Journal of Women\'s History* 11, no. 1 (1999): 9-30, and "Part
-    2," *Journal of Women\'s History* 11, no. 2 (1999): 199-220;
+    1,\" *Journal of Women's History* 11, no. 1 (1999): 9-30, and "Part
+    2," *Journal of Women's History* 11, no. 2 (1999): 199-220;
     *Journal of Colonialism & Colonial History* 4, no. 1(2003) Special
     Issue edited by Jean Allman and Antionette Burton; Johanna Alberti,
     *Gender and the Historian* (New York: Longman, 2002); "Series:
-    Women\'s History in the New Millennium," *Journal of Women\'s
+    Women's History in the New Millennium," *Journal of Women's
     History* 12, no. 3 (2000); 15, no. 1 (2003); 16, no. 4 (2004); Karen
     Adler et al., "Practicing Gender History," *Gender & History* 20,
     no. 1 (2008): 1-7.
@@ -1542,7 +1542,7 @@ about what the next decades of women's history might accomplish.
     models for indexing large digital libraries, see Kat Hagedorn et
     al., "Enhancing Search and Browse Using Automated Clustering of
     Subject Metadata," *D-Lib Magazine* 13, no. 7/8 (2007),
-    [[http://www.dlib.org/dlib/july07/hagedorn/07hagedorn.html]{.underline}](http://www.dlib.org/dlib/july07/hagedorn/07hagedorn.html)
+    [http://www.dlib.org/dlib/july07/hagedorn/07hagedorn.html](http://www.dlib.org/dlib/july07/hagedorn/07hagedorn.html)
     (accessed April 28, 2010).
 
 [^5]: Readers may notice that we do not use significance tests (e.g.,
@@ -1554,7 +1554,7 @@ about what the next decades of women's history might accomplish.
 
 [^6]: The librarians' standard source, Ulrich's Periodicals Directory,
     identified women's studies-focused journals. See
-    [[http://www.ulrichsweb.com]{.underline}](http://www.ulrichsweb.com/).
+    [[http://www.ulrichsweb.com](http://www.ulrichsweb.com/).
     Thanks to Becky Imamoto. We ran an array of human and computerized
     checks to insure the accuracy of the categorization of the 30,891
     abstracts.
@@ -1564,18 +1564,18 @@ about what the next decades of women's history might accomplish.
     University Press, 1988)*,* 28-50, was foundational, and the 1989
     inception of *Gender & History* also reflected the increasing focus
     on gender. For just some of the ongoing discussion of gender v.
-    women's history, see Gisela Bock, \"Women\'s History and Gender
+    women's history, see Gisela Bock, "Women's History and Gender
     History: Aspects of an International Debate,\" *Gender and History*
     1, no. 1 (1989): 7--30; Susan Kingsley Kent, "Mistrials and
     Diatribulations: A Reply to Joan Hoff," and Joan Hoff, "A Reply to
-    My Critics," *Women\'s History Review* 5, no. 1 (1996): 9-18, 25-30;
+    My Critics," *Women's History Review* 5, no. 1 (1996): 9-18, 25-30;
     Kathleen Canning, *Gender History in Practice: Historical
     perspectives on bodies, class & citizenship* (Ithaca: Cornell
     University Press, 2006), esp. 3-121; Alice Kessler-Harris, "A Rich
     and Adventurous Journey: The Transnational Journey of Gender History
-    in the United States," *Journal of Women\'s History* 19, no. 1
+    in the United States," *Journal of Women's History* 19, no. 1
     (2007): 153-159; Christie Anne Farnham, "The *Journal of Women's
-    History:* Forerunner of the Future," *Journal of Women\'s History*
+    History:* Forerunner of the Future," *Journal of Women's History*
     20, no. 1 (2008), 17.
 
 [^8]: On the relation of gender and cultural histories, see Dror
@@ -1588,25 +1588,25 @@ about what the next decades of women's history might accomplish.
     History* 20, no. 3 (2008): 558-583.
 
 [^10]: On feminist history within women's history, see Hilda L. Smith,
-    "*Women\'s History as Intellectual History: A Perspective on the
-    Journal of Women\'s History*," *Journal of Women\'s History* 20, no.
+    "*Women's History as Intellectual History: A Perspective on the
+    Journal of Women's History*," *Journal of Women's History* 20, no.
     1 (2008): 26-27.
 
 [^11]: On the relationship between activism and women's history, see,
     for instance, Joan Hoff, "Agency and Collective Action vs. Diversity
-    and Difference," *Journal of Women\'s History* 20, no. 1 (2008):
+    and Difference," *Journal of Women's History* 20, no. 1 (2008):
     19-20; "Should politics be historical? Should history be
     political?," The Adventures of Notiorious Ph.D., Girl Scholar Blog,
     posted March 2, 2009,
-    [[http://girlscholar.blogspot.com/2009/03/should-politics-be-historical-should.html]{.underline}](http://girlscholar.blogspot.com/2009/03/should-politics-be-historical-should.html)
+    [http://girlscholar.blogspot.com/2009/03/should-politics-be-historical-should.html](http://girlscholar.blogspot.com/2009/03/should-politics-be-historical-should.html)
     (accessed April 28, 2010).
 
 [^12]: On women's status in the profession, see "Elizabeth Lunbeck et
     al., "The Status of Women in the Historical Profession 2005,"
-    [[http://www.historians.org/governance/cwh/CWH-Report\_5.20.05.pdf]{.underline}](http://www.historians.org/governance/cwh/CWH-Report_5.20.05.pdf)
+    [http://www.historians.org/governance/cwh/CWH-Report\_5.20.05.pdf](http://www.historians.org/governance/cwh/CWH-Report_5.20.05.pdf)
     (accessed April 28, 2010); Robert B. Townsend, "What the Data Tells
     US about Women Historians," posted April 12, 2010,
-    [[http://blog.historians.org/profession/1024/what-the-data-tells-us-about-women-historians]{.underline}](http://blog.historians.org/profession/1024/what-the-data-tells-us-about-women-historians)
+    [http://blog.historians.org/profession/1024/what-the-data-tells-us-about-women-historians](http://blog.historians.org/profession/1024/what-the-data-tells-us-about-women-historians)
     (accessed April 28, 2010).
 
 [^13]: On masculinity studies, see Robert W. Connell, "The Big Picture:
@@ -1628,16 +1628,16 @@ about what the next decades of women's history might accomplish.
     Women and Gender in Southeast Asia," *International Journal of Asian
     Studies* 4, no. 1 (2007): 113-136; on Australia, see "Susan Magarey,
     "What is happening to Women's History in Australia at the Beginning
-    of the Third Millenium," *Women\'s History Review* 16, no. 1 (2007):
+    of the Third Millenium," *Women's History Review* 16, no. 1 (2007):
     1-18.
 
 [^15]: Andrea Peto and Judith Szapor, "The State of Women's and Gender
     History in Eastern Europe: The Case of Hungary," *Journal of
-    Women\'s History* 19, no. 1 (2007): 160-166. On structural changes
+    Women's History* 19, no. 1 (2007): 160-166. On structural changes
     that impact chronological focus, see, "Teach this Book! Judith
     Bennett's *History Matters...* Tenured Radical Blog, posted March
     16, 2009
-    [[http://tenured-radical.blogspot.com/2009/03/teach-this-book-judith-bennetts-history.html]{.underline}](http://tenured-radical.blogspot.com/2009/03/teach-this-book-judith-bennetts-history.html)
+    [http://tenured-radical.blogspot.com/2009/03/teach-this-book-judith-bennetts-history.html](http://tenured-radical.blogspot.com/2009/03/teach-this-book-judith-bennetts-history.html)
     (accessed April 28, 2010).
 
 [^16]: We created the broad chronological categories for our analysis.
@@ -1699,23 +1699,23 @@ about what the next decades of women's history might accomplish.
     in every 10,713 words in HA.) On the need to better integrate
     histories of reproduction into sexuality histories, see the "Call
     for Papers: Reproduction, Sex, and Power," for *The Journal of
-    Women\'s History* Special Issue, Edited by Leslie J. Reagan.
+    Women's History* Special Issue, Edited by Leslie J. Reagan.
 
 [^28]: Patricia Cohen, "Great Caesar's Ghost! Are Traditional History
     Courses Vanishing?," *New York Times,* June 9, 2009,
-    [[http://www.nytimes.com/2009/06/11/books/11hist.html]{.underline}](http://www.nytimes.com/2009/06/11/books/11hist.html \ _blank)
+    [http://www.nytimes.com/2009/06/11/books/11hist.html](http://www.nytimes.com/2009/06/11/books/11hist.html \ _blank)
     (accessed April 28, 2010); "Let's Run away from the Girls!\..."
     Tenured Radical Blog, posted June 11, 2009,
-    [[http://tenured-radical.blogspot.com/2009/06/lets-run-away-from-girls-and-other.html]{.underline}](http://tenured-radical.blogspot.com/2009/06/lets-run-away-from-girls-and-other.html \ _blank)
+    [http://tenured-radical.blogspot.com/2009/06/lets-run-away-from-girls-and-other.html](http://tenured-radical.blogspot.com/2009/06/lets-run-away-from-girls-and-other.html \ _blank)
     (accessed April 28, 2010).
 
 [^29]: Douglas Seefeldt and William G. Thomas, "What is Ditigal History?
     A Look at Some Exemplar Projects," *AHA Perspectives* (May 2009),
-    [[http://www.historians.org/perspectives/issues/2009/0905/0905for8.cfm]{.underline}](http://www.historians.org/perspectives/issues/2009/0905/0905for8.cfm)
+    [http://www.historians.org/perspectives/issues/2009/0905/0905for8.cfm](http://www.historians.org/perspectives/issues/2009/0905/0905for8.cfm)
     (accessed April 28, 2010). On the increasing need for collaboration,
     see Robert B. Townsend, "Viewing History at the Intersection of Past
     and Future," *AHA Perspectives,* May 2009.
-    [[http://www.historians.org/perspectives/issues/2009/0905/0905for1.cfm]{.underline}](http://www.historians.org/perspectives/issues/2009/0905/0905for1.cfm)
+    [http://www.historians.org/perspectives/issues/2009/0905/0905for1.cfm](http://www.historians.org/perspectives/issues/2009/0905/0905for1.cfm)
     (accessed April 28, 2010); "The Digital Humanities Manifesto 2.0,"
-    [<http://digitalhumanities.ucla.edu/images/stories/mellon_seminar_readings/manifesto20.pdf>]{.underline}
+    [<http://digitalhumanities.ucla.edu/images/stories/mellon_seminar_readings/manifesto20.pdf>]
     (accessed April 28, 2010).
