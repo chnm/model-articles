@@ -9,7 +9,7 @@
             <div class="article-list">
             <h3><a href="{{ .Permalink }}">{{ .Title }} {{ .Params.subtitle }}</a></h3>
             {{ range .Params.citation }}
-            <span class="meta">{{ .author }} | {{ .journal }}</span>
+            <span class="meta">{{ .author }} <span class="sep">|</span> <em>{{ .journal }}</em></span>
             {{ end }}
             </div>
             {{ end }}
