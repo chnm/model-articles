@@ -61,7 +61,7 @@ A fuller discussion of the structures of argument used in published
 digital history journal articles can be found in our introduction to the
 *Journal of Social History* special section, "Arguing with Digital
 History: Patterns of Historical Interpretation." The preprint version of
-that introduction can be found on this site.
+[that introduction can be found on this site](/articles/introduction/).
 
 That discussion builds on the white paper "[Digital History and
 Argument](https://rrchnm.org/argument-white-paper/)," which
