@@ -1,6 +1,6 @@
 ---
 title: "Itinerating Europe: "
-weight: 1
+weight: 3
 subtitle:  Early Modern Spatial Networks in Printed Itineraries, 1545-1700
 doi: http://thelinktothisarticlehere
 author: 

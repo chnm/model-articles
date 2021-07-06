@@ -1,6 +1,6 @@
 ---
 title: "Where is America in the Republic of Letters?"
-weight: 1
+weight: 7
 subtitle:
 doi: http://thelinktothisarticlehere
 author: 
