@@ -77,9 +77,3 @@ the support of the Andrew W. Mellon Foundation.
 Annotations appear in the text in orange. Each annotation has a title.
 Clicking on the triangle on the right of the annotation title bar will
 open and close the box containing the annotation.
-
-**Credits:**
-
-Ken Albers
-
-Dan Howlett
