@@ -19,50 +19,49 @@ construct interpretations and arguments using digital history methods
 and materials for digital historians to emulate and build on.
 
 The article text that appears on this site is not the published version,
-which is not available without the permission of the publishers, but the
-preprint text, the version first submitted by the author, before any
+which is not available without the permission of the publishers. Rather, it is
+the text of the preprint, the version first submitted by the author, before any
 input from reviewers or editors for the journal. Some annotations
 address the changes that authors made to their original submission to
 address how reviewers and editors responded to their digital history
 approaches and arguments.
 
 This site is part of a project on digital history and argument led by
-Lincoln Mullen and Stephen Robertson of the Roy Rosenzweig Center for
-History and New Media, undertaken from 2017 to 2021, and generously
-supported by the Andrew W. Mellon Foundation.
+Stephen Robertson and Lincoln Mullen and of the [Roy Rosenzweig Center for
+History and New Media](https://rrchnm.org), undertaken from 2017 to 2021,
+and generously supported by the [Andrew W. Mellon Foundation](https://mellon.org).
 
-The articles by Leonardo Barleta and Rachel Midura, which both provide
+The articles by [Leonardo Barleta](/articles/barleta/) and [Rachel Midura](/articles/midura/), which both provide
 interpretations based on network graphs and spatial visualizations,
-appear in a special section of the Summer 2021 issue of the *Journal of
+appear in a [special section](https://academic.oup.com/jsh/search-results?f_TocHeadingTitle=Special+Section%3a+Arguing+with+Digital+Histories) of the Summer 2021 issue of the *Journal of
 Social History*, volume 54, number 4. They were developed in a [series
 of
 workshops](https://rrchnm.org/news/workshop-digital-history-articles/)
 to support authors in the process of writing, peer review and
 publication held in 2019 and 2020, with the support of the Andrew W.
-Mellon Foundation. The editors of the *Journal of Social History*, Matt
+Mellon Foundation. The editors of the *Journal of Social History*, Matthew
 Karush and Sam Lebovic, co-convened the workshops with us and provided
 the participants with invaluable insight into the publication and peer
 review process. Leonardo Barleta, Genevieve Carpio and Andrzej
 Rutkowski, Mariola Espinosa, Jacquelyne Howard, Rachel Midura, Erin
 Sassin and Florence Feiereisen, Lauren Tilton, and Nathan Tye
 participated in the workshops. We thank them all for their willingness
-to take the time to share their work, and take on the challenge of
+to share their work and to take on the challenge of
 developing historical arguments.
 
 We solicited annotations from authors of seven additional articles that
 are influential examples of historical interpretations based on a
 variety of digital methods: Caroline Winterer using spatial
 visualizations; Ruth Ahnert and Sebastian Ahnert and Maeve Kane using
-network graphs; and Melodee Beals, Sharon Block and David Newman, Jo
-Guldi, and Tim Hitchcock and William Turkel using text analysis and
-topic modeling. *These articles will appear on the site during summer
-2021.*
+network graphs; Melodee Beals, Sharon Block and David Newman, Jo
+Guldi; Tim Hitchcock and William Turkel using text analysis and
+topic modeling; and Kellen Funk and Lincoln Mullen using text analysis and network graphs.
 
 A fuller discussion of the structures of argument used in published
 digital history journal articles can be found in our introduction to the
 *Journal of Social History* special section, "Arguing with Digital
 History: Patterns of Historical Interpretation." The preprint version of
-that introduction can be found on this site.
+[that introduction can be found on this site](/articles/introduction/).
 
 That discussion builds on the white paper "[Digital History and
 Argument](https://rrchnm.org/argument-white-paper/)," which
@@ -78,9 +77,3 @@ the support of the Andrew W. Mellon Foundation.
 Annotations appear in the text in orange. Each annotation has a title.
 Clicking on the triangle on the right of the annotation title bar will
 open and close the box containing the annotation.
-
-**Credits:**
-
-Ken Albers
-
-Dan Howlett

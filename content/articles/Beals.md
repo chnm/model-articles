@@ -1,6 +1,6 @@
 ---
 title: "Close Readings of Big Data: "
-weight: 1
+weight: 4
 subtitle: Triangulating Patterns of Textual Reappearance and Attribution in the Caledonian Mercury, 1820-1840
 doi: http://thelinktothisarticlehere
 author: 

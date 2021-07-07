@@ -1,6 +1,6 @@
 ---
 title: "Spatial Genealogies:"
-weight: 1
+weight: 2
 subtitle: Mobilitiy, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800
 doi: http://thelinktothisarticlehere
 author: 
