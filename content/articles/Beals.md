@@ -19,13 +19,11 @@ citation:
 
 ---
 
-*M. H. Beals, Loughborough University* [^1]
-
 {{% notation title="Headnote" %}}
 
 This article began as a discussion of how we might utilise digital
 humanities techniques to identify scissors-and-paste journalism within
-the British newspaper press. While presenting my preliminary results as
+the British newspaper press.[^1] While presenting my preliminary results as
 part of a wider symposium on reprinting, republication and copyright,
 questions were raised about publisher intent, namely the degree to which
 we could accurately distinguish between reprinting, a formal and usually
