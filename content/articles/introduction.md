@@ -144,7 +144,7 @@ answering questions or organizing the results into an overarching
 argument. An exemplary example is Robert Nelson's *Mining the Dispatch*,
 which demonstrates the results of topic modeling "to uncover categories
 and discover patterns" in "the topics that dominated the news during the
-Civil War in the capital of the Confederacy\'s newspaper of record," the
+Civil War in the capital of the Confederacy's newspaper of record," the
 Richmond *Daily Dispatch*.[^5] Nelson's project includes an introduction
 describing the digital tool he is using and a brief analysis of one of
 the topics he identified, and a section that provides an overview of
@@ -884,10 +884,10 @@ argumentation of their own.[^60]
     Lara Putnam, "The Transnational and the Text-Searchable: Digitized
     Sources and the Shadows They Cast," *American Historical Review*
     121, no. 2 (2016): 377--402,
-    [[https://doi.org/10.1093/ahr/121.2.377]{.ul}](https://doi.org/10.1093/ahr/121.2.377);
+    [https://doi.org/10.1093/ahr/121.2.377](https://doi.org/10.1093/ahr/121.2.377);
     Julia Laite, "The Emmet's Inch: Small History in a Digital Age,"
     *Journal of Social History* 53, no. 4 (June 1, 2020): 963--89,
-    [[https://doi.org/10.1093/jsh/shy118]{.ul}](https://doi.org/10.1093/jsh/shy118);
+    [https://doi.org/10.1093/jsh/shy118](https://doi.org/10.1093/jsh/shy118);
     and Tim Hitchcock, "Digital Searching and the Re-formulation of
     Historical Knowledge," in *The Virtual Representation of the Past*,
     eds Mark Greengrass and Lorna hughes (Farnham: Ashgate, 2008),
@@ -897,7 +897,7 @@ argumentation of their own.[^60]
     Digital History," in *Debates in Digital Humanities 2016*, eds
     Matthew Gold and Lauren Klein (Minneapolis: University of Minnesota
     Press, 2016),
-    [[https://dhdebates.gc.cuny.edu/read/untitled/section/ed4a1145-7044-42e9-a898-5ff8691b6628\#ch25]{.ul}](https://dhdebates.gc.cuny.edu/read/untitled/section/ed4a1145-7044-42e9-a898-5ff8691b6628#ch25).
+    [https://dhdebates.gc.cuny.edu/read/untitled/section/ed4a1145-7044-42e9-a898-5ff8691b6628\#ch25](https://dhdebates.gc.cuny.edu/read/untitled/section/ed4a1145-7044-42e9-a898-5ff8691b6628#ch25).
 
 [^3]: Roy Rosenzweig, "Scarcity or Abundance? Preserving the Past in a
     Digital Age," American Historical Review 108, 3 (2003), 760.
@@ -906,11 +906,11 @@ argumentation of their own.[^60]
     to Answer Questions?" reprinted in *Debates in the Digital
     Humanities* ed Matthew K. Gold (Minneapolis: University of Minnesota
     Press, 2012),
-    [[https://dhdebates.gc.cuny.edu/read/40de72d8-f153-43fa-836b-a41d241e949c/section/3c03ecdb-2dcf-4597-8fc4-e42f8dcc21e1\#p1b2]{.ul}](https://dhdebates.gc.cuny.edu/read/40de72d8-f153-43fa-836b-a41d241e949c/section/3c03ecdb-2dcf-4597-8fc4-e42f8dcc21e1#p1b2)
+    [https://dhdebates.gc.cuny.edu/read/40de72d8-f153-43fa-836b-a41d241e949c/section/3c03ecdb-2dcf-4597-8fc4-e42f8dcc21e1\#p1b2](https://dhdebates.gc.cuny.edu/read/40de72d8-f153-43fa-836b-a41d241e949c/section/3c03ecdb-2dcf-4597-8fc4-e42f8dcc21e1#p1b2)
 
 [^5]: Robert Nelson, *Mining the Dispatch* (Digital Scholarship Lab,
     University of Richmond, 20??, updated November 2020),
-    [[https://dsl.richmond.edu/dispatch/]{.ul}](https://dsl.richmond.edu/dispatch/).
+    [https://dsl.richmond.edu/dispatch/](https://dsl.richmond.edu/dispatch/).
 
 [^6]: Edward Ayers, Anne Sarah Rubin, William G. Thomas III, and Andrew
     Torget, *The Valley of the Shadow: Two Communities in the American
@@ -922,13 +922,13 @@ argumentation of their own.[^60]
     of America* (New York: Norton, 2018).
 
 [^8]: Jane Kamensky, *The Exchange Artist: A Tale of High-Flying
-    Speculation and America\'s First Banking Collapse* (New York:
+    Speculation and America's First Banking Collapse* (New York:
     Penguin Book, 2008).
 
 [^9]: Arguing with Digital History working group, "Digital History and
     Argument," white paper, Roy Rosenzweig Center for History and New
     Media(November 13, 2017):
-    [[https://rrchnm.org/argument-white-paper/]{.ul}](https://rrchnm.org/argument-white-paper/).
+    [https://rrchnm.org/argument-white-paper/](https://rrchnm.org/argument-white-paper/).
 
 [^10]: Genevieve Carpio and Andrzej Rutkowski, Mariola Espinosa,
     Jacquelyne Howard, Erin Sassin, Lauren Tilton, and Nathan Tye also
@@ -948,7 +948,7 @@ argumentation of their own.[^60]
 
 [^12]: See "Data First" annotation, on *Models of argument-driven
     digital history,*
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^13]: Karen Halttunen, "Groundwork: American Studies in Place:
     Presidential Address to the American Studies Association, November
@@ -958,7 +958,7 @@ argumentation of their own.[^60]
     Freedom in the American South," *Journal of the Civil War Era* 1, 1
     (2011), 3, 10. An annotated version of this article appears on
     *Models of argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^15]: Ayers and Nesbit, 14, 17
 
@@ -989,18 +989,18 @@ argumentation of their own.[^60]
     Fraga, "Digitally Mapping Commercial Currents: Maritime Mobility,
     Vessel technology and U.S. Colonization of Puget Sound, 1851-1861,
     *Current Research in Digital History* 3 (2020),
-    [[https://crdh.rrchnm.org/essays/v03-03-mapping-commercial-currents/]{.ul}](https://crdh.rrchnm.org/essays/v03-03-mapping-commercial-currents/).
+    [https://crdh.rrchnm.org/essays/v03-03-mapping-commercial-currents/](https://crdh.rrchnm.org/essays/v03-03-mapping-commercial-currents/).
 
 [^24]: Leo Barleta, "Spatial Genealogies Mobility, Settlement, and
     Empire-Building in the Brazilian Backlands, 1650-1800," *Journal of
     Social History.* An annotated version of this article appears on
     *Models of argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^25]: More details of these sources and the process by which Barleta
     created data from them, see the annotation "About Sources" at
     *Models of argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^26]: Ruth Ahnert, Sebastian Ahnert, Catherine Nicole Coleman, and
     Scott Weingart, *The Network Turn: Changing Perspectives in the
@@ -1010,7 +1010,7 @@ argumentation of their own.[^60]
     *Modern Intellectual History* 9, 3 (2012), 597. An annotated version
     of this article appears on *Models of argument-driven digital
     history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^28]: Winterer, 610.
 
@@ -1042,13 +1042,13 @@ argumentation of their own.[^60]
     *Journal of Early American History* 7, 2 (2017). An annotated
     version of this article appears on *Models of argument-driven
     digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
     For another example that uses a variety of different sources to
     identify the presence of women in Ottoman-Algerian social networks,
     see Ashley Saunders, "Silent No More: Women as Significant Political
     Intermediaries in Ottoman Algeria," *Current Research in Digital
     History* 3 (2020),
-    [[https://crdh.rrchnm.org/essays/v03-05-silent-no-more/]{.ul}](https://crdh.rrchnm.org/essays/v03-05-silent-no-more/).
+    [https://crdh.rrchnm.org/essays/v03-05-silent-no-more/](https://crdh.rrchnm.org/essays/v03-05-silent-no-more/).
 
 [^36]: Kane, 112.
 
@@ -1062,7 +1062,7 @@ argumentation of their own.[^60]
     the Reign of Mary I: A Quantitative Approach," *ELH* 82, 1 (2015).
     An annotated version of this article appears on *Models of
     argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^41]: For a discussion of the advantages of using quantitative criteria
     to establish categories rather than human-assigned categories, see
@@ -1072,7 +1072,7 @@ argumentation of their own.[^60]
     in Printed Itineraries, 1545--1700," *Journal of Social History* -
     page numbers to come? An annotated version of this article appears
     on *Models of argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^43]: Midura, - page numbers to come?
 
@@ -1098,20 +1098,20 @@ argumentation of their own.[^60]
     1674--1913: Text Mining for Evidence of Court Behavior," *Law and
     History Review* 34, 4 (2016), 929-55. An annotated version of this
     article appears on *Models of argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^52]: Sharon Block and David Newman, "What, Where, When, and Sometimes
     Why: Data Mining Two Decades of Women's History Abstracts," *Journal
     of Women's History* 23, 1 (2011), 82. An annotated version of this
     article appears on *Models of argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
-[^53]: Jo Guldi, "Parliament\'s Debates about Infrastructure: An
+[^53]: Jo Guldi, "Parliament's Debates about Infrastructure: An
     Exercise in Using Dynamic Topic Models to Synthesize Historical
     Change," *Technology and Culture* 60, 1 (2019), 3. An annotated
     version of this article appears on *Models of argument-driven
     digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^54]: Guldi, 9.
 
@@ -1121,7 +1121,7 @@ argumentation of their own.[^60]
     View of the World from Houston," *Journal of American history* 101 1
     (2014), 122-47; and Cameron Blevins, "Mining and Mapping the
     Production of Space: A View of the World from Houston," (2014),
-    [[http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93]{.ul}](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93).
+    [http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93).
 
 [^57]: Kellen Funk and Lincoln Mullen, "The Spine of American Law:
     Digital Text Analysis and U.S. Legal Practice," *American Historical
@@ -1130,7 +1130,7 @@ argumentation of their own.[^60]
     Indian treaties, see Joshua Catalano, "Digitally Analyzing the
     Uneven Ground: Language Borrowing Among Indian Treaties," *Current
     Research in Digital History* 1 (2018),
-    [[https://crdh.rrchnm.org/essays/v01-02-digitally-analyzing-the-uneven-ground/]{.ul}](https://crdh.rrchnm.org/essays/v01-02-digitally-analyzing-the-uneven-ground/).
+    [https://crdh.rrchnm.org/essays/v01-02-digitally-analyzing-the-uneven-ground/](https://crdh.rrchnm.org/essays/v01-02-digitally-analyzing-the-uneven-ground/).
 
 [^58]: Funk and Mullen, 154.
 
@@ -1139,7 +1139,7 @@ argumentation of their own.[^60]
     Mercury, 1820--40," *Victorian Periodicals Review* 51, 4 (2018),
     620, 623. An annotated version of this article appears on *Models of
     argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
 [^60]: See *Models of argument-driven digital history*,
-    [[https://model-articles.chnm.org/]{.ul}](https://model-articles.chnm.org/).
+    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
