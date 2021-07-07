@@ -1069,24 +1069,23 @@ argumentation of their own.[^60]
     annotation titled ? in *Models of argument-driven digital history*
 
 [^42]: Rachel Midura, "Itinerating Europe: Early Modern Spatial Networks
-    in Printed Itineraries, 1545--1700," *Journal of Social History* -
-    page numbers to come? An annotated version of this article appears
+    in Printed Itineraries, 1545--1700," *Journal of Social History*, 1- 41. An annotated version of this article appears
     on *Models of argument-driven digital history*,
     [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
 
-[^43]: Midura, - page numbers to come?
+[^43]: Midura, 5.
 
-[^44]: Midura, - page numbers to come?
+[^44]: Midura, 31.
 
-[^45]: Midura, - page numbers to come?
+[^45]: Midura, 4.
 
-[^46]: Midura, - page numbers to come?
+[^46]: Midura, "Itinerating Europe: Early Modern Spatial Networks in Printed Itineraries, 1545--1700," in *Models of Argument-Driven Digital History*, eds. Mullen, Lincoln and Stephen Robertson.
 
-[^47]: Midura, - page numbers to come?
+[^47]: Midura, 17.
 
-[^48]: Midura, - page numbers to come?
+[^48]: Midura, "Itinerating Europe," in *Models of Argument-Driven Digital History*.
 
-[^49]: Midura, - page numbers to come?
+[^49]: Midura, 23.
 
 [^50]: For a useful elaboration of the relationship between distant
     reading (here termed machine reading) and close reading, see
