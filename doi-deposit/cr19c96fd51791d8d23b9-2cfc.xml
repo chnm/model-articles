@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.4.2" xmlns="http://www.crossref.org/schema/4.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 http://www.crossref.org/schema/deposit/crossref4.4.2.xsd">
+<head>
+<doi_batch_id>19c96fd51791d8d23b9-2cfc</doi_batch_id>
+<timestamp>20210708095616568</timestamp>
+<depositor>
+  <depositor_name>rrch:rrch</depositor_name> 
+  <email_address>lincoln@lincolnmullen.com</email_address>
+</depositor>
+<registrant>WEB-FORM</registrant> 
+</head>
+<body>
+<report-paper>
+<report-paper_metadata>  <contributors>    <person_name sequence='first' contributor_role='author'>      <given_name>Stephen</given_name>      <surname>Robertson</surname>      <ORCID>https://orcid.org/0000-0002-3591-2494</ORCID>    </person_name>    <person_name sequence='additional' contributor_role='author'>       <given_name>Lincoln</given_name>       <surname>Mullen</surname>       <ORCID>https://orcid.org/0000-0001-5103-6917</ORCID>     </person_name>   </contributors>  <titles>     <title>Arguing with Digital History: Patterns of Historical Interpretation (annotated version)</title>   </titles> <publication_date media_type='online'>     <year>2021</year>   </publication_date>    <publisher>   <publisher_name>Roy Rosenzweig Center for History and New Media</publisher_name>   </publisher>  <doi_data>    <doi>10.31835/ma.2021.01</doi>    <resource>https://model-articles.rrchnm.org/articles/introduction/</resource>  </doi_data></report-paper_metadata>
+</report-paper>
+</body>
+</doi_batch>

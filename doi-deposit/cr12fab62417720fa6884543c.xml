@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.4.2" xmlns="http://www.crossref.org/schema/4.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 http://www.crossref.org/schema/deposit/crossref4.4.2.xsd">
+<head>
+<doi_batch_id>12fab62417720fa6884543c</doi_batch_id>
+<timestamp>20210708100358855</timestamp>
+<depositor>
+  <depositor_name>rrch:rrch</depositor_name> 
+  <email_address>lincoln@lincolnmullen.com</email_address>
+</depositor>
+<registrant>WEB-FORM</registrant> 
+</head>
+<body>
+<report-paper>
+<report-paper_metadata>  <contributors>    <person_name sequence='first' contributor_role='author'>      <given_name>Leonardo</given_name>      <surname>Barleta</surname>      <ORCID>https://orcid.org/0000-0001-7976-1053</ORCID>    </person_name>  </contributors>  <titles>     <title>Spatial Genealogies: Mobilitiy, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800 (annotated version)</title>   </titles> <publication_date media_type='online'>     <year>2021</year>   </publication_date>    <publisher>   <publisher_name>Roy Rosenzweig Center for History and New Media</publisher_name>   </publisher>  <doi_data>    <doi>10.31835/ma.2021.02</doi>    <resource>https://model-articles.rrchnm.org/articles/barleta/</resource>  </doi_data></report-paper_metadata>
+</report-paper>
+</body>
+</doi_batch>
