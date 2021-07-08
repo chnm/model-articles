@@ -2,7 +2,7 @@
 title: "Spatial Genealogies:"
 weight: 2
 subtitle: Mobilitiy, Settlement, and Empire-Building in the Brazilian Backlands, 1650-1800
-doi: http://thelinktothisarticlehere
+doi: https://doi.org/10.31835/ma.2021.02
 draft: false
 author: 
 - name: Leonardo Barleta
@@ -16,7 +16,7 @@ citation:
   volume: 54
   issue: 4
   pages:
-  doi: http://doi.org/10.1093/jsh/shab006
+  doi: https://doi.org/10.1093/jsh/shab006
 ---
 
 {{% notation title="Headnote" %}}
