@@ -345,6 +345,12 @@ into network data also required creating entries for individuals who
 were only implied in the data through their social relationships but
 didn\'t make purchases of their own.
 
+{{< figure src="/img/KaneDS1.png" alt="Part 1 of 3 showing a spreadsheet screenshot demonstrating the workflow to create the data set.">}}
+
+{{< figure src="/img/KaneDS2.png" alt="Part 2 of 3 showing a spreadsheet screenshot demonstrating the workflow to create the data set." >}}
+
+{{< figure src="/img/KaneDS3.png" atl=" Part 3 of 3 showing the network data spreadsheet as an example of the workflow." >}}
+
 {{% /notation %}}
 
 The social ties that were recorded in these account books suggest that
