@@ -2,7 +2,7 @@
 title: "Itinerating Europe: "
 weight: 3
 subtitle:  Early Modern Spatial Networks in Printed Itineraries, 1545-1700
-doi: http://thelinktothisarticlehere
+doi: https://doi.org/10.31835/ma.2021.03
 draft: false
 author: 
 - name: Rachel Midura
@@ -16,7 +16,7 @@ citation:
   volume: 54
   issue: 4
   pages: 1-41
-  doi: http://doi.org/10.1093/jsh/shab011
+  doi: https://doi.org/10.1093/jsh/shab011
 
 ---
 
