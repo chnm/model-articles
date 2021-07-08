@@ -2,7 +2,7 @@
 title: "Arguing with Digital History:"
 weight: 1
 subtitle: Patterns of Historical Interpretation
-doi: http://thelinktothisarticlehere
+doi: https://doi.org/10.31835/ma.2021.01
 draft: false
 author: 
 - name: Stephen Robertson
@@ -19,7 +19,7 @@ citation:
   volume: 54
   issue: 4
   pages: 1005ff.
-  doi: http://doi.org/10.1093/jsh/shab015
+  doi: https://doi.org/10.1093/jsh/shab015
 ---
 
 Digital history has only rarely created interpretative or argumentative
