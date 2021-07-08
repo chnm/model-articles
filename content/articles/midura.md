@@ -10,7 +10,7 @@ author:
   email: rmidura@vt.edu
 citation:
 - author: Midura, Rachel
-  title: "Itinerating Europe: Early Modern Spatiial Networks in Printed Itineraries, 1545-1700"
+  title: "Itinerating Europe: Early Modern Spatial Networks in Printed Itineraries, 1545-1700"
   journal: Journal of Social History
   year: 2021
   volume: 54

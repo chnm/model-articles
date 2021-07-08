@@ -949,7 +949,7 @@ argumentation of their own.[^60]
 
 [^12]: See "Data First" annotation, on *Models of argument-driven
     digital history,*
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^13]: Karen Halttunen, "Groundwork: American Studies in Place:
     Presidential Address to the American Studies Association, November
@@ -959,7 +959,7 @@ argumentation of their own.[^60]
     Freedom in the American South," *Journal of the Civil War Era* 1, 1
     (2011), 3, 10. An annotated version of this article appears on
     *Models of argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^15]: Ayers and Nesbit, 14, 17
 
@@ -996,12 +996,12 @@ argumentation of their own.[^60]
     Empire-Building in the Brazilian Backlands, 1650-1800," *Journal of
     Social History.* An annotated version of this article appears on
     *Models of argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^25]: More details of these sources and the process by which Barleta
     created data from them, see the annotation "About Sources" at
     *Models of argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^26]: Ruth Ahnert, Sebastian Ahnert, Catherine Nicole Coleman, and
     Scott Weingart, *The Network Turn: Changing Perspectives in the
@@ -1011,7 +1011,7 @@ argumentation of their own.[^60]
     *Modern Intellectual History* 9, 3 (2012), 597. An annotated version
     of this article appears on *Models of argument-driven digital
     history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^28]: Winterer, 610.
 
@@ -1043,7 +1043,7 @@ argumentation of their own.[^60]
     *Journal of Early American History* 7, 2 (2017). An annotated
     version of this article appears on *Models of argument-driven
     digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
     For another example that uses a variety of different sources to
     identify the presence of women in Ottoman-Algerian social networks,
     see Ashley Saunders, "Silent No More: Women as Significant Political
@@ -1063,7 +1063,7 @@ argumentation of their own.[^60]
     the Reign of Mary I: A Quantitative Approach," *ELH* 82, 1 (2015).
     An annotated version of this article appears on *Models of
     argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^41]: For a discussion of the advantages of using quantitative criteria
     to establish categories rather than human-assigned categories, see
@@ -1072,7 +1072,7 @@ argumentation of their own.[^60]
 [^42]: Rachel Midura, "Itinerating Europe: Early Modern Spatial Networks
     in Printed Itineraries, 1545--1700," *Journal of Social History*, 1- 41. An annotated version of this article appears
     on *Models of argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^43]: Midura, 5.
 
@@ -1098,20 +1098,20 @@ argumentation of their own.[^60]
     1674--1913: Text Mining for Evidence of Court Behavior," *Law and
     History Review* 34, 4 (2016), 929-55. An annotated version of this
     article appears on *Models of argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^52]: Sharon Block and David Newman, "What, Where, When, and Sometimes
     Why: Data Mining Two Decades of Women's History Abstracts," *Journal
     of Women's History* 23, 1 (2011), 82. An annotated version of this
     article appears on *Models of argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^53]: Jo Guldi, "Parliament's Debates about Infrastructure: An
     Exercise in Using Dynamic Topic Models to Synthesize Historical
     Change," *Technology and Culture* 60, 1 (2019), 3. An annotated
     version of this article appears on *Models of argument-driven
     digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^54]: Guldi, 9.
 
@@ -1139,7 +1139,7 @@ argumentation of their own.[^60]
     Mercury, 1820--40," *Victorian Periodicals Review* 51, 4 (2018),
     620, 623. An annotated version of this article appears on *Models of
     argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
 
 [^60]: See *Models of argument-driven digital history*,
-    [https://model-articles.chnm.org/](https://model-articles.chnm.org/).
+    [https://model-articles.rrchnm.org/](https://model-articles.rrchnm.org/).
