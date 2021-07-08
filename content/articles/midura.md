@@ -3,6 +3,7 @@ title: "Itinerating Europe: "
 weight: 3
 subtitle:  Early Modern Spatial Networks in Printed Itineraries, 1545-1700
 doi: http://thelinktothisarticlehere
+draft: false
 author: 
 - name: Rachel Midura
   affiliation: Virginia Tech

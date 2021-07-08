@@ -3,6 +3,7 @@ title: "Parliament's Debates about Infrastructure: "
 weight: 6
 subtitle: An Exercise in Using Dynamic Topic Models to Synthesize Historical Change
 doi: http://thelinktothisarticlehere
+draft: true
 author: 
 - name: Jo Guildi
   affiliation: Southern Methodist University

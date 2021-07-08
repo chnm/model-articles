@@ -3,6 +3,7 @@ title: "Arguing with Digital History:"
 weight: 1
 subtitle: Patterns of Historical Interpretation
 doi: http://thelinktothisarticlehere
+draft: false
 author: 
 - name: Stephen Robertson
   affiliation: George Mason University
