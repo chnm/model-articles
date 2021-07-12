@@ -21,39 +21,9 @@ citation:
 
 {{% notation title="Headnote" %}}
 
-This article is a part of a broader research project that examines the
-interiorization of the Portuguese colonization in Brazil during the
-seventeenth and eighteenth centuries. This process is usually studied
-from a regional perspective, in which scholars discuss how mobility and
-frontier resources shaped local communities, or through ideas of
-discovery, exploration, and pioneering that emphasize the agency of
-particular individuals or specific events. Both interpretations,
-however, didn't account for a defining characteristic of this process
-that intrigued me: the resulting spatial distribution of settlements was
-highly dispersed and discontinuous. This fact raises a series of
-questions (some of them very naive) that go unanswered in the
-historiography. (For example, how, in remote mining camps and nascent
-settlements, did a person acquire goods that were not produced locally?
-Was the mere existence of gold enough to explain the entire process?
-Also, given the limited geographic knowledge and absence of maps and
-regular infrastructure, how did a person get there in the first place?)
-My research shifted the discussion to what were the mechanisms that
-linked and allowed exchanges between distant settlements and how they
-were integrated into the Portuguese empire.
+This article is a part of a broader project that examines the interiorization of the Portuguese colonization in Brazil during the seventeenth and eighteenth centuries. Historians approached this process from multiples angles: from a regional perspective, emphasizing how mobility and frontier resources shaped local communities; through the transplantation of Portuguese institutions inland; and from biographical remarks that revealed stories of discovery, exploration, and pioneering. My experience in mapping Luso-Brazilian settlements in the backlands during this period, however, pointed out another defining characteristic of this process—a resulting highly dispersed spatial distribution of settlements in the interior—which goes unquestioned in the historiography. My research thus shifted the discussion from the “discovery” of new regions and the creation of settlements to socioeconomic and cultural mechanisms that promoted mobility, forged connections across space, and enabled long-distance exchanges despite limited geographic knowledge and inexistent infrastructure. In this article, I thus ask how distant portions of the backlands became integrated into the Portuguese empire? 
 
-Besides leaving these questions open, scholars that studied this process
-also used (in very different ways) extensively genealogical writings,
-particularly those that focused on colonial São Paulo. In this region,
-recordings of family lineages have been part of the historiographical
-tradition since the eighteenth century. Since then, three major
-compilations, which list the names, family relationships, and other
-information of thousands of Luso-Brazilians colonists that lived in São
-Paulo, were published and are still used by historians. Although many
-records contain evidence of the spatial practice of these historical
-actors, they are mainly used in an anecdotal fashion. In contrast,
-digital methods enabled me to revisit these well-known materials and
-look for broader patterns that only intuitively gathered in close
-reading.
+As already argued by many historians, kinship is a big part of this story and family histories, particularly compilations of genealogical data focusing on colonial São Paulo, became invaluable sources of information for researchers interested in the subject. These works provided narratives of explorers journeying the backlands and anecdotes about kinship dynamics and social formation. Yet, a systematic approach to these sources was missing, partially because of the large size of these collections or the “dryness” of the information compiled in them. While a few entries offer a colorful narrative about the life story of specific historical characters, most of the records only list the names, family relationships, and vital information of thousands of these colonists, often as a one-sentence remark. Geography is a central element in this works as the places of birth, marriage, and death are often mentioned, albeit in an incomplete fashion. Using this information combined with a series of digital methods, this article takes a step back from the individual records and anecdotes to reconstitute the geographic mobility inadvertently embedded in these life stories. This approach allowed me to “read” these records in a different fashion, focusing on broad patterns instead of on specific examples, and produce a narrative that places mobility as a vital element of Luso-Brazilian society.
 
 {{% /notation %}}
 
@@ -268,12 +238,9 @@ descending numbering system that replicates family relationships,
 starting from a progenitor (an "original" settler). I identified 28,849
 entries that were relative to people living during the colonial era,
 which represents a sizeable share of the total population. For example,
-in 1687, while ecclesiastical authorities counted 15,400 parishioners
-about twelve years old in the captaincy of São Paulo, the dataset
-included 2,848 individuals (18.5%). Gender distribution, based on first
-names, slightly favors women (1:0.97 female-to-male ratio), but their
-records were shorter than their men's. We can also assume that, due to
-the nature of the genealogical enterprise, the top sector of São Paulo
+in 1687, while ecclesiastical authorities counted 15,400 parishioners in the captaincy of São Paulo, the dataset listed 2,848 individuals (18.5%). Gender distribution slightly favors women (1:0.97 female-to-male ratio), but their
+records were usually shorter than their men's. We can also assume that, due to
+the nature of the genealogical enterprise, the upper sector of São Paulo
 society is overrepresented in the dataset.
 
 Although the dataset is relatively large, it is very sparse and
@@ -281,7 +248,7 @@ fragmentary as most records had very little information. However,
 because datapoints are linked through family relationships, I could
 augment and enhance it in two ways. First, I used siblings' data to
 identify the period in which a person lived (based on large temporal
-units of 50 years,) which made useable many records that didn't include
+units of 50 years,) which made useable records that didn't include
 dates. Second, I also connected families that, because of the linear
 structure of the text, were in different parts of the text. (For
 instance, family A has a record of X marrying Y, and family B has
@@ -332,7 +299,7 @@ produced and, thus, liable to changes over time and explainable through
 temporal analysis. Giving a static representation of this space,
 especially when the article covers a long period, would contradict this
 conceptual framework. It would also mislead the reader to believe that a
-well-ordered space actually existed. The choice not to include such a
+well-ordered space actually existed. The choice of not including such a
 map is also supported by debates on information design and among
 historians who use visualizations, which assert that visualization
 should further arguments. That is, visualizations articulate a set of
@@ -1207,9 +1174,9 @@ effective form of representing or analyzing spatial phenomena. In this
 case, as distance is not a primary explanatory variable and the data
 selection is small, tables are quite effective because they capture
 broad trends (highlighted with the "trend arrows") while offering
-granular information. This and the next tables show general patterns
+granular information. This table and the next one show general patterns
 that are geographically discrete (that is, not influenced by the other
-locations) and happened *in spite of* their location. See Waldo Tobler,
+locations) and happened *in spite of* their location. *See Waldo Tobler,
 "A computer movie simulating urban growth in the Detroit region,"
 *Economic Geography*, 46 (1970): 236.
 
