@@ -55,6 +55,12 @@ to retroactively include abstracts later than 2005 because redoing the
 topic models would have meant starting from scratch.
 {{% /notation %}}
 
+{{% notation title="Figures for Historians" %}}
+
+This article is clearly structured around data analysis, as represented in tables, charts, and graphs. But in an indication of one of the difficulties of stretching beyond traditional disciplinary methodological boundaries, the original copy editors did not realize there were 16 images that went with the article. This was far beyond the journal's standard maximum number of figures of 3-4 per article which meant I had to get editorial permission to publish an article with that many figures. The permission was not difficult to get, but did strike me as an indication of how far outside the mainstream this kind of data representation was for this women’s history journal.
+
+{{% /notation %}}
+
 Quantitative and qualitative analyses provide these women's historians
 with a sense of the developments in much of our field and point to
 remaining shortcomings and opportunities. This article builds on the
@@ -242,6 +248,46 @@ Together, our combination of subject word, topic model, and women's
 studies journals resulted in identification of about 6% of abstracts \--
 30,891\-- as being substantially focused on women's history.
 
+{{% notation title="Figure 0a. Change over Time in topic of Race in Historical Abstracts" %}}
+
+This chart, which did not make the final cut for the original article, gives an example of what topic modeling could show about change over time.The topic area that I labeled “Race” has the mostly likely words listed at top of chart and traces its increase from 1985-2005 as a proportion of all historical publications. This chart was created from a 400-topic topic modeling run of all abstracts in order to get to this level of specificity.
+
+See also comment on The Methodological Challenge.
+
+{{< figure src="/img/blocknewman0a.png" alt="Graph of race in historical abstracts." >}}
+
+{{% /notation %}}
+
+{{% notation title="Figure 0b. Sample Basic Topic Labels on Twenty-Topic Analysis of c. 19,000 Gender Abstracts" %}}
+
+This table shows one topic modeling analysis of the c. 19.000 abstracts identified as related to women’s history. Because we did not focus on detailed topics for the bulk of the article, I labeled topics mostly for my own ease of identification (ie: I had two topics related to literature, and did not parse the fine differences between them for this essay). Creating a representative topic label involved parsing each list of likely words and looking at the articles with the highest percentage of text relating to each topic. If I wrote this today, I would crowd source the topic labels with multiple domain experts and provide an online supplement with transparent labels on each topic that showed areas of agreement and disagreement. 
+
+|Topic Label| T# | % of 20 | Likely Words |
+|----|----|----|----|
+|Gender, Feminism| t19| 0.0862| women history gender feminist feminism movement social studies political historical between historiography work research american issues review politic historian author how theory cultural class race|
+|Labor|t11|0.0842|women labor work gender social employment economic worker working men class male female domestic roles industry status policy sex welfare union organization role home position 
+|Sex Roles|t4|0.0700|women men roles female new male gender social class american who century girl than many work them society during domestic role sport often some world |
+|Class, Sexuality, Gender|t3|0.0700|women century gender social class female men 19th middle roles public england sex male britain sexual british between victorian society masculinity domestic sexuality new power |
+|Sex & Society|t2|0.0661|women social law marriage sexual prostitution century legal divorce court control sexuality men public violence state sex gender against family right cases between society reform|
+|Literature|t17|0.0612|her mary women author she novel writer england work writing letter literary great woman elizabeth britain life margaret female poetry his english century william wollstonecraft |
+|Suffrage, Feminism, Politics|t9|0.0557|women political movement suffrage right social politic feminism feminist woman party organization national reform new irish association state jewish union equality campaign ireland league who |
+|Family, Social & Economics| t10| 0.0532|women family household marriage men children economic social families than married single between canada among mother age data female labor gender sex who widow support |
+|Family, Kinship| t15| 0.0459|family household families century inheritance marriage social new member children generation kinship property economic rural son land pattern relationship between england one early 19th among |
+|Literature I|t12|0.0450|her life she family letter who mary his author husband virginia wife dickinson woman frontier anne daughter emily death diaries alcott massachusett louisa pioneer first |
+|Civil Rights|t7|0.0408|right civil black movement american action discrimination race affirmative employment racial african white act political equal equality activism south 1960 during 1964 california federal public |
+|20th C gender, culture|t14|0.0405|women gender century female culture art quilt sex roles american men male how china cultural periodical popular images chinese about masculinity body 20th early fashion |
+|Europe, Marraige| t16| 0.0400|women marriage social france century french status family des germany between und der church men 18th court life early les marriages society who law europe |
+|African Americans, Slavery, Abolition|t5|0.0388|women review american black history work life gender author book edited harriet century her race america literature novel slave culture new white lives beecher writing |
+|Religion|t6|0.0383|her she life church who woman his husband first catholic religious year mary work marie death mother mormon wife sister became france career russia maria |
+|African American, Civil Rights, Black Church|t8|0.0383|women her black she south woman american movement social christian southern african right civil temperance carolina union reform indian life king white work baptist mary |
+|Homosexuality|t1|0.0374|sexuality sexual homosexuality lesbian sex gay film male homosexual gender new cather female century art his between theater science willa work culture men body novel|
+|War/Military|t13|0.0321|war women world military during political peace civil france movement soldier french american roles army revolution japan national international service who japanese gender politic italian |
+|Education|t20|0.0289|women education canada school university teacher college student colleges universities social ontario canadian studies female teaching educational career higher science girl new gender history boston |
+|Literature II| t18|0.0275|her elizabeth letter britain novel author great work women writing she charlotte mary new century gilman life margaret jane writer perkin poet literary woman british |
+
+{{% /notation %}}
+
+
 **Women's History in the Field at Large**
 
 {{% notation title="Introductory Arguments" %}}
@@ -286,6 +332,12 @@ abstracted in AHL and HA. Of these, about 1,058 related to women's
 history. By the second half of the 1990s, women's history articles began
 leveling off at the 1,500 per-year mark, while history articles overall
 continued to decline \-- to about 19,000 by 2005.
+
+{{% notation title="So Little Women's History" %}}
+Looking back on this, I’m still surprised at the low percentage of abstracts that contain any substantive content on women’s history. I would love to repeat this to look at 2006-2020 to see whether the percentage of women’s history content has changed in the last decade and a half.
+
+{{% /notation %}}
+
 
 {{% notation title="Complicating Trajectories" %}}
 I provided multiple ways for readers to
@@ -335,6 +387,8 @@ use of the word "women" grew by only 33% over this period. As most
 women's historians know, the discussion of "women" quickly took a back
 seat in the late 1980s and early 1990s to the use of "gender" in
 historical scholarship.
+
+{{< figure src="/img/blocknewmanfig1.png" title="Figure 1:" caption="Women's History Abstracts as Percent of Overall Abstracts versus Time." alt="Line chart showing the percent of women's history abstracts over time." >}}
 
 {{% notation title="Analysis of Gender in Women's History" %}}
 Beyond tracing the
@@ -389,6 +443,14 @@ topics, so that the women's history content is not fully explained or
 easily identified in brief abstracts. It may also be possible that as
 women's history becomes mainstream history, abstractors see less need to
 mark such scholarship as focusing on women.
+
+{{< figure src="/img/blocknewmanfig2.jpg" title="Figure 2:" caption="Frequency of the Word 'Gender' in Abstracts from 1985-2005" alt="Graph of frequency of the word 'Gender' escalating over time.">}}
+
+{{% notation title="Thanks, Joan" %}}
+As any historian who was around in the 1990s can attest, Joan Scott’s conceptualization of gender was incredibly influential, and that shift toward looking at power relationships, not just women’s lived experiences, is very clear in this figure. Joan W. Scott, "Gender: A Useful Category of Historical Analysis." The American Historical Review 91, no. 5 (1986): 1053-075 doi:10.2307/1864376.
+
+{{% /notation %}}
+
 
 {{% notation title="Big Questions" %}}
 Paragraphs like this displays my own interests in
@@ -514,6 +576,24 @@ respectively). As Table 1 shows, a variety of words relating directly to
 women are almost twice as likely to appear in North American abstracts
 as non-North American abstracts.
 
+{{% notation title="Figure Presentation" %}}
+I spent a lot of time thinking about how to present tables and charts in ways that would be most accessible for women’s historians. All of the charts are, I hope, pretty straight forward. Still, as a colleague emailed when this article was originally published, “it's a good thing I know the author because otherwise those charts would scare me to death!!” A divide between quantitative and qualitative comfort probably continues to exist. In the past decade, however, scholars have become much more comfortable with visual representations of data, which are now more readily producible without particular software expertise. Perhaps non-numeric graphics would have reduced that knee-jerk math/data fear that some women’s historians felt when viewing the many tables and graphs in the article.
+
+{{% /notation %}}
+
+**Table 1. Select Women-Related Word Frequencies in Overall Abstract**
+
+|Word|North America|Non-North America|
+|----|----|----|
+|Female(s)|1 in 2625 words| 1 in 2786 words|
+|Feminism(s)|1 in 5505 words|1 in 9619 words|
+|Gender(s)|1 in 1334 words|1 in 2524 words|
+|Her(s)|1 in 795 words|1 in 1513 words|
+|Mother(s)|1 in 3956 words|1 in 7792 words|
+|Wife| 1 in 6062 words| 1 in 11,346 words|
+|Women| 1 in 261 words| 1 in 462 words|
+
+
 {{% notation title="Change Over Time" %}}
 For most of the trends I discussed, I aimed to
 break them down to see what changed over time. It was a tricky endeavor
@@ -575,6 +655,29 @@ women's history. This is, perhaps, the case in other regions as well.
 And the reverse may also be true -- it would be worth investigating
 whether North American historians or journal editors are comparatively
 more supportive of women's history.[^15]
+
+{{% notation title="On Formating" %}}
+
+This was a hard chart to figure out how to format. I wanted to make clear that the “Regions outside of North America” was a breakdown of “Non-North America (HA).” In retrospect (and with better presentation design tools available a decade later) two side-by-side graphic representations may have worked better. Nevertheless, I really value the detail in this table that makes clear how North American and Western Europe topics overwhelmingly dominated both women’s history and general historical publications.
+
+{{% /notation %}}
+
+**Table 2: Regional Distribution in Women's History versus Overall Abstracts**
+
+|**Region**|**Women's History**|**Overall**|
+|----|----|----|----|
+|North America (AHL)| 52.9%| 35.9%|
+|Non-North America (HA)|47.1%|64.1%|
+|*Regions outside of North America*| | |
+|Africa|5.9%|5.4%|
+|East Asia| 7.3%|8.0%|
+Eastern Europe/Soviet|6.7%|16.9%|
+|Latin America|6.4%|7.6%|
+|Middle East|3.1%|4.4%|
+|South Asia|3.4%|2.2%|
+|Western Europe|53.8%|41.9%|
+|Other/Unknown|13.4%|13.5%|
+
 
 {{% notation title="Women's History Is Too Modern?" %}}
 When I researched and wrote this
@@ -643,6 +746,30 @@ Likewise, women's history articles are more likely to focus on turn of
 the twentieth century period than does general scholarship (6.7% v.
 3.7%), which focuses more broadly on the first half of the twentieth
 century.[^18]
+
+{{% notation title="Graphic Representation and Transparency" %}}
+
+Here too, I could see a graphic representation working better to show the distribution of time periods in historical abstracts. I am not opposed to precise quantitative tables, but think that graphics generally allow for a more clear and immediate impression, especially for an audience who is not particularly quantitatively oriented. For Table 3, seeing the relative value may have been more important than knowing the size of a category to the 1/10th of a percentage point. At the time, I had hoped that other scholars would pick up on this research and further refine its findings, so decided that exact percentages would be more useful for those interested in pursuing further analysis.The asterisk below the table is another example of my efforts at transparency and clarity and footnotes 13, 16, and 22 offer further details on the classification process we used to analyze chronology.
+
+{{% /notation %}}
+
+**Table 3: Distribution of Abstracts Over Various Time Periods**
+
+|**Time Period**|**Women's History**|**Overall**|
+|----|----|----|
+|c. 1450 through 17th Century| 5.1%|5.6%|
+|18th Century| 4.1%|3.8%|
+|18th through 19th Centuries|2.2%|1.8%|
+|19th Century|15.9%|12.2%|
+|Turn of the 20th Century (1880-1920)|6.7%|3.7%|
+|19th through 20th Centuries*|5.0%|4.2%|
+|20th Century (in total)|57%|63.1%|
+|20th c: 1900-1945| 16.9% 21.1%|
+|20th c: Post-1945|30.2%|32.9%|
+|3 or more Centuries|3.9%|5.6%|
+
+*Twentieth-century percentages include 1900-1999 dates, as well as 1900-1945, and post-1945 categories.
+
 
 {{% notation title="Where's the Sweep?" %}}
 The finding that women's histories undertook
@@ -787,6 +914,25 @@ from the data mining results did not get lost in the quantitative
 details, so offer a narrative summary here.
 {{% /notation %}}
 
+{{% notation title="Representing Topic Modeling" %}}
+
+I debated how much to explain about the probabilistic topic modeling process, about labeling of topics, etc. Here I decided to just include the topic labels I added to topic modeling topics as a domain expert, rather than including lists of most frequent terms in each topic. If I wrote this now, I might redo this table into a visual to make the regional differences in thematic foci more easily scannable.
+
+{{% /notation %}}
+
+**Table 4: Major Women's History Topics in Overall Abstracts**
+
+|**Topic**|**North America**|**Non-North America**|
+|----|----|----|
+|Women & Biography| 0.53%|0.22%|
+|Family, Kinship|0.58%|0.42%|
+|Feminism, Suffrage|0.71%|0.36%|
+|Women's Labor & Work|0.48%|0.29%|
+|Women & Literature|0.62%|0.16%|
+|Marraige, Sexuality|0.55%|0.43%|
+|Sex Roles|0.37%|0.22%|
+|*Total*|*3.8%*|*2.1%*|
+
 There is no doubt that women's history accounts for a diverse and
 growing proportion of historical scholarship. Within this growth,
 however, its rate of increase has been slowing. An increased focus on
@@ -804,7 +950,7 @@ section, we focus more in depth on women's history abstracts to further
 analyze the extent to which these trends relate to women's history
 rather than larger trends within the profession.
 
-**[The Field of Women's History]{.smallcaps}**
+**The Field of Women's History**
 
 {{% notation title="Section Intro" %}}
 One of the values of comparing all
@@ -909,6 +1055,31 @@ the largest drop. Overall, scholarship still increased in each of these
 regions, showing the most pronounced gains occurring in the first half
 of the 1990s and then leveling after 2000.
 
+{{% notation title="On Presentation and Percentages" %}}
+
+I thought about using percentages to convey these frequencies because readers may be more used to seeing percentages, but I wanted this table directly comparable to Table 1, and Table 1’s percentages would have been as small as 0.009% which did not seem particularly reader-friendly.
+
+{{% /notation %}}
+
+**Table 5: Select Word Frequencies in Women's History Abstracts**
+|**Word**|**North America**|**Non-North America**|
+|----|----|----|
+|Female(s)| 1 in 295| 1 in 227|
+|Feminism(s)|1 in 618|1 in 604|
+|Gender(s)|1 in 156|1 in 150|
+|Her(s)|1 in 135|1 in 171|
+|Mother(s)|1 in 750|1 in 818|
+|Wife|1 in 1743|1 in 1759|
+|Women|1 in 26|1 in 25|
+
+{{% notation title="To Smooth or Not to Smooth" %}}
+
+I thought about smoothing the data on this chart to make the trend lines more visible, but ultimately decided to present the data in its original form. Perhaps now, with better graphics tools, I would draw dashed trend lines through the data.
+
+{{% /notation %}}
+
+{{< figure src="/img/blocknewmanfig3.png" title="Figure 3:" caption="Regional Variation in Women's History Abstracts, 1985-2005 (Part I)" alt="Graph comparing North American and Western European number of women's history abstracts." >}}
+
 {{% notation title="Return to Chronology" %}}
 While the question of which time periods of
 women's history received adequate attention may no longer animate the
@@ -932,6 +1103,14 @@ by 2005. Alternatively, looked at as a percentage of women's history
 abstracts each year, twentieth-century women's history has actually
 declined -- from 75% of all women's history abstracts in 1985, to 68% in
 2005.
+
+{{% notation title="Crowded Data" %}}
+I struggled to present these six trend lines in a legible format. Color would have been easier, of course. I decided on two charts of regional variation (Part I and Part II) because including Western Europe and North America with all other regions would have left those other regions illegibly squished together due to their substantially lower numbers (ranges of c. 10-70 v. c. 200-900).
+
+{{% /notation %}}
+
+{{< figure src="/img/blocknewmanfig4.png" title="Figure 4:" caption="Regional Variation in Women's History Abstracts, 1985-2005 (Part II)" alt="Graph showing the number of women's history abstracts over time in Africa, East Africa, Eastern Europe/Soviet, Latin America, Middle East, and South Asia." >}}
+
 
 {{% notation title="It Isn't All About The Now" %}}
 I was surprised to find that
@@ -971,6 +1150,14 @@ historians. But I had an interest in showing the range of results from
 large scale data mining as a proof of concept kind of approach, in the
 hopes that others would build on this kind of methodological work.
 {{% /notation %}}
+
+{{% notation title="Presentation, Yet Again" %}}
+
+Here, too, I might have chosen to smooth the data somewhat, or perhaps present this with better graphics. Looking back, I’m not sure how crucial this figure is other than to show roughly similar trends. I wonder if the larger variations in 18th-century scholarship relates to its smaller overall numbers of abstracts; at the time, I tried to look for an explanation of the big spike in 2002, but could not find a simple explanation.
+
+{{% /notation %}}
+
+{{< figure src="/img/Blocknewmanfig5.png" title="Figure 5:" caption="Percent of Women's History Abstracts withn Time period by Publication Date" alt="Graph of women's history abstracts within time period and publication date.">}}
 
 This means that even though the twentieth century remains the largest
 focus of history as a whole, it does not appear that women's history has
@@ -1018,6 +1205,26 @@ contributes to a variety of topical areas in proportion to the amount
 that that abstract focuses on each area. This can produce more realistic
 subject categorizations and challenge the sometimes-mainstream image of
 women's history as not intrinsic to other subfields.
+
+**Table 6: Broad Topic Areas in Women's History Abstracts**
+|**Topic Area**|**% of text aaddressing**|
+|----|----|
+|Regional Focus (inc. colonialism/nationalism)|12.7%|
+|Labor, Economics, Class|11.7%|
+|Literature, Biography|11.0%|
+|Sexuality, Reproduction|9.0%|
+|Historiography, Reviews|6.4%|
+|Gender & Identity|6.2%|
+|Politics, Politcal Movement|5.4%|
+|Family, Marriage|5.1%|
+|Race, Slavery, Civil Rights|4.3%|
+|Suffrage, Feminism|3.6%|
+|Religion|3.4%|
+|Arts, Media|3.3%|
+|War|3.3%|
+|Education|2.6%|
+|Welfare|2.5%|
+|Other|9.7%|
 
 {{% notation title="Return to Regionalism" %}}
 I wanted to emphasize the regional
@@ -1139,6 +1346,26 @@ of the state of the field of women's history and diving deeply into
 those findings.
 {{% /notation %}}
 
+{{% notation title="Time Period Topic Comparison" %}}
+
+Because the relative amount of women’s history content published on various time periods had been such a concern in the field, I wanted to offer a broad comparison of topical content of the two most chronologically far apart time periods. I called these subject areas “categories” rather than “topics” to signal that I had combined multiple topic model topics to create each category title.
+
+{{% /notation %}}
+
+**Table 7: Top Four Categories for post-1945 Women's History Abstracts**
+|----|----|
+|11.5%|Economic Employment Disparities|
+|8.3%|Gender and Identity|
+|7.0%|Political Parties|
+|5.1%|Civil Rights and Affirmative Action|
+
+**Table 8: Top Four Categories for c.1450-1799 Women's History Abstracts**
+|----|----|
+|10.5%|Family and Households|
+|9.2%|Women and Men|
+|6.9%|Gender and Identity|
+|6.5%|Religion|
+
 In terms of the time periods covered by the AHL and HA databases, the
 picture is a complicated one: women's history focuses on more recent
 time periods, but no more so than the field as a whole. Indeed, by
@@ -1250,6 +1477,45 @@ and straightforward, it took extensive domain knowledge and expertise to
 thoughtfully classify the various topics within history of sexuality.
 {{% /notation %}}
 
+{{% notation title="On Stemming" %}}
+
+I thought about stemming some of these words (homosexual/ity; sex/ual/ity) to combine counts, but decided that the differences in regional frequencies justified presenting each one separately in the table.
+
+{{% /notation %}}
+
+**Table 9: Sex-Related Word Frequency in Women's History Abstracts**
+
+|**Word**|**North America**|**Non-North America**|
+|----|----|----|
+|Abortion|1 in 3065|1 in 4025|
+|Gay|1 in 2512|1 in 10393|
+|Homosexual|1 in 5448|1 in 6587|
+|Homosexuality|1 in 2761|1 in 2885|
+|Lesbian|1 in 2222|1 in 4371|
+|Queer|1 in 8641|1 in >29,000|
+|Pregnancy|1 in 7652|1 in 8148|
+|Prostitution|1 in 3977|1 in 1741|
+|Rape|1 in 5332|1 in 4588|
+|Reproduction|1 in 6961|1 in 4588|
+|Sex|1 in 430|1 in 577|
+|Sexual| 1 in 824|1 in 607|
+|Sexuality|1 in 1264|1 in 778|
+
+{{% notation title="Representing Sexuality" %}}
+
+I spent considerable time deciding on how to label various topics within the history of sexuality. This table presents lists of terms that make up a topic so that readers could analyze for themselves the content behind each topic label. We called the list “keywords” to avoid confusion over how “most likely words” is the topic produced by  topic modeling.
+
+{{% /notation %}}
+
+**Table 10: Sexuality Topics Within Women's History Abstracts**
+|**Topic Label**|**Keywords associated with Topic**|**%**|
+|----|----|----|
+|Sexuality| Sex, sexual, sexuality, body, images, representation| 3.4%|
+|Sexual Regulation| Sexual violence, prostitution, social control, honor, rape, criminal| 2.6%|
+|Repoductive Health| Birth, pregnancy, health, disease, abortion| 1.7%|
+|Same-Sex Sexuality| Lesbian, gay, homosexual, film, sex, sexual| 1.3%|
+|**Total**| | 9%|
+
 Figure 6 shows the regional variations in these sexuality topics within
 women's history abstracts. Work related to sexuality makes up the
 biggest proportion of Western European abstracts, and the smallest of
@@ -1267,6 +1533,14 @@ Here, too, I argued against the
 assumption that so-called "trendy" topics like history of sexuality are
 necessarily focused only on the modern period.
 {{% /notation %}}
+
+{{% notation title="Graphic Figure" %}}
+
+I found this graphic particularly useful for comparing multiple regions and topical areas. And it displays well in black and white. One oops: Figure 6 says “Homosexuality” while the text and Table 10 refers to same-sex sexual behavior and sexuality. If I were writing this today, I’d likely choose a version of LGBTQ as a topic identifier instead.
+
+{{% /notation %}}
+
+{{< figure src="/img/blocknewmanfig6.png" title="Figure 6:" caption="Regional Variation of Sexuality Topics Within Women's History Abstracts" alt="Bar chart of sexality topics in women's history abstracts by region." >}}
 
 In fact, it appears that there is more clear variation across regional
 lines of sexuality topics than across time periods. Table 11 shows that
@@ -1306,6 +1580,22 @@ same-sex sexuality. The diversity of chronologic interest in sexuality
 also reminds scholars to not presume that sexuality scholarship is most
 vibrant in recent eras, and might again serve to encourage scholars'
 in-depth conversations about sexuality across multiple centuries.
+
+{{% notation title="Graphics" %}}
+
+I don’t remember why I didn’t make a bar chart or some other graphic representation for this table. I think that would have been more effective than rows and columns of percentages.
+
+{{% /notation %}}
+
+**Table 11: Percent of Sexuality Topics within Select Time Periods of Women's History**
+
+|**Time Period**|**Sexuality**|**Sexual Regulation**|**Reproduction**|**Homosexuality**|**Total %**|
+|---|---|---|---|---|---|
+|c. 1450-1599|3.6%|2.2%|1.7%|1.1%|8.6%|
+|17th Century|2.7%|2.3%|1.5%|1.2%|7.7%|
+|18th Century|2.8%|2.3%|1.1%|0.8%|7.0%|
+|19th Century|3.2%|2.2%|1.8%|0.9%|8.1%|
+|20th Century|2.5%|2.3%|2.0%|1.7%|8.5%|
 
 **Conclusion**
 
