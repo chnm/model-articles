@@ -7,9 +7,6 @@ author:
 - name: Sharon Block
   affiliation: University of California, Irvine
   email: sblock@uci.edu
-- name: David J. Newman
-  affiliation: The University of British Columbia
-  email: david.newman@ubc.ca
 citation:
 - author: "Block, Sharon, and Newman, David J."
   title: "What, Where, When and Sometimes Why: Data Mining Two Decades of Women’s History Abstracts"
