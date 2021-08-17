@@ -22,7 +22,7 @@ citation:
 {{% headnote title="Headnote" %}}
 This piece originated from David Newman’s work in then-brand-new technology of probabilistic topic modeling. Sharon Block quickly saw the potential value in this massive data mining tool for historical analysis and the two successfully received funding from University of California, Irvine to undertake several case studies. Sharon’s interest in sexism in the historical profession led to this analysis of the place of women’s history in historical publishing. Because full text journals were not available, we turned to (what were then) widely-used database abstracts that covered historical publishing from c. 1450-present.
 
-One of the challenges of the piece was satisfying reviewers. While this is true of all peer-reviewed scholarship, in addition to many helpful critiques, some reviewers were not sure how to evaluate this interdisciplinary work. Some reviewers seemed to read it as outsiders writing about women’s history (double blind review meant that readers did not know that one author very definitely considers herself a women’s historian), some misunderstood how topic modeling works, and as a whole, reviewers disagreed on the ideal purpose of the essay. The title aimed to signal that while we address issues relevant to current historical debates, our primary focus was to explore, not necessarily explain, the patterns we newly identified. Our idea was that this piece would provide hard data as an impetus for others to do further investigation into sexism in historical publishing.
+One of the challenges of the piece was satisfying reviewers. While this is true of all peer-reviewed scholarship, in addition to many helpful critiques, some reviewers were not sure how to evaluate this interdisciplinary work. Some seemed to view it as outsiders writing about women’s history (double blind review meant that readers did not know that one author very definitely considers herself a women’s historian), some misunderstood how topic modeling works, and as a whole, reviewers disagreed on the ideal purpose of the essay. The title aimed to signal that while we address issues relevant to current historical debates, our primary focus was to explore, not necessarily explain, the patterns we newly identified. Our idea was that this piece would provide hard data as an impetus for others to do further investigation into sexism in historical publishing.
 {{% /headnote %}}
 
 {{% notation title="Starting With Women’s History Historiography" %}}
@@ -117,7 +117,7 @@ do publications on women's history increase or decrease in numbers as
 well as *when*, chronologically, women's historians most focus their
 efforts.
 
-{{% notation title="Needs Title" %}}
+{{% notation title="Essay Goals" %}}
 This paragraph was meant to answer conflicting reader
 recommendations to frame this essay as a state of the field report
 versus an analysis of the causes of sexism in historical publication. I
@@ -145,7 +145,7 @@ study.
 {{% notation title="The Methodological Challenge" %}}
 The methodology section shrank in
 revised versions of the essay because discussions of technological
-processes and seemed to lead to confusion and, most early readers were
+processes seemed to lead to confusion and, most early readers were
 not particularly interested in how the technological sausage was made.
 It was a challenge, especially when topic modeling was so new, to
 describe it in terms historians would understand, so we went with a
@@ -161,7 +161,7 @@ Newspaper](https://drive.google.com/open?id=1c9xwiSApankjwoLwjE7luo81D_sHQvN5),"
 *Journal of the American Society for Information Science and Technology*
 57:6 (April 2006), 753-767\] because it was not aimed at humanities
 scholars. Personally, I find methods discussions engaging, and would have
-liked to explain more about topic modeling, including topic most
+liked to explain more about topic modeling, including topics as most
 frequent word lists so that readers could analyze the labels I put on
 them for themselves. A web supplement with all that additional
 information would be useful if I wrote the article today.
@@ -189,7 +189,9 @@ the half million historical abstracts. On various issues, we determined
 that a frequency count might support an analytic point more clearly than
 topic modeling. This was an excellent reminder that the newest,
 snazziest technological innovations don't necessarily yield the best
-results in every situation. Footnote 5 was added to try to further
+results in every situation. 
+
+Footnote 5 was added to try to further
 explain probabilistic topic modeling after one reader wrongly suggested
 that our "database" needed significance tests.
 {{% /notation %}}
@@ -230,8 +232,8 @@ surround them.
 We did not want to include too many technical
 details about the topic modeling in the text, for fear it would alienate
 readers. We instead explained in footnotes that we did runs of 40-120
-topics of the half million abstracts, and 20-80 topics for the c19,000
-women's history abstracts, then reviewed which seemed to most useful to
+topics of the half million abstracts, and 20-80 topics for the c. 19,000
+women's history abstracts, then reviewed which seemed to be most useful to
 understanding each corpus. This would be one example of where data
 analysis relies on judgment as much as science.
 {{% /notation %}}
@@ -292,7 +294,7 @@ In retrospect, I could have punched up
 this opening paragraph to better convey the excitement of some of our
 findings. I suspect that, with such new methodologies, I was wary about
 stepping too far away from what I could prove to adopt a more
-conversational or even slightly polemic authorial voice.
+conversational, or even slightly polemical, authorial voice.
 {{% /notation %}}
 
 The amount of scholarship on women and gender within the historical
@@ -310,13 +312,13 @@ scholarly trends than specific to the field of women's history.
 {{% notation title="(Not A Good) Surprise!" %}}
 One of the most surprising findings was
 that even by 2005, women's history content was still a single digit
-percentage of all content. I checked these numbers ten different ways
+percentage of all publication abstract content. I checked these numbers ten different ways
 because I would have guessed that women's history content accounted for
-closer to 25% \-- undoubtedly women's historians were overrepresented in
+closer to 25%; undoubtedly women's historians were overrepresented in
 my own professional networks. I also asked a dozen-plus women's and
 non-women's historians to guess the percent of article publications over
 the past two decades that focused in some way on women's history. Pretty
-uniformly, they guessed closer to 50% than 10%.
+uniformly, they guessed closer to 50% than the reality of 10%.
 {{% /notation %}}
 
 Publications related to women's history have been increasing since the
@@ -359,9 +361,9 @@ a majority of publications.
 {{% notation title="Making Charts Legible and The Rise of Gender" %}}
 In the article's
 original version, this figure was expressed as "Frequency in \_\_ words"
-which meant what looked like a declining curve. For the revision, we
-inverted the chart to a more user-friendly by calculating frequency per
-1000 words that created an upward curve. This was one way we tried to
+which produced what looked like a declining curve. For the revision, we
+inverted the chart to be a more user-friendly by calculating frequency per
+1000 words, which created an upward curve that reflected the increased use of "gender" as a descriptive term. This was one way we tried to
 make the charts, figures, and math accessible to historians.
 
 
@@ -370,7 +372,7 @@ I tried to repeatedly remind readers that this was an analysis of
 abstracts, and so one step removed from the articles themselves. This
 was particularly important when analyzing the word frequency of
 "gender." I suspect that the dramatic rise of the term "gender" in
-abstracts reflects shifting disciplinary jargon and may overstate a
+abstracts reflected shifting disciplinary jargon and may overstate a
 shift in the content and approach to women's history.
 {{% /notation %}}
 
@@ -391,13 +393,13 @@ historical scholarship.
 Beyond tracing the
 historiography related to gender and the shifts toward cultural, rather
 than social, histories in many circles, I also wanted to note that there
-were costs to this beyond terminology. Gender wound up displacing what
+were costs to this beyond just a terminological shift. "Gender" wound up displacing what
 may have been more overtly feminist classifications like sexism,
 patriarchy, etc. To be clear, gender was a radical and empowering
 analytic tool for many women's historians (myself included) in the
 1990s. But looking back, I wonder if it gained traction in part because
 it could seem less challenging to the status quo. I could imagine a
-contemporary parallel to working on issuses related to "race" versus
+contemporary parallel to scholarship related to "race" versus
 "white supremacy," terms that may address similar issues but carry very
 different valences.
 {{% /notation %}}
@@ -425,9 +427,9 @@ particular activist movement.[^11]
 {{% notation title="More Abstract Research" %}}
 I would love to see a study of how
 women's, gender, and sexuality histories are described in more recent
-abstracts. Anecdotally, it also seems that more historical publications
+abstracts. Anecdotally, it seems that more historical publications
 are requiring abstracts, so it would be enlightening to analyze
-author-produced abstracts and see how they might compare to
+author-produced abstracts to see how they might compare to
 database-produced ones.
 {{% /notation %}}
 
@@ -451,8 +453,8 @@ As any historian who was around in the 1990s can attest, Joan Scott’s conceptu
 
 {{% notation title="Big Questions" %}}
 Paragraphs like this displays my own interests in
-the structure of the academy, not just intellectual products. At the
-time I wrote this, institutional efforts at addressing the continued
+the structure of the academy, not just its intellectual products. At the
+time I wrote this article, institutional efforts aimed at addressing the continued
 marginalization of various underrepresented minorities in academia were
 just ramping up. I continue to believe that any analysis of scholarship
 requires simultaneous attention to the structural conditions under which
@@ -509,7 +511,7 @@ pre-processing, such as removing stopwords from the text we were
 analyzing. However, after a few topic modeling runs, we realized that
 many standard stopword lists include gendered pronouns as stopwords (for
 example, http://xpo6.com/list-of-english-stop-words/), which prevents
-and analsysi of their presence as a proxy for the degree to which
+and analysis of their presence as a proxy for the degree to which
 abstracts focused on men versus women. Keeping these pronouns in the
 processed text allowed us to confirm that men were still overwhelmingly
 the focus of publication abstracts.
@@ -561,7 +563,7 @@ Historians love regional differentiation. Because
 *Historical Abstracts* (HA) focuses (theoretically) on everywhere else,
 it made sense to compare the two databases. I was a little surprised
 that women's history pretty consistently appeared more frequently in
-North American focused publications.
+North American-focused publications.
 {{% /notation %}}
 
 Turning to a regional analysis of history abstracts shows that a higher
@@ -681,7 +683,7 @@ When I researched and wrote this
 article, there seemed to be significant discussion and debate about
 whether women's historians only wanted to do 20^th^-century scholarship,
 and how this was a major flaw in the field. Accordingly, I analyzed the
-chronological spread of women's history. AHL and HA categorized
+chronological spread of women's history. AHL and HA categorized the
 scholarship it abstracted by time period, so I could compare women's
 history's chronological foci to general historical publications'
 chronological foci.
@@ -705,7 +707,7 @@ AHL and HA provided the years on which an article focused, but as in all
 data analysis, I had to make decisions about how to aggregate and
 present it meaningfully, such as how to group work that crossed decades
 (see footnote 16). For instance, scholarship repeatedly focused on the
-1880s-1920s, which does not even fit into a category of a single
+1880s-1920s, which does not fit into a category of a single
 century. I also decided to break out the pre- and post-1945 time periods
 because they showed that the women's history was more under-represented
 in the pre-1945 period. Each figure in this article represents extensive
@@ -726,7 +728,7 @@ scholarship focus primarily on post-1800 time periods.[^17]
 
 {{% notation title="Nuancing Current Historiography" %}}
 Judith Bennett's work had rightly
-had a big impact on how scholars understood the state of the field of
+impacted on how scholars understood the state of the field of
 women's history. Adding to her contention that women's history
 disproportionately studies modern time periods, we found that women's
 history publications most focused on the nineteenth and
@@ -791,7 +793,7 @@ we may be limiting the significance of our findings.
 
 {{% notation title="Basic Chronologies" %}}
 Paragraphs like this, that narrate expected
-chronological differences across regions are not particularly exciting
+chronological differences across regions, are not particularly exciting
 or surprising. But presenting basic data findings still strikes me as
 important to document. Today, I would add a discussion of how the start
 of North American abstracts in the c.1450 time period reflects a
@@ -951,10 +953,10 @@ rather than larger trends within the profession.
 
 {{% notation title="Section Intro" %}}
 One of the values of comparing all
-historical abstracts to women's history historical abstracts is the
+historical abstracts to women's history abstracts is the
 ability to pinpoint where variations occur -- if women's history
 publications follow or depart from more general trends in historical
-publishing
+publishing.
 {{% /notation %}}
 
 Here we explore the 30,891 abstracts that focused significantly on
@@ -998,7 +1000,7 @@ disproportionate focus on the United States (and Canada), and I noted
 this structural overemphasis in the following paragraphs. I would hope
 that the most recent decade of women's history publications would show
 less dominance of North American (and secondarily Western European)
-regional focus.
+regional foci.
 {{% /notation %}}
 
 Within women's history abstracts, we can see an array of regional
@@ -1016,8 +1018,8 @@ Anyone who has undertaken quantitative
 analysis knows how important it is to think carefully about what the
 data shows. At first glance, Figure 3 looked like 2 parallel lines
 increasing, but the rate of increase was nearly double for Western
-Europe as for North American women's history abstracts. We extensively
-analzed each figure that made it into the article to be sure its
+Europe as for North American women's history abstracts. I extensively
+analzed each figure that made it into the article (and many more that didn't) to be sure all
 findings were both accurate and significant.
 {{% /notation %}}
 
@@ -1032,11 +1034,10 @@ to non-Western regions, the attention to Western history is still
 continuing to increase substantially.
 
 {{% notation title="Marking Parallel Trends" %}}
-Histories outside of Europe and North
-America. If the article were structured differently, I might have had a
+If the article were structured differently, I might have had a
 section analyzing the many areas of change that seemed to level off
 after the early-to-mid 1990s. I bring it up repeatedly throughout the
-article, but it could be an interesting analysis to think about broad
+article, but it could be an interesting focused analysis to think about broad
 changes in the field of historical publishing.
 {{% /notation %}}
 
@@ -1112,7 +1113,7 @@ I struggled to present these six trend lines in a legible format. Color would ha
 {{% notation title="It Isn't All About The Now" %}}
 I was surprised to find that
 twentieth-century women's historical publication was not
-disproportionally crowding out other women's history by \-- a comparison
+disproportionally crowding out other women's history; a comparison
 to historical publishing overall presents a more complex picture of
 chronological spread. This is yet another reminder that finding and
 reporting data is usually a multi-step process of investigating various
@@ -1230,7 +1231,7 @@ women's history abstracts struck me as an interesting insight into the
 broad trends within each region's version of women's history. At the
 same time, I'm now struck by how little race appears in this article;
 given how focused "race" topics were on North American history
-abstracts, I recall not wanting to be overly U.S.-focused, so may have
+abstracts. I recall not wanting to be overly U.S.-focused, so may have
 underplayed the topic, since it was not an easily comparable one. I
 would hope that in 2021, the scholarship would support and even require
 a more intersectional analysis.
@@ -1272,7 +1273,7 @@ research and condensed writing. I also, honestly, did not think I wanted
 to invest so much into topic modeling -- I wanted to continue research
 and publishing in colonial North American history. Ironically, my
 subsequent monograph involved hand-coding c. 4000 documents, but
-scholars repeatedly categorized it wrongly as a data mining project.
+scholars repeatedly categorized it wrongly as a computerized data mining project.
 {{% /notation %}}
 
 Even though, as Table 5 showed, women's history abstracts use similar
@@ -1288,12 +1289,12 @@ historiographic concerns.
 I thought it was interesting to compare the
 largest four categories of topics, making up about one-third of all
 topics, in very recent (post-1945) versus the most distant (pre-1800)
-time periods. I do wonder if abstracters on early time periods are more
+time periods. I do wonder if abstracters on early time periods are
 likely to write more generally about subject matter than those who are
 trying to distinguish the array of scholarship on recent history. This
 is a question that a full text analysis of scholarship could help
 answer: what shared disciplinary terms do women's historians use for
-scholarship on across versus within specific time periods?
+scholarship across versus within specific time periods?
 {{% /notation %}}
 
 In terms of chronologic comparisons, generalizable topics of study best
@@ -1314,7 +1315,7 @@ Looking back, this is a bit of a cheat
 paragraph. I begin to summarize the previous section's findings, and
 then turn to an array of (unanswered) questions to raise issues about
 those findings. I'm guessing I was tired and/or hitting my word limit by
-this point in the essay, TBH. Still, these are reasonable questions that
+this point in the essay, to be honest. Still, these are reasonable questions that
 get at issues of systemic bias, structural impediments, and continue to
 connect the scholarship we do to the lived experiences of being a
 woman's historian.
@@ -1335,9 +1336,9 @@ more fully explore the limiting factors that produce these variant
 trends.
 
 {{% notation title="Clear Concluding" %}}
-Some more signposting to reiterate what we had
+More signposting to reiterate what we had
 just showed. If I wrote this now, I hope I'd be more adventurous and
-perhaps propose resolutions, specific areas for needed followup, etc.
+perhaps offer resolutions, specific areas for needed followup, etc.
 Again, this shows the tension between presenting a data-mined overview
 of the state of the field of women's history and diving deeply into
 those findings.
@@ -1378,7 +1379,7 @@ productive intellectual connections to other chronologic times and
 places, and we hope scholars will increasingly consider chronologically
 and regionally broad thinking when doing women's history.
 
-**Within Women's History: Case Study of Sexuality **
+**Within Women's History: Case Study of Sexuality**
 
 {{% notation title="Focus on Sex" %}}
 Here I wanted to show the ways that topic modeling
@@ -1467,7 +1468,7 @@ records for evidence on prohibited sexual practices.
 This brief paragraph is an example of a
 rather large set of findings in a not-so-exciting presentation. This
 narrative of Figure 6 lays out regional differences in how scholars of
-history of sexuality have approached the topic. This seemed to me like a
+history of sexuality have approached the topic. This seemed to offer a
 really useful understanding of the state of the field that I hoped
 others might pick up on and further explore. Even though it seems brief
 and straightforward, it took extensive domain knowledge and expertise to
@@ -1600,10 +1601,10 @@ I don’t remember why I didn’t make a bar chart or some other graphic represe
 It was important to signal the political and
 institutional issues at stake in understanding the place of women's
 historical publishing in the profession. As a colonial historian who had
-"don't be ahistoric, stick to your time period" beat into my brain, this
+"don't be ahistoric, stick to your time period" beaten into my brain, this
 was probably the first time I decided to directly tie my work to current
-events (I've continued to do this in historical work, as the profession
-moves more to embrace the importance of relevance in all scholarship.).
+events (I've continued to do this in historical work as the profession
+productively moves more to embrace the importance of relevance in all scholarship.).
 {{% /notation %}}
 
 In June 2009, the *New York Times* published an article on the decline
@@ -1637,7 +1638,7 @@ evidence of their field's (in)attention to women's history.
 
 {{% notation title="What To Do" %}}
 Here I overviewed general ideas about addressing some
-of the discrepancies in publication abstracts: ways to talk across time
+of the discrepancies in publication abstracts such as ways to talk across time
 periods, see commonalities, and embrace interdisciplinarity. None of
 this strikes me as particularly original or exciting, but I suspect much
 of it remains a challenge to effectively undertake.
@@ -1657,7 +1658,7 @@ integrate historical work into their own.
 {{% notation title="On Collaboration" %}}
 We also raised what I think is a more
 interesting point: how to actually do interdisciplinary work in digital
-humanities, especially at institutions without dedicate DH programs.
+humanities, especially at institutions without DH programs.
 This remains challenging: in 2021, the kind of data analysis in this
 article would not be an interesting computational research project for a
 computer scientist. I happened to be in the right place with the right
@@ -1697,9 +1698,9 @@ as well as those that spoke to recent historiographic debates in the
 field. But there are still countless areas open for investigation.
 
 {{% notation title="Reflection" %}}
-In the next two paragraphs, we aimed for honest
+In the next two paragraphs, I aimed for honest
 reflection on some of the limitations of our work and some ideas for
-future exploration. Most notably, we would have loved to data mine full
+future exploration. Most notably, I would have loved to data mine full
 text of articles. At various points we had preliminary discussions with
 the Mellon foundation and an editor at a major journal but nothing
 concrete resulted. To be honest, I probably was ready to move on to my
