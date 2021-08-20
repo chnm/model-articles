@@ -1,8 +1,9 @@
 ---
 title: "Protestant Letter Networks in the Reign of Mary I: "
-weight: 1
+weight: 3
 subtitle: A Quantitative Approach
 doi: 
+draft: false
 author: 
 - name: Ruth Ahnert
   affiliation: Queen Mary University of London

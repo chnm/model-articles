@@ -1,8 +1,9 @@
 ---
 title: "The Old Bailey Proceedings, 1674-1913: "
-weight: 1
+weight: 6
 subtitle: Text Mining for Evidence of Court Behavior
-doi: 
+doi:
+draft: false 
 author: 
 - name: Tim Hitchcock
   affiliation: University of Sussex
