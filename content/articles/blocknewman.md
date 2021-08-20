@@ -3,7 +3,7 @@ title: "What, Where, When and Sometimes Why:"
 weight: 5
 subtitle: Data Mining Two Decades of Women’s History Abstracts
 doi: http://thelinktothisarticlehere
-draft: true
+draft: false
 author: 
 - name: Sharon Block
   affiliation: University of California, Irvine

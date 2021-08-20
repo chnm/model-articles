@@ -3,7 +3,7 @@ title: "Close Readings of Big Data: "
 weight: 4
 subtitle: Triangulating Patterns of Textual Reappearance and Attribution in the Caledonian Mercury, 1820-1840
 doi: http://thelinktothisarticlehere
-draft: true
+draft: false
 author: 
 - name: M. H. Beals
   affiliation: Loughborough University

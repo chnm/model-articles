@@ -3,7 +3,7 @@ title: "Where is America in the Republic of Letters?"
 weight: 8
 subtitle:
 doi: http://thelinktothisarticlehere
-draft: true
+draft: false
 author: 
 - name: Caroline Winterer
   affiliation: Stanford University
