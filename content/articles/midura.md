@@ -104,7 +104,7 @@ spellings of the German "wegweiser." While the mention of "roads" or
 "posts" in the title increased the likelihood of a route table format
 versus a prose guidebook, there is no way to be completely sure without
 consulting a digitized or physical copy in many cases. I erred on the
-side of excluding any itinerary that I could not ascertain to include
+side of excluding any itinerary from the bibliography that I could not ascertain to include
 route tables.
 
 {{% /notation %}}
@@ -222,13 +222,13 @@ given route, the itineraries have proved difficult for Optimal Character
 Recognition Technology. The irregular table structures, mixed quality
 photographs, ample marginalia, and occasionally damaged texts have
 necessitated hand entry to date. The Transkribus software developed by
-the University of Innsbruck has been revolutionary, and I am now at work
+the READ-COOP Team has been revolutionary, and I am now at work
 training both layout and text recognition models tailored for the
 itineraries.
 
 {{% /notation %}}
 
-{{< figure src="/img/Midura1a.png" title="Fig. 1a:" alt="Page from Ottavio Codogno's Nuovo intinerario" caption="Page from Ottavio Codogno’s Nuovo itinerario, with manuscript reader additions. Journeys are organized by headings, generally consisting of an origin and a destination (see “Poste da Augusta a Colonia”, or “Posts from Augsburg to Cologne.”) The list beneath provides all intermediary postal waystations with their respective distance in posts (“p.I”)." >}}
+{{< figure src="/img/Midura1a.png" title="Fig. 1a:" alt="Page from Ottavio Codogno's Nuovo intinerario" caption="Page from Ottavio Codogno’s Nuovo itinerario, with manuscript reader additions. Journeys are organized by headings, generally consisting of an origin and a destination (see “Poste da Augusta a Colonia”, or “Posts from Augsburg to Cologne.”) The list beneath provides all intermediary postal waystations with their respective distance in posts (“p.I”). Bayerische Staatsbibliotehek Mnchen, Res/Geo.u.86. Courtesty of the Bayerische Staatsbibliotheck Mnchen." >}}
 
 {{% notation title="Dropped Figure" %}}
 
@@ -312,8 +312,7 @@ and can be filtered from analysis. Everything stems from the
 "Route_Description" column of the overview table, which represents a
 fairly straightforward set of transcriptions of all headers under
 consideration. I have provided an image below that includes the
-interpretation of the page shown in figure 1a in the Overview, Route,
-and Edge tables (shown in Google Sheets).
+interpretation of the page shown in figure 1a in the Overview and Route tables (shown in Google Sheets).
 
 {{< figure src="/img/Midura-Data-Structure1.png" alt="Data in Google Sheet" >}}
 
@@ -368,8 +367,8 @@ times and places of publication. The peak of itinerary production within
 the corpus was from the 1590s-1620s, with new editions of Daniel
 Wintzenberger's *Reisebüchlein* (1595, 1598), Giovanni dal'Herba &
 Cherubino Stella's *Itinerario* (1598), Ottavio Codogno's *Nuovo
-itinerario* and *Compendio delle poste* (1608, 1611, 1616, 1623),
-Theodore de Mayenne-Turquet's *Sommaire description* (1604, 1605) and
+itinerario* and *Compendio delle poste* (1608, 1611, 1616, 1623), Theodore Turquet de Mayerne's
+*Sommaire description* (1604, 1605) and
 others.[^26] Itineraries were published across Europe, although there is
 an interesting overall absence of publication from the Netherlands,
 especially given its role as an early headquarters for the Thurn und
@@ -377,7 +376,7 @@ Taxis family of postal administrators.[^27] If Dutch itineraries were in
 circulation, we would expect to see English-language authors drawing
 from them, and yet these itineraries were generally translations of
 German and Italian examples.[^28] Franciscus Schottus' *Itinerari
-Italiae* (1600) had notably originated in the Netherlands, and continued
+Italiae* (1600) had notably originated in Antwerp and continued
 to be produced there, yet listed routes were only ever added by Italian
 publishers.[^29] This absence could be due to continued warfare in the
 Netherlands, making such geographic information more protected, akin to
@@ -440,8 +439,7 @@ genre.
 I selected the editions that are referred to most frequently in the
 article, and that demonstrate a variety of republication proportions.
 The relatively individual route compositions of Charles Estienne (CE)
-and Giovanni Maria Vidari (GV) contrast to that of Theodore Mayenne
-Turquet (TT), which was reproduced in its entirety by Gilbert-Saulnier
+and Giovanni Maria Vidari (GV) contrast to that of Theodore Turquet de Mayerne (TT), which was reproduced in its entirety by Gilbert-Saulnier
 du Verdier (GS). The style of notation by initials and publication date
 (occasionally followed by a letter to indicate one of multiple editions
 in the same year, as in GH1598A) is a unique identifier (the Edition ID)
@@ -463,8 +461,8 @@ also see important shifts within the work of single authors: Codogno's
 canon, but by the 1616 edition, it was significantly expanded, adding at
 least 76 routes.[^35] Many of these new routes may have derived from
 Augsburg schoolmaster Jörg Gail's *Raißbuechlin* (1563) and French
-doctor's Theodore Mayenne's *Sommaire description* (1604).[^36] As
-Mayenne had himself explicitly incorporated the entirety of French
+doctor's Theodore Mayerne's *Sommaire description* (1604).[^36] As
+Mayerne had himself explicitly incorporated the entirety of French
 publisher Charles Estienne's *Guide* (1563) --- and may also have
 borrowed from the German Mayr's *Wegbüchlein---* Codogno's *Nuovo
 itinerario* was the culmination of several decades of such international
@@ -488,7 +486,7 @@ We see from this common genome the manner in which itinerary creators
 read across existing works. In some cases, the process of incorporation
 was explicit: see, for example, the *Suite of Roads in France, Spain and
 Italy and other Places* (*La suite de la guide des chemins tant de
-France, d\'Espagne, Italie et autre pays*) produced by publisher Benoit
+France, d\'Espagne, Italie et autre pays*) produced by publisher Benot
 Rigaud and his sons. The *Suite* combined Charles Estienne's *Guide*,
 dal'Herba's *Itinerary*, and an additional set of routes for pilgrims
 involving their native Lyon.[^39] In cases such as the English
@@ -513,7 +511,7 @@ route tables, but it is not always clear who had the primary agency.
 Yet the evidence that authors frequently republished routes with few
 changes also provides an important caveat for the use of the itinerary
 network as an exact proxy for real-world conditions. The routes in
-dal'Herba & Stella, Schottus and Mayenne were republished with little
+dal'Herba & Stella, Schottus and Mayerne were republished with little
 variation until well into the eighteenth century, despite ample
 infrastructure shifts in the intervening period. A 1610 edition of
 Schottus' *Itinerario* denoted a route from Milan to Brescia as "where
@@ -683,7 +681,7 @@ their consideration of Tudor networks. I picked up this approach from
 the Early Modern Digital Agendas and Networking Archives seminars, which
 is now well represented in a new volume (available as an open access
 Ebook): Ruth Ahnert, Sebastian Ahnert, Catherine Nicole Coleman, Scott
-B. Weingart, *The Network Turn: Changing Perspectives in the Humanities*
+B. Weingart, [*The Network Turn: Changing Perspectives in the Humanities*](https://doi.org/10.1017/9781108866804)
 (Cambridge: 2020).
 
 {{% /notation %}}
@@ -697,7 +695,7 @@ higher betweenness centrality, so a scaled measure (dividing the
 centrality by degree) can provide a more comparable metric. Without
 scaling, the highest-ranking cities remain similar to the above noted
 hubs. With scaling, a new set of French cities rank highly, particularly
-in Normandy (Caen, Loudon), and the Pays de Loire and Centre-Val de
+in Normandy (Caen), and the Pays de Loire and Centre-Val de
 Loire regions (Amboise, Blois, Orléans), and Nouvelle-Aquitaine
 (Bayonne, Bordeaux, Poitiers). These are joined by the Spanish region of
 Castille and León (Valladolid).
@@ -736,8 +734,7 @@ deep cultural --- and religious--- resonance through the seventeenth
 century.[^55] Ample military conflict likely further restricted options
 for travel between France and Spain across the Pyrenees, making the
 route uniquely important to holding together the overall mental map of
-Europe. On the other hand, we see the importance of Normandy (Caen,
-Loudon, Rouen), with a high betweenness centrality deriving from the
+Europe. On the other hand, we see the importance of Normandy, with a high betweenness centrality deriving from the
 channeling of traffic to and from its northern ports: early signs of a
 trend that would strengthen with the meteoric rise of London in the
 eighteenth century.
@@ -786,7 +783,7 @@ made tenable with the construction of the *Teufelsbrücke* ("Devil's
 Bridge") over the Schöllenen Gorge in the thirteenth century.[^57]
 
 {{< figure src="/img/Midura-Figure5a.png" title="" alt="Map route of locations by eigenvector centrality rank." >}}
-{{< figure src="/img/Midura-Figure5b.png" title="Fig. 5a & 5b:" alt="Map of the historic Roman Way." caption="Map of route locations colored by eigenvector centrality rank (darkest being the highest rank) and map of the historic Roman Way (Romweg) as depicted by Erhard Etzlaub’s Romweg map (Nürnberg: c. 1500). High eigenvector centrality indicates the connectivity of nodes to which a node is itself connected. Transalpine commerce continued to connect the most influential cities by way of a limited number of Alpine passes." >}}
+{{< figure src="/img/Midura-Figure5b.png" title="Fig. 5a & 5b:" alt="Map of the historic Roman Way." caption="Map of route locations colored by eigenvector centrality rank (darkest being the highest rank) and map of the historic Roman Way (*Romweg*) as depicted by Erhard Etzlaub’s *Romweg* map (Nürnberg: c. 1500). High eigenvector centrality indicates the connectivity of nodes to which a node is itself connected. Transalpine commerce continued to connect the most influential cities by way of a limited number of Alpine passes." >}}
 
 
 **Fig. 5a & 5b: Map of route locations colored by eigenvector centrality
@@ -1028,7 +1025,7 @@ newly-developed postal routes with historical routes of pilgrimage and
 commerce. It is likely that the plague of 1575/1576 and renewed military
 conflict across Europe contributed to the relative lull in publication
 between 1575-1600. 1600-1630 saw unprecedented itinerary production with
-encyclopedic scope, from Mayenne's *Sommaire* (1604) to Codogno's *Nuovo
+encyclopedic scope, from Mayerne's *Sommaire* (1604) to Codogno's *Nuovo
 itinerario* (1608) and *Compendio delle poste* (1623). 1635-1680 saw few
 new titles, but many republications of existing works. Once again, we
 might point to plague (1630) and military conflict as a likely cause for
@@ -1136,7 +1133,7 @@ the visualizations.
 
 {{< figure src="/img/Midura-Figure6a.png" title="" alt="Network extract from 1585." >}}
 {{< figure src="/img/Midura-Figure6b.png" title="" alt="Network extract from 1600" >}}
-{{< figure src="/img/Midura-Figure6c.png" title="Figures 6a, b, c:" alt="Network extract from 1635" caption="Network extracts dating from 1585, 1600 & 1635. The earliest route networks relied on a core of Madrid, Genoa, Milan and Lyon, reflecting the early influence of the postal itinerary subgenre. By 1600, the route corpus had become much more interwoven, with the structuring effect of the Spanish road becoming apparent. New locations such as London and Constantinople rNeeflect the expanding scope of the itinerary genre By 1635, the connections representing the path of St. James appear as a separate chain beneath the dense core, as indicated within the blue box." >}}
+{{< figure src="/img/Midura-Figure6c.png" title="Figures 6a, b, c:" alt="Network extract from 1635" caption="Network extracts dating from 1585, 1600 & 1635. The earliest route networks relied on a core of Madrid, Genoa, Milan and Lyon, reflecting the early influence of the postal itinerary subgenre. By 1600, the route corpus had become much more interwoven, with the structuring effect of the Spanish road becoming apparent. New locations such as London and Constantinople reflect the expanding scope of the itinerary genre. By 1635, the connections representing the path of St. James appear as a separate chain beneath the dense core, as indicated within the blue box." >}}
 
 By 1600, the core of the network had become more diverse, with
 international connections weaving together European space. Even prior to
@@ -1202,7 +1199,7 @@ increased, but the number of nodes was less than a third of the number
 at its peak.[^85] This was not due to a lack of itinerary publication:
 new itineraries published after 1680 contributed nearly 1,000 entries to
 the database. New titles included Miselli's *Burattino veridico* (1684),
-new editions of Schottus' *Itinerarii* (1700), and Benjamin Schiller's
+new editions of Schottus' *Itinerarii* (1700), and Peter Lehmann's
 *Die vornehmsten Europäischen Reisen* (1703). It is worth reiterating
 that the model as established is limited to routes published by multiple
 authors, meaning that this shift can be interpreted in two ways: first,
@@ -1366,7 +1363,7 @@ compare the densely connected international network circa 1600 (Figure
 6b) to the map above. While both included many of the same routes,
 Sanson's routes were sharply circumvented by national borders. The field
 of vision was limited to France, with Paris, Limoges, and Lyon forming a
-central triad. Mayenne's *Sommaire* (1604), republished in 1629, had
+central triad. Mayerne's *Sommaire* (1604), republished in 1629, had
 accorded a much more prominent role to Metz and Nancy, which channeled
 traffic from Paris further east. In Sanson's depiction, Metz was the end
 of the line, while Nancy was reduced to one of several stops en route to
@@ -1383,7 +1380,7 @@ patronage from state or religious institutions, and produced maps for
 the explicit purpose of furthering and showcasing infrastructure. While
 originally produced for the elite, many maps made their way to a wider
 audience, even incorporated into itineraries. Later editions of Peter
-Ambrosius Lohmann's *Die vornehmsten Europeaischen Reisen* (1703)
+Ambrosius Lehmann's *Die vornehmsten Europeaischen Reisen* (1703)
 included a detailed fold-out map (titled *Besondere Post und Reise Carte
 der Wege durch Teutschland*) with heraldry indicating regional
 sovereignties and Frankfurt dominating the network. Like their
@@ -1515,7 +1512,7 @@ community.
     postal itineraries: Sir Herbert George Fordham, Les routes de France
     ... suivi d'un catalogue des Itinéraires et Guide-Routiers,
     1552-1850 (Paris: 1929) & "The Earliest French Itineraries, 1552 and
-    1591: Charles Estienne and Theodore de Mayenne-Turquet" The Library
+    1591: Charles Estienne and Theodore de Mayerne-Turquet" The Library
     (1921): 193-223; Studies in Carto-Bibliography: British and French
     and in the Bibliography of Itineraries and Road-Books (Oxford:
     1914); H. Wolpert, *Schrifttum über das deutsche Postwesen, Erster
@@ -1711,7 +1708,7 @@ community.
     European Mercury (1641) included 57 (42%), Alonso Meneses' Memorial
     õ abecedario de los mas principales caminos de España (1568)
     included 53 (34%), and Gilbert-Saulnier du Verdier's Le Voyage de
-    France and Thomas Mayenne Turquet's Sommaire Description (1604)
+    France and Thomas Mayerne Turquet's Sommaire Description (1604)
     included the same 34 (25%). It is possible that even Dal'Herba &
     Stella had incorporated an earlier anonymous Itinerario (1550). For
     more on James Wadsworth, see A.J. Loomie, "Wadsworth, James \[pseud.
@@ -1743,7 +1740,7 @@ community.
     Gail's Reisebuchlein (1563), many but not all of which are also
     featured in Mayr's Wegbuchlin (1612), suggesting Gail may have been
     Codogno's source. Nuovo itinerario (1616) also had 18 new routes in
-    common with Mayenne's Sommaire description (1604), only three of
+    common with Mayerne's Sommaire description (1604), only three of
     which were also present in Gail. As the postmaster lieutenant of
     Milan, it is entirely believable that Codogno would have collected
     such itineraries--- the prose section of his itinerary, particularly
@@ -1752,11 +1749,11 @@ community.
     Baroque Post." On Codogno, see Marco Gerosa, La famiglia Tasso e le
     poste dello Stato di Milano in età Spagnola (1556-1650) (Camerata
     Cornello: 2019); Clemente Fedele, Armando Serra, and Marco Gerosa,
-    ed.s, Europa Postale (Camerata Cornello: 2014). On Mayenne, see Hugh
+    ed.s, Europa Postale (Camerata Cornello: 2014). On Mayerne, see Hugh
     Trevor-Roper, Europe's Physician: The Various Life of Sir Theodor de
-    Mayenne (Yale: 2006).
+    Mayerne (Yale: 2006).
 
-[^37]: Mayenne's Sommaire description (1604) had 31 routes in common
+[^37]: Mayerne's Sommaire description (1604) had 31 routes in common
     with Georg Mayr's Wegbuchlin (1578).
 
 [^38]: A random sample of 100 cells from an adjacency matrix of common
@@ -1764,8 +1761,8 @@ community.
     an average commonality of 7.33 routes between itineraries by
     different authors.
 
-[^39]: Benoit Rigaud, La Suite de la guides chemins tant France,
-    d\'Espagne, Italie, et autres pays (Lyon: Benoit Rigaud, 1583).
+[^39]: Benot Rigaud, La Suite de la guides chemins tant France,
+    d\'Espagne, Italie, et autres pays (Lyon: Benot Rigaud, 1583).
     Midura, "Masters of the Post," 311.
 
 [^40]: "per dove altre volte v\'erano le poste, & hor no" in Schottus,
@@ -1951,7 +1948,7 @@ community.
     1899, 62, which explicitly reference the "list of the lieutenant to
     the Postmaster of Milan," likely Codogno's Nuovo Itinerario (1608).
 
-[^66]: This example is located in the Biblioteca Nacional de Espana and
+[^66]: This example is located in the Biblioteca Nacional de España and
     visible via digitized microfilm at
     http://bdh.bne.es/bnesearch/detalle/bdh0000061963.
 
