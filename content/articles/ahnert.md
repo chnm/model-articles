@@ -7,7 +7,7 @@ author:
 - name: Ruth Ahnert
   affiliation: Queen Mary University of London
   email: r.r.ahnert@qmul.ac.uk
-  name: Sebastian E. Ahnert
+- name: Sebastian E. Ahnert
   affiliation: University of Cambridge
   email: sea31@cam.ac.uk
 citation:
@@ -277,7 +277,7 @@ letter, the two dates would be the same.
 This paragraph discusses the taxonomy of 11 edge types that we created
 to encode different kinds of relationships described within letters.
 Although we created this taxonomy at the data collection stage, you will
-see that in the analysis below we collapse them into 2 edges types:
+see that in the analysis below we collapse them into 2 edge types:
 letter edges and non-letter edges. However, this more granular taxonomy
 could be used to answer other questions that we do not touch on.
 
@@ -386,6 +386,8 @@ run, as there are infinitely many ways to draw the same network.
 
 {{% /notation %}}
 
+{{<figure src="/img/ahnert1.png" title="Fig. 1:" alt="Network graph of social interactions" caption="The entire network of social interactions." >}}
+
 By compiling this data we were able to generate a visualization of the
 Protestant community as a network using OmniGraffle (figure 1; we used
 the same program to generate all our figures). Such an image is very
@@ -421,6 +423,8 @@ few. This clearly demonstrates the atypical nature of the hub within a
 network. And it tells us that figures like Bradford, Careless and Ridley
 had a significant impact on the structure of the network; without them
 it would look very different.
+
+{{< figure src="/img/ahnert2.png" title="Fig 2:" alt="Plot of the degree distribution." caption="The degree distribution of the network of social interactions.">}}
 
 {{% notation title="Other kinds of Visualisation" %}}
 
@@ -465,6 +469,8 @@ things we already 'knew' were, in fact, things we had some evidence for,
 or a very good hunch about, and can now verify quantifiably.
 
 {{% /notation %}}
+
+{{< figure src="/img/ahnert3.png" title="Fig 3:" alt="Graph of letter degree versus non-letter degree." caption="Letter degree versus non-letter social degree. John Bradford (a), Henry Hart (b), Barthram Calthorpe (c), John Bradford's mother (d) and Heinrich Bullinger (e) are highlighted." >}}
 
 This is all quite unsurprising for historians familiar with Marian
 history. But actually, it is extremely important that the method
@@ -687,9 +693,7 @@ The significance of this community will be discussed further below.
 Hubs in networks benefit from a rich-get-richer effect in
 historiography: they are the foci of further studies because their
 significance has already been stated, and there is more data about them.
-Network analysis provides a set of tools that
-
-helps us to move beyond this kind of hub-focused significance, showing
+Network analysis provides a set of tools that helps us to move beyond this kind of hub-focused significance, showing
 us ways that we can recover the importance of seemingly minor figures in
 the archives. Importantly, though, this is not inherent in the measures
 available to us, but rather a choice in how to use them. One of our aims
@@ -755,7 +759,6 @@ by Google to assign importance to web pages in the World Wide Web, and
 to rank its search results by relevance. A node that has a high
 eigenvector score is one that is adjacent to nodes that are themselves
 high scorers. As Stephen Borgatti puts it, "the idea is that even if a
-
 node inﬂuences just one other node, who subsequently inﬂuences many
 other nodes (who themselves inﬂuence still more others), then the ﬁrst
 node in that chain is highly inﬂuential".[^24] So, while betweenness
@@ -1114,16 +1117,15 @@ The partial absence of network connections does not necessarily
 invalidate quantitative analysis. A recent investigation by us in
 collaboration with Yann Ryan found that most network metrics are
 relatively robust to the random removal of letters in correspondence
-networks, even on a fairly large scale. First results can be found in
-Ryan, Ahnert, Ahnert, 'Networking Archives: Quantitative History and the
-Contingent Archive', Computational Humanities Research 202: Proceedings
-of the Workshop on Computational Humanities Research (CHR 2020),
-available at:
-[http://ceur-ws.org/Vol-2723/short21.pdf](http://ceur-ws.org/Vol-2723/short21.pdf),
-and a further publication by Yann Ryan Sebastian E. Ahnert is
-forthcoming from *The Journal of Cultural Analytics*.
+networks, even on a fairly large scale. See Yann C. Ryan and Sebastian E. Ahnert, "The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence," *Journal of Cultural Analytics* (2021) [https://doi.org/10.22148/001c.25943](https://doi.org/10.22148/001c.25943).
 
 {{% /notation %}}
+
+{{< figure src="/img/ahnert4.png" alt="a network graph" >}}
+
+{{< figure src="/img/ahnert5.png" alt="a network graph" >}}
+
+{{< figure src="/img/ahnert6.png" title="Figs 4 (top), 5 (middle), and 6 (bottom):" alt="a network graph" caption="The ntwork of freewillers (red), Protestant leaders (green), converted freewillers (yellow) and sustainers (dark green) on 1 March 1555 (figure 4), 14 March 1555 (figure 5) and 20 June 1556 (figure 6). Individuals who have died are shown faded." >}}
 
 One important thing to point out again here, however, is the bias of the
 letter collection we have available to us. The collection, which is
@@ -1320,6 +1322,10 @@ engaging with these approaches as much, one may need to make a choice.
 
 {{% /notation %}}
 
+{{< figure src="/img/ahnert7.png" alt="a network graph" >}}
+
+{{< figure src="/img/ahnert8.png" title="Fig 7 (top) and 8 (bottom):" alt="a network graph" caption="The immediate environment of John BRadford in the network immediately before (Figure 7) and after (Figure 8) his death on 1 July 1555. John Bradford is highlighted as the larger black (Figure 7) and gray (Figure 8) node.  The network only shows the connections of living individuals.  Joh Bradford's death separated an entire subnetwork (shown in red), centered around John Bradford's mother (larder red node), from the rest of the network." >}}
+
 The underground Protestant community in the reign of Mary I, of course,
 was placed under systematic attack by the authorities. It was not
 strictly their intention to remove key nodes; in fact Bradford and
@@ -1361,11 +1367,14 @@ location of its recipient, where known. There is lots of potential for
 this data to open up additional areas for exploration, but there was not
 room in this article. For a good example of how place has been
 incorporated into the study of networks in early modern literary
-history, see Yann Ryan, '"More Difficult from Dublin than from Dieppe":
-Ireland and Britain in a European Network of Communication', Media
-History, 24.3--4 (2018), 458--76.
+history, see Yann C. Ryan, '"More Difficult from Dublin than from Dieppe":
+Ireland and Britain in a European Network of Communication', *Media History*, 24.3--4 (2018), 458--76.
 
 {{% /notation %}}
+
+{{< figure src="/img/ahnert9.png" alt="a network graph" >}}
+
+{{< figure src="/img/ahnert10.png" alt="a network graph" title="Fig 9 (top) and 10 (bottom):" caption="The core of the network, showing all links (figure 9) and only those links of individuals alive at the end of the period of study, on the 28 July 1558." >}}
 
 The connectivity decreases as more nodes are removed. If we look at the
 very final image of the network (figure 9b), on 28 July 1556 we can see
