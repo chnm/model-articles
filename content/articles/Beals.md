@@ -742,15 +742,15 @@ networks.
 
 {{% /notation %}}
 
-{{< figure src="/img/Beals-f1.png" title="Figure 1" alt="Visualization of The Caledonian Mercury June 15, 1820, source types." caption="Re-visualisation of the Caledonian Mercury for June 15, 1820, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.5998502." >}}
+{{< figure src="/img/Bealsfig1.png" title="Figure 1" alt="Visualization of The Caledonian Mercury June 15, 1820, source types." caption="Re-visualisation of the Caledonian Mercury for June 15, 1820, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.5998502." >}}
 
-{{< figure src="/img/Beals-f2.png" title="Figure 2" alt="Visualization of The Caledonian Mercury June 16, 1825 source types." caption="Re-visualisation of the Caledonian Mercury for June 16, 1825, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.5998496." >}}
+{{< figure src="/img/Bealsfig2.png" title="Figure 2" alt="Visualization of The Caledonian Mercury June 16, 1825 source types." caption="Re-visualisation of the Caledonian Mercury for June 16, 1825, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.5998496." >}}
 
-{{< figure src="/img/Beals-f3.png" title="Figure 3" alt="Visualization of The Caledonian Mercury June 14, 1830, source types." caption="Re-visualisation of the Caledonian Mercury for June 14, 1830, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.5998493." >}}
+{{< figure src="/img/Bealsfig3.png" title="Figure 3" alt="Visualization of The Caledonian Mercury June 14, 1830, source types." caption="Re-visualisation of the Caledonian Mercury for June 14, 1830, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.5998493." >}}
 
-{{< figure src="/img/Beals-f4.png" title="Figure 4" alt="Visualization of The Caledonian Mercury June 15, 1835, source types." caption="Figure 4: Re-visualisation of the Caledonian Mercury for June 15, 1835, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.5998454." >}}
+{{< figure src="/img/Bealsfig4.png" title="Figure 4" alt="Visualization of The Caledonian Mercury June 15, 1835, source types." caption="Figure 4: Re-visualisation of the Caledonian Mercury for June 15, 1835, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.5998454." >}}
 
-{{< figure src="/img/Beals-f5.png" title="Figure 5" alt="Visualization of The Caledonian Mercury June 15, 1840, source types." caption="Re-visualisation of the Caledonian Mercury for June 15, 1840, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.6011597." >}}
+{{< figure src="/img/Bealsfig5.png" title="Figure 5" alt="Visualization of The Caledonian Mercury June 15, 1840, source types." caption="Re-visualisation of the Caledonian Mercury for June 15, 1840, shaded by source type. High-resolution and full colour images and associated data available at http://dx.doi.org/10.6084/m9.figshare.6011597." >}}
 
 {{% notation title="Piecing Together Institutional Biographies" %}}
 
