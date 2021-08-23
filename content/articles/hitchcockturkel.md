@@ -1,5 +1,5 @@
 ---
-title: "The Old Bailey Proceedings, 1674-1913: "
+title: "<em>The Old Bailey Proceedings</em>, 1674-1913: "
 weight: 6
 subtitle: Text Mining for Evidence of Court Behavior
 doi:
@@ -13,7 +13,7 @@ author:
   email: wturket@uwo.ca
 citation:
 - author: Hitchcock, Tim and William J. Turkel
-  title: "The Old Bailey Proceedings, 1674-1913: Text Mining for Evidence of Court Behavior"
+  title: "<em>The Old Bailey Proceedings</em>, 1674-1913: Text Mining for Evidence of Court Behavior"
   journal: Law and History Review
   year: 2016
   volume: 34

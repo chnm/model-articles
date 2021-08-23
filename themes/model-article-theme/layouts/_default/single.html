@@ -4,7 +4,7 @@
         <header class="essay-header">
 
             <h2>
-                {{ .Params.title }}
+                {{ .Params.title | safeHTML }}
                 <br><small>{{ .Params.subtitle }}</small>
             </h2>
 
@@ -19,7 +19,7 @@
             <h4>Citation for Original Article:</h4> 
             <div class="abstract-contents">
                 {{ range .Params.citation }}
-                <span class="citation"> {{ .author }}. "{{ .title }}," <em>{{ .journal }}</em> {{ .volume }}, no. {{ .issue }} ({{ .year }}): {{ .pages }}, <a href="{{ .doi }}">{{ .doi }}</a></span>
+                <span class="citation"> {{ .author }}. "{{ .title | safeHTML }}," <em>{{ .journal }}</em> {{ .volume }}, no. {{ .issue }} ({{ .year }}): {{ .pages }}, <a href="{{ .doi }}">{{ .doi }}</a></span>
                 {{ end }}            </div>
         </section>
         {{ replaceRE `\^(.*?)\^` "<sup>$1</sup>" .Content | safeHTML }}
