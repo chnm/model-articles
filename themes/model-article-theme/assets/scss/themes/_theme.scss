@@ -13,14 +13,6 @@ body {
     }
 }
 
-em {
-    font-family: 'Source Sans Pro';
-}
-
-strong {
-    font-family: 'Source Sans Pro';
-}
-
 p {
     margin-top: $paragraph-margin-bottom;
 }
@@ -248,6 +240,10 @@ article.essay .abstract {
     border-top: 10px solid #000;
 }
 
+.callout > p {
+    font-size: 1rem;
+}
+
 .volume-list.grid-x .volume {
     margin: $global-margin $global-margin $global-margin 0;
 }
@@ -270,7 +266,7 @@ p a {
 .button {
     width:100%;
     margin:0;
-    font-size:1.5rem;
+    font-size:1rem;
     font-weight:bold;
     text-align: right;
 }
@@ -309,7 +305,7 @@ h2.home {
 
 blockquote {
     border-left: 10px solid #000;
-    background:#cacaca;
+    background:#ebebeb;
 }
 
 .note.callout {
