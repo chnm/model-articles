@@ -1,6 +1,6 @@
 ---
 title: "For Wagrassero's Wife's Son: "
-weight: 7
+weight: 10
 subtitle: Colonialism and the Structure of Indigenous Women's Social Connections, 1690-1730
 doi: http://thelinktothisarticlehere
 draft: false

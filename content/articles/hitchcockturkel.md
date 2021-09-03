@@ -1,6 +1,6 @@
 ---
 title: "<em>The Old Bailey Proceedings</em>, 1674-1913: "
-weight: 6
+weight: 9
 subtitle: Text Mining for Evidence of Court Behavior
 doi:
 draft: false 

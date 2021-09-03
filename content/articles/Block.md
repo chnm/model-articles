@@ -1,6 +1,6 @@
 ---
 title: "What, Where, When and Sometimes Why:"
-weight: 5
+weight: 6
 subtitle: Data Mining Two Decades of Women’s History Abstracts
 doi: http://thelinktothisarticlehere
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Parliament's Debates about Infrastructure: "
-weight: 6
+weight: 8
 subtitle: An Exercise in Using Dynamic Topic Models to Synthesize Historical Change
 doi: http://thelinktothisarticlehere
 draft: false

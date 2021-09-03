@@ -1,6 +1,6 @@
 ---
 title: "Protestant Letter Networks in the Reign of Mary I: "
-weight: 3
+weight: 4
 subtitle: A Quantitative Approach
 doi: 
 draft: false
