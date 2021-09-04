@@ -2,7 +2,7 @@
 title: "Where is America in the Republic of Letters?"
 weight: 11
 subtitle:
-doi: http://thelinktothisarticlehere
+doi: https://doi.org/10.31835/ma.2021.11
 draft: false
 author: 
 - name: Caroline Winterer

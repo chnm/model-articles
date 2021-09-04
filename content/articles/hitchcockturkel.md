@@ -2,7 +2,7 @@
 title: "<em>The Old Bailey Proceedings</em>, 1674-1913: "
 weight: 9
 subtitle: Text Mining for Evidence of Court Behavior
-doi:
+doi: https://doi.org/10.31835/ma.2021.09
 draft: false 
 author: 
 - name: Tim Hitchcock

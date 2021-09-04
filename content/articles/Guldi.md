@@ -2,7 +2,7 @@
 title: "Parliament's Debates about Infrastructure: "
 weight: 8
 subtitle: An Exercise in Using Dynamic Topic Models to Synthesize Historical Change
-doi: http://thelinktothisarticlehere
+doi: https://doi.org/10.31835/ma.2021.08
 draft: false
 author: 
 - name: Jo Guildi

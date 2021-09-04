@@ -2,7 +2,7 @@
 title: "What, Where, When and Sometimes Why:"
 weight: 6
 subtitle: Data Mining Two Decades of Women’s History Abstracts
-doi: http://thelinktothisarticlehere
+doi: https://doi.org/10.31835/ma.2021.06
 draft: false
 author: 
 - name: Sharon Block

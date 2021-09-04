@@ -2,7 +2,7 @@
 title: "The Spine of American Law: "
 weight: 7
 subtitle: "Digital Text Analysis and U.S. Legal Practice"
-doi: http://thelinktothisarticlehere
+doi: https://doi.org/10.31835/ma.2021.07
 draft: false
 author: 
 - name: Kellen Funk

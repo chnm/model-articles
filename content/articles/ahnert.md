@@ -2,7 +2,7 @@
 title: "Protestant Letter Networks in the Reign of Mary I: "
 weight: 4
 subtitle: A Quantitative Approach
-doi: 
+doi: https://doi.org/10.31835/ma.2021.04
 draft: false
 author: 
 - name: Ruth Ahnert
