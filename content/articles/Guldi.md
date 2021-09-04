@@ -1,5 +1,5 @@
 ---
-title: "Parliament'`s Debates about Infrastructure: "
+title: "Parliament’s Debates about Infrastructure: "
 weight: 8
 subtitle: An Exercise in Using Dynamic Topic Models to Synthesize Historical Change
 doi: https://doi.org/10.31835/ma.2021.08
@@ -10,7 +10,7 @@ author:
   email: jguldi@mail.smu.edu
 citation:
 - author: "Guldi, Jo"
-  title: "Parliament's Debates about Infrastructure: An Exercise in Using Dynamic Topic Models to Synthesize Historical Change"
+  title: "Parliament’s Debates about Infrastructure: An Exercise in Using Dynamic Topic Models to Synthesize Historical Change"
   journal: Technology and Culture
   year: 2019
   volume: 60

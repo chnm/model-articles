@@ -23,7 +23,8 @@
             <h4>Citation for Original Article:</h4>
             <div class="abstract-contents">
                 {{ range .Params.citation }}
-                <span class="citation"> {{ .author }}. "{{ .title | safeHTML }}," <em>{{ .journal }}</em> {{ .volume }},
+                <span class="citation"> {{ .author }}. &ldquo;{{ .title | safeHTML }},&rdquo; <em>{{ .journal }}</em>
+                    {{ .volume }},
                     no. {{ .issue }} ({{ .year }}): {{ .pages }}, <a href="{{ .doi }}">{{ .doi }}</a>.</span>
                 {{ end }}
             </div>

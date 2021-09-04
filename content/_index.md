@@ -1,5 +1,6 @@
 ---
 title: Home
+description: "This site contains a set of published journal articles annotated by their authors to highlight the use of digital methods to make historical arguments. The goal is to provide models for those seeking to develop argument-driven digital history, to encourage more of this form of scholarship."
 ---
 
 This site contains a set of published journal articles annotated by
