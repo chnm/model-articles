@@ -1,43 +1,44 @@
 {{ partial "header.html" . }}
+
 <main class="grid-x">
-    <div class="essay large-8 large-offset-2 medium-10 medium-offset-1 small-10 small-offset-1 cell"> 
+    <div class="essay large-8 large-offset-2 medium-10 medium-offset-1 small-10 small-offset-1 cell">
         {{ .Content }}
         <h2 class="introduction">Introduction</h2>
         {{/* The block below simply prints the introductory essay, all while violating DRY! */}}
-            {{ $pages := where .Site.RegularPages "Section" "articles" }}
-            {{ range $pages.GroupBy "Weight" }}
-            {{ range .Pages.ByTitle }}
-            {{ if in .Params.weight "1" }}
-            <div class="introduction-item">
-                <h3><a href="{{ .Permalink }}">{{ .Title }} {{ .Params.subtitle }}</a></h3>
-                {{ range .Params.citation }}
-                <span class="meta">{{ .author }} <span class="sep">|</span> <em>{{ .journal }}</em></span>
-                {{ end }}
-            </div>
-            {{ else }}
-                {{/* Print nothing. */}}
+        {{ $pages := where .Site.RegularPages "Section" "articles" }}
+        {{ range $pages.GroupBy "Weight" }}
+        {{ range .Pages.ByTitle }}
+        {{ if eq .Params.weight 1 }}
+        <div class="introduction-item">
+            <h3><a href="{{ .Permalink }}">{{ .Title }} {{ .Params.subtitle }}</a></h3>
+            {{ range .Params.citation }}
+            <span class="meta">{{ .author }} <span class="sep">|</span> <em>{{ .journal }}</em></span>
             {{ end }}
-            {{ end }}
-            {{ end }}
+        </div>
+        {{ else }}
+        {{/* Print nothing. */}}
+        {{ end }}
+        {{ end }}
+        {{ end }}
         <h2 class="home">Annotated Articles</h2>
         {{/* The block below prints a list of articles that are not in draft status. */}}
-            {{ $pages := where .Site.RegularPages "Section" "articles" }}
-            {{ range $pages.GroupBy "Weight" }}
-            {{ range .Pages.ByTitle }}
-            {{ if (not .Params.draft) }}
-            {{ if in .Params.weight "1" }}
-                {{/* Print nothing. Weight "1" reserved for the introduction. */}}
-            {{ else }}
-            <div class="article-list">
-                <h3><a href="{{ .Permalink }}">{{ .Title | safeHTML }} {{ .Params.subtitle }}</a></h3>
-                {{ range .Params.citation }}
-                <span class="meta">{{ .author }} <span class="sep">|</span> <em>{{ .journal }}</em></span>
-                {{ end }}
-            </div>
+        {{ $pages := where .Site.RegularPages "Section" "articles" }}
+        {{ range $pages.GroupBy "Weight" }}
+        {{ range .Pages.ByTitle }}
+        {{ if (not .Params.draft) }}
+        {{ if eq .Params.weight 1 }}
+        {{/* Print nothing. Weight "1" reserved for the introduction. */}}
+        {{ else }}
+        <div class="article-list">
+            <h3><a href="{{ .Permalink }}">{{ .Title | safeHTML }} {{ .Params.subtitle }}</a></h3>
+            {{ range .Params.citation }}
+            <span class="meta">{{ .author }} <span class="sep">|</span> <em>{{ .journal }}</em></span>
             {{ end }}
-            {{ end }}
-            {{ end }}
-            {{ end }}
+        </div>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
     </div>
 </main>
 {{ partial "footer.html" . }}
