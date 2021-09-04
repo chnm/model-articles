@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.4.2" xmlns="http://www.crossref.org/schema/4.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 http://www.crossref.org/schema/deposit/crossref4.4.2.xsd">
+<head>
+<doi_batch_id>19c96fd51791d8d23b91257</doi_batch_id>
+<timestamp>20210904104907728</timestamp>
+<depositor>
+  <depositor_name>rrch:rrch</depositor_name> 
+  <email_address>lincoln@lincolnmullen.com</email_address>
+</depositor>
+<registrant>WEB-FORM</registrant> 
+</head>
+<body>
+<report-paper>
+<report-paper_metadata>  <contributors>    <person_name sequence='first' contributor_role='author'>      <given_name>Sharon</given_name>      <surname>Block</surname>    </person_name>  </contributors>  <titles>     <title>What, Where, When and Sometimes Why:  Data Mining Two Decades of Women’s History Abstracts (annotated version)</title>   </titles> <publication_date media_type='online'>     <year>2021</year>   </publication_date>    <publisher>   <publisher_name>Roy Rosenzweig Center for History and New Media</publisher_name>   </publisher>  <doi_data>    <doi>10.31835/ma.2021.06</doi>    <resource>https://model-articles.rrchnm.org/articles/block/</resource>  </doi_data></report-paper_metadata>
+</report-paper>
+</body>
+</doi_batch>
