@@ -18,7 +18,7 @@ citation:
   year: 2016
   volume: 34
   issue: 4
-  pages: 929-955
+  pages: 929–955
   doi: https://doi.org/10.1017/S0738248016000304
 
 ---

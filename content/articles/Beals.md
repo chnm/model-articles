@@ -15,7 +15,7 @@ citation:
   year: 2018
   volume: 51
   issue: 4
-  pages: 616-639
+  pages: 616–639
   doi: https://doi.org/10.1353/vpr.2018.0046
 
 ---

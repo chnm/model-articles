@@ -15,7 +15,7 @@ citation:
   year: 2011
   volume: 23
   issue: 1
-  pages: 81-109
+  pages: 81–109
   doi: http://doi.org/10.1353/jowh.2011.0001
 
 ---

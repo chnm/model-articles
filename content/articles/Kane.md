@@ -15,7 +15,7 @@ citation:
   year: 2017
   volume: 7
   issue: 
-  pages: 89-114
+  pages: 89–114
   doi: http://doi.org/10.1163/18770703-00702002
 
 ---

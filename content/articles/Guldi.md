@@ -1,5 +1,5 @@
 ---
-title: "Parliament's Debates about Infrastructure: "
+title: "Parliament'`s Debates about Infrastructure: "
 weight: 8
 subtitle: An Exercise in Using Dynamic Topic Models to Synthesize Historical Change
 doi: https://doi.org/10.31835/ma.2021.08
@@ -15,7 +15,7 @@ citation:
   year: 2019
   volume: 60
   issue: 1
-  pages: 1-33
+  pages: 1–33
   doi: https://doi.org/10.1353/tech.2019.0000
 
 ---

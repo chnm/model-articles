@@ -15,7 +15,7 @@ citation:
   year: 2021
   volume: 9
   issue: 3
-  pages: 597-623
+  pages: 597–623
   doi: http://doi.org/10.1017/S1479244312000212
 
 ---

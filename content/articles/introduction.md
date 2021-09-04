@@ -18,7 +18,7 @@ citation:
   year: 2021
   volume: 54
   issue: 4
-  pages: 1005ff.
+  pages: 1005–1022
   doi: https://doi.org/10.1093/jsh/shab015
 ---
 

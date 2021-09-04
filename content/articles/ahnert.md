@@ -18,7 +18,7 @@ citation:
   year: 2015
   volume: 82
   issue: 1
-  pages: 1-33
+  pages: 1–33
   doi: https://doi.org/10.1353/elh.2015.0000
 
 ---
