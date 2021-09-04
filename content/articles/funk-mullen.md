@@ -29,7 +29,7 @@ citation:
 
 At the opening of the first Nevada legislature in 1861, Territorial Governor James W. Nye, a former New York lawyer, instructed the assembly that they would have to forsake their inherited Mormon statutes that were ill adapted to "the mining interests" of the new territory. "Happily for us, a neighboring State whose interests are similar to ours, has established a code of laws" sufficiently attractive to "capital from abroad." That neighbor was California, and Nye urged that California's "Practice Code" be enacted in Nevada, as far as it could "be made applicable."[^1] Territorial Senator William Morris Stewart, a famed mining lawyer who would lead the U.S. Senate during Reconstruction, followed the instructions perhaps too well. Stewart literally cut and pasted the latest *Wood's Digest* of the California Practice Act into the session bill, crossing out *state* and *California* and substituting *territory* and *Nevada* where necessary. Stewart copied not just California's procedure code but also its method of codification, for California had in turn borrowed its code by modifying New York's.
 
-![Detail from Council Bill 21, First Territorial Legislative Session (1861), Nevada State Library, Archives and Public Records.](CB021-1861.jpg)
+{{< figure caption="Detail from Council Bill 21, First Territorial Legislative Session (1861), Nevada State Library, Archives and Public Records." src="/img/fm/CB021-1861.jpg" title="Figure 1:" >}}
 
 Nye wrote back to the assembly in disgust. The bill---of 715 sections---had reached him late the night before the legislative session was to close. Even in the few hours he had to read it, Nye counted "many errors in the enrolling of it, numbering probably more than three hundred." Some errors were severe. The code overwrote the specific jurisdictional boundaries of Nevada’s Organic Act by copying California’s arrangements. Error-riddled and unconstitutional as the bill was, Nye believed a civil practice code was a "universal necessity and public need," doubting "whether your courts would be able to fulfill the purpose of their creation" without one.[^2] Nye signed the code into law.
 
@@ -69,7 +69,7 @@ Most important, the code defined all the remedies that a civil court could order
 
 Despite Field's arguments that a mere procedure code was democratically unproblematic, his efforts were not entirely successful in New York. The commission submitted a draft of its main reforms in 1848, emphasizing that this first code was "but a report in part." New York's legislators enacted the partial code with little amendment, some legislators repeating Field's view that the constitution obligated them to accept the code.[^25] But when the commissioners submitted an extended draft in 1849, the Assembly judiciary committee balked, directly disputing the commissioners' claims that procedure was merely the machinery of the law. The "provisions for rights and for the mode of pursuing remedies, insensibly run into each other," the committee reported, complicating legal practice "infinitely more than any machine of human contrivance." They therefore suspected the commissioners' forthcoming code of criminal procedure would include all of the criminal law as well, "as they seem to understand practice and pleadings to include all the law upon a given subject." That being the case, the committee wondered whether they should "place in \[the commissioners\] a blind and implicit confidence that shall commit to their discretion the peace and property, the personal liberty and the lives of those who sent *us* here to make laws for them?"[^26]
 
-![This map shows which states adopted codes of civil procedure based on the New York Field Code. The date shown is the date of the first enactment of a procedure code; most states subsequently revised their codes. Note that many southern states and western states came to adopt the Field Code during the Civil War and Reconstruction. By the end of the nineteenth century, thirty-one jurisdictions (those displayed on the map, plus Alaska) had adopted a version of the Field Code. Data adapted from Charles McGuffey Hepburn, *The Historical Development of Code Pleading in America and England* (1897).](field-code-states-map.jpeg)
+{{< figure caption="This map shows which states adopted codes of civil procedure based on the New York Field Code. The date shown is the date of the first enactment of a procedure code; most states subsequently revised their codes. Note that many southern states and western states came to adopt the Field Code during the Civil War and Reconstruction. By the end of the nineteenth century, thirty-one jurisdictions (those displayed on the map, plus Alaska) had adopted a version of the Field Code. Data adapted from Charles McGuffey Hepburn, *The Historical Development of Code Pleading in America and England* (1897)." src="/img/fm/field-code-states-map.jpeg" title="Figure 2:" >}}
 
 The code would encounter similar difficulties in each jurisdiction that adopted it. Even the shortest version of the Field Code was significantly longer than any other state statute before the Progressive legislation of the twentieth century. Unlike statutory compilations that sometimes took the name of a "code" but made no changes to existing law, the Field Code opened by abolishing the hallmarks of prior practice and instituting "hereafter" a new form of action with substantial revisions to basic matters of civil remedies.[^27] In the states where it was imported, there was no getting around the fact that the code introduced much new law, yet legislators were unable to read, critique, and amend the code within the brief period of a legislative session. "It is folly to undertake to pass a code in a sixty day session," wrote the *Montana Post*, "and the best way would be for the Assembly to select one from a State or Territory which would come near meeting our wants, and slide it through with the fewest changes possible."[^28] Sliding the code through eased the problem of time but exacerbated the problem of local sovereignty. "To be governed by a foreign law, especially when that law is not preknown to the people whose conduct is to be regulated thereby ... is something repugnant to the idea of Democratic Republican government," complained the *The Miner's Express* in Iowa.[^29]
 
@@ -89,11 +89,11 @@ The most important step we took in processing the files was to split each sectio
 
 Having divided the texts according to a historically justified pattern, our next step was to compare each section to every other section and measure the similarity between them. To continue the New York-to-California example, consider the following pairs of sections. The first pair is from the final draft of the New York Field Code. These sections completely abolished prior practice and began to rebuild the procedure system from the ground up (figure 3).
 
-![Final Report of the Commissioners on Practice and Pleadings (New York, 1850), 225--25,  §§ 554--555.](NY1850-text.png)
+{{< figure caption="Final Report of the Commissioners on Practice and Pleadings (New York, 1850), 225--25,  §§ 554--555." src="/img/fm/NY1850-text.png" title="Figure 3:" >}}
 
 In the theory of Euro-American lawyers, California had no prior practice to abolish, so the code began more simply (figure 4).
 
-![1851 California Laws 51 §§ 1--2.](CA1851-text.png)
+{{< figure caption="1851 California Laws 51 §§ 1--2." src="/img/fm/CA1851-text.png" title="Figure 4:" >}}
 
 The pairs are obviously related to one another, both in terms of their legal force and in terms of the actual words used.
 
@@ -101,14 +101,14 @@ A common method for measuring the similarity of two documents involves dividing 
 
 Comparing the section pairs above produces the matrix of similarity scores in table 1.
 
-                NY1850-554   NY1850-555   CA1851-001   CA1851-002
-  ------------ ------------ ------------ ------------ ------------
-  NY1850-554                     0           0.14          0
-  NY1850-555                                  0           0.41
-  CA1851-001                                               0
-  CA1851-002                                          
+ |            | NY1850-554 | NY1850-555 | CA1851-001 | CA1851-002 |
+ |------------|------------|------------|------------|------------|
+ |NY1850-554  |            |     0      |    0.14    |     0      |
+ |NY1850-555  |            |            |     0      |    0.41    |
+ |CA1851-001  |            |            |            |     0      |
+ |CA1851-002  |            |            |            |            |
 
-  : A subset of the section-to-section similarity matrix.
+*Table 1: A subset of the section-to-section similarity matrix.*
 
 As we would expect the first sections (New York § 554 and California § 1) have a score of 0.14, which indicates that they are similar but have significant differences, while the second sections (New York § 555 to California § 2) have a much higher similarity score of 0.41 since only a few words were changed. Just as important, when we compare the first section in New York to the second section in California, we get a score of 0; the two sections are nothing like each other.
 
@@ -122,44 +122,7 @@ The computational evidence that we assembled revealed patterns in how law migrat
 
 At the broadest scale of analysis, we aggregated the section-to-section borrowings into a summary of how many sections each code borrowed from each other code. We therefore can show the connections from one code to another. The resulting network graph reveals the genealogy of civil procedure in the United States.
 
-```{r code-to-code-network, fig.width=17.5, fig.height=12.5, fig.cap = "The structure of borrowings among nineteenth-century codes of civil procedure. Note that several versions of New York's Field Code were at the center of the network, while other states such as California and Ohio became centers of regional variations on the Field Code. States that adopted any of the variations on the Field Code became part of a network centered on New York capital."} 
-set.seed(3728)
-network_g <- ggraph(codes_g, "igraph", algorithm = "nicely") +
-  geom_edge_fan(aes(edge_width = sections_borrowed, 
-                    alpha = sections_borrowed),
-                arrow = arrow(type = "closed", ends = "first",
-                              length = unit(0.20, "inches"),
-                               angle = 15)) +
-  geom_node_point(aes(color = as.factor(distance)), size = 6) +   
-  scale_edge_width("Sections borrowed", range = c(1, 2), guide = "none") +    
-  scale_edge_alpha(range = c(0.5, 0.5), guide = "none") +   
-  scale_color_manual(name = "Distance from a Field Code",
-                     values = c("Field code" = "#e41a1c",
-                                "Original borrower" = "#377eb8",
-                                "Subsequent borrower" = "#4daf4a",
-                                "Independent" = "#984ea3"
-                                # "3" = "#7fcdbb",
-                                # "4" = "#c7e9b4",
-                                # "5" = "#edf8b1",
-                                # "6" = "#ffffd9",
-                                # "Inf" = "#dfc27d"
-                                )) +
-  ggforce::theme_no_axes() +  
-  geom_node_text(aes(label = name), size = 5, family = "Palatino") +
-  labs(title = "The migration of the Field Code",
-       subtitle = "Codes of civil procedure connected by borrowed sections") +
-  theme(legend.position = "bottom",
-        panel.border = element_blank(),
-        text = element_text(family = "Palatino"),
-        legend.title = element_text(size = 18),
-        legend.text = element_text(size = 15),
-        plot.title = element_text(size = 22, face = "bold"),
-        plot.subtitle = element_text(size = 18))
-print(network_g)
-ggsave("../out/figures/figure-05.svg", network_g, width = 17.5, height = 12.25)
-ggsave("../out/figures/figure-05.pdf", network_g, width = 17.5, height = 12.25)
-ggsave("../out/figures/figure-05.png", network_g, width = 17.5, height = 12.25)
-```
+{{< figure caption="The structure of borrowings among nineteenth-century codes of civil procedure. Note that several versions of New York's Field Code were at the center of the network, while other states such as California and Ohio became centers of regional variations on the Field Code. States that adopted any of the variations on the Field Code became part of a network centered on New York capital." title="Figure 5:" src="/img/fm/network.png" >}}
 
 The New York Field Codes, especially the finished draft of 1850, were central to the entire network.[^39] New York gave rise to different regional traditions within the procedural network. Variations in the Field drafts meant that different states could borrow different versions of the Field Code. Field’s 1850 draft---never actually enacted in New York---was the primary progenitor of several families of codes in California, Kentucky, Iowa, and Ohio, each of which in turn became major contributors to the law of neighboring states. The 1851 New York code---a small revision to the original 1848 code---became the progenitor of codes for Wisconsin, Florida, North Carolina, and South Carolina. While Field considered the 1850 version to be the definitive, ideal version of the code, all of the New York codes from 1848 to 1853 became models for other jurisdictions. In many cases, the commissions likely used whatever version of the code they had at hand. The Field Code was not a single volume on the shelf, but a series of drafts, any of which might be more accessible in different regions and in different years.
 
@@ -171,104 +134,19 @@ In addition to the overview of the relationship between codes, we can also see m
 
 California's 1850 code, enacted in the period when California was entering the Union as a state, was borrowed almost entirely from New York's 1849 Field Code. The compiler Elisha Crosby did lift one portion from the mixed civilian/common law code of Louisiana, the rules for ordering a new trial to revisit an earlier jury’s verdict. New trials were not provided for in the New York Code until the finished draft in 1850. Most of the sections that were not borrowed, as with many of the codes, have to do with parts that describe the system of courts or provide sample forms of pleading or sheriff’s writs that were peculiar to each state.
 
-```{r CA1850-borrowings, fig.height=3, fig.align="center"}
-best_matches_combine_ny <- best_matches %>% 
-  mutate(match_code = ifelse(match_code == "NY1848" | match_code == "NY1849",
-                             "NY1848-49",
-                             match_code))
-spec_CA1850 <- spectrogram("CA1850", best_matches_combine_ny, 
-                           white_list = c("LA1844", "NY1848-49"),
-                           base_size = 10)
-spec_CA1850_bw <- spectrogram("CA1850", best_matches_combine_ny, 
-                              white_list = c("LA1844", "NY1848-49"),
-                              base_size = 10, bw = TRUE)
-if (!bw) {
-  print(spec_CA1850) 
-} else {
-  print(spec_CA1850_bw)
-} 
-ggsave("../out/figures/figure-06.svg", spec_CA1850, width = 7, height = 3)
-ggsave("../out/figures/figure-06.pdf", spec_CA1850, width = 7, height = 3)
-ggsave("../out/figures/figure-06.png", spec_CA1850, width = 7, height = 3)
-ggsave("../out/figures/figure-06-bw.svg", spec_CA1850_bw, width = 7, height = 3)
-ggsave("../out/figures/figure-06-bw.pdf", spec_CA1850_bw, width = 7, height = 3)
-ggsave("../out/figures/figure-06-bw.png", spec_CA1850_bw, width = 7, height = 3)
-```
+{{< figure title="Figure 6:" caption="Borrowed sections in CA1850." src="/img/fm/figure6.png" >}}
 
 When Stephen Field revised California’s code in 1851, he largely redrafted it from the updated code his brother David Dudley had completed for New York in 1850. This includes the portion of the code on new trials previously borrowed from Louisiana.[^42] The remainder of the code was borrowed from the 1850 California code. (Many of the non-matching sections are tables of contents.) Thus California based the majority of its law of civil remedies entirely on New York's code not once, but twice. California made few to no innovations to the Field Code beyond a rearrangement of its provisions and their application to the new state’s particular system of courts.
 
-```{r CA1851-borrowings, fig.height=3.5, fig.align="center"}
-best_matches_ca1851 <- best_matches %>% 
-    mutate(match_code = ifelse(match_code == "NY1848" | match_code == "NY1849" | match_code == "NY1850",
-                             "NY1848-50",
-                             match_code))
-spec_CA1851 <- spectrogram("CA1851", best_matches_ca1851, 
-                           white_list = 3, base_size = 10)
-spec_CA1851_bw <- spectrogram("CA1851", best_matches_ca1851, 
-                              white_list = 3, base_size = 10, bw = TRUE)
-if (!bw) {
-  print(spec_CA1851) 
-} else {
-  print(spec_CA1851_bw)
-} 
-ggsave("../out/figures/figure-07.svg", spec_CA1851, width = 7, height = 3.5)
-ggsave("../out/figures/figure-07.pdf", spec_CA1851, width = 7, height = 3.5)
-ggsave("../out/figures/figure-07.png", spec_CA1851, width = 7, height = 3.5)
-ggsave("../out/figures/figure-07-bw.svg", spec_CA1851_bw, width = 7, height = 3.5)
-ggsave("../out/figures/figure-07-bw.pdf", spec_CA1851_bw, width = 7, height = 3.5)
-ggsave("../out/figures/figure-07-bw.png", spec_CA1851_bw, width = 7, height = 3.5)
-```
+{{< figure title="Figure 7:" caption="Borrowed sections in CA1851." src="/img/fm/figure7.png" >}}
 
 The pattern of borrowings in the Washington 1855 code was a rather different case. The Washington code was definitely in the lineage of the 1851 California code, since it borrowed sections from both California directly as well as from Oregon (which was also derived from California). Indiana's 1852 code and Oregon's 1854 code provide the majority of the borrowings. The contiguous bands of borrowings correspond to regulations on judgement borrowed from Oregon and enforcement provisions borrowed from Indiana. This pattern likely came about because one of the Washington code commissioners, Edward Lander, was an Indiana appellate judge from 1850 to 1853, while another commissioner, William Strong, was a justice of the Oregon Supreme Court in the same years. While working on the Washington code, they must have each used the law (and the law books) that they knew best. As a second generation variation on a regional code, the Washington code drew from a variety of sources, even though all these sources basically agreed on the substance of the law.
 
-```{r WA1855-borrowings, fig.height=4.5, fig.align="center"}
-best_matches_wa1855 <- best_matches %>% 
-  mutate(match_code = ifelse(match_code == "CA1850" | match_code == "CA1851",
-                             "CA1850-51",
-                             match_code))
-
-spec_WA1855 <- spectrogram("WA1855", best_matches_wa1855, 
-                           white_list = c("CA1850-51", "IN1852", 
-                                          "OR1854"),
-                           base_size = 10)
-spec_WA1855_bw <- spectrogram("WA1855", best_matches_wa1855, 
-                              white_list = c("CA1850-51", "IN1852", 
-                                             "OR1854"),
-                              base_size = 10, bw = TRUE)
-if (!bw) {
-  print(spec_WA1855) 
-} else {
-  print(spec_WA1855_bw)
-} 
-ggsave("../out/figures/figure-08.svg", spec_WA1855, width = 7, height = 4.5)
-ggsave("../out/figures/figure-08.pdf", spec_WA1855, width = 7, height = 4.5)
-ggsave("../out/figures/figure-08.png", spec_WA1855, width = 7, height = 4.5)
-ggsave("../out/figures/figure-08-bw.svg", spec_WA1855_bw, width = 7, height = 4.5)
-ggsave("../out/figures/figure-08-bw.pdf", spec_WA1855_bw, width = 7, height = 4.5)
-ggsave("../out/figures/figure-08-bw.png", spec_WA1855_bw, width = 7, height = 4.5)
-```
+{{< figure title="Figure 8:" caption="Borrowed sections in WA1855." src="/img/fm/figure8.png" >}}
 
 Finally, we can examine one of the outermost leaves on the family tree of the Field Code in Washington’s revised code of 1873. The bulk of this code was taken from the early Washington code with only small amendments. The main exception was lengthy set of sections on probate drawn from California's 1872 code. Like many of the last generation codes, the text of the procedure code had stabilized as a local manifestation of a regional tradition. The code was still genuinely a Field Code, with a great deal of similarity to the original New York Field Codes, but its specific form depended on the many edits and rearrangements that code commissioners from several states had made to the text.
 
-```{r WA1873-borrowings, fig.height=4.5, fig.align="center"}
-spec_WA1873 <- spectrogram("WA1873", 
-                           white_list = c("CA1872", "IN1852", "WA1855"),
-                           best_matches, base_size = 10)
-spec_WA1873_bw <- spectrogram("WA1873", best_matches,
-                              white_list = c("CA1872", "IN1852", "WA1855"),
-                              base_size = 10, bw = TRUE)
-if (!bw) {
-  print(spec_WA1873) 
-} else {
-  print(spec_WA1873_bw)
-} 
-ggsave("../out/figures/figure-09.svg", spec_WA1873, width = 7, height = 4.5)
-ggsave("../out/figures/figure-09.pdf", spec_WA1873, width = 7, height = 4.5)
-ggsave("../out/figures/figure-09.png", spec_WA1873, width = 7, height = 4.5)
-ggsave("../out/figures/figure-09-bw.svg", spec_WA1873_bw, width = 7, height = 4.5)
-ggsave("../out/figures/figure-09-bw.pdf", spec_WA1873_bw, width = 7, height = 4.5)
-ggsave("../out/figures/figure-09-bw.png", spec_WA1873_bw, width = 7, height = 4.5)
-```
+{{< figure title="Figure 9:" caption="Borrowed sections in WA1873." src="/img/fm/figure9.png" >}}
 
 So far we have retained the context of the surrounding sections within a particular code. But since our fundamental unit of comparison is section to section, we can use a technique called clustering to group sections based on their similarity to one another, regardless of which code they come from. There are innumerable clustering algorithms, but we used the affinity propagation clustering algorithm because its assumptions aligned with the characteristics of our problem. That algorithm finds an "exemplar" item which is most characteristic of the other items in the cluster. That assumption fits nicely with borrowings from the Field Code, where a single section (likely from a Field Code) had many borrowings, but where there could also be innovative sections from other states that might be more influential.[^43]
 
