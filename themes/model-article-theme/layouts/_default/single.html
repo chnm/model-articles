@@ -1,6 +1,9 @@
 {{ partial "header.html" . }}
+
 <main class="grid-x">
+
     <article class="essay large-8 large-offset-2 medium-10 medium-offset-1 small-10 small-offset-1 cell">
+
         <header class="essay-header">
 
             <h2>
@@ -9,25 +12,28 @@
             </h2>
 
             {{ range .Params.author }}
-                <span class="author">{{ .name }}, {{ .affiliation }}, {{ .email }}</span>
+            <span class="author">{{ .name }}, {{ .affiliation }}, {{ .email }}</span>
             {{ end }}
             <span class="meta"><b>Annotated article DOI: </b><a href="{{ .Params.doi }}">{{ .Params.doi }}</a></span>
-            
-            
+
+
         </header>
+
         <section class="abstract callout">
-            <h4>Citation for Original Article:</h4> 
+            <h4>Citation for Original Article:</h4>
             <div class="abstract-contents">
                 {{ range .Params.citation }}
-                <span class="citation"> {{ .author }}. "{{ .title | safeHTML }}," <em>{{ .journal }}</em> {{ .volume }}, no. {{ .issue }} ({{ .year }}): {{ .pages }}, <a href="{{ .doi }}">{{ .doi }}</a></span>
-                {{ end }}            </div>
+                <span class="citation"> {{ .author }}. "{{ .title | safeHTML }}," <em>{{ .journal }}</em> {{ .volume }},
+                    no. {{ .issue }} ({{ .year }}): {{ .pages }}, <a href="{{ .doi }}">{{ .doi }}</a>.</span>
+                {{ end }}
+            </div>
         </section>
         {{ replaceRE `\^(.*?)\^` "<sup>$1</sup>" .Content | safeHTML }}
 
 
     </article>
 
-</main> 
+</main>
 
 
 {{ partial "footer.html" . }}
