@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url("http://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Lato");
 @font-face {
   font-family: 'majesti_bannerbold';
   src: url("/assets/font/majesti-banner-bold-webfont.woff2") format("woff2"), url("/assets/font/majesti-banner-bold-webfont.woff") format("woff");

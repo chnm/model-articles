@@ -31,14 +31,14 @@
 // them in Foundations's variables file
 
 // Global Config Variables
-@import 'base/config';
+@import "base/config";
 
 //
 // 3. Fonts
 // --------------------------------------------------
 
 // Lato
-@import url("http://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Lato");
 
 //
 // 4. Foundation
@@ -53,43 +53,43 @@
 //   in foundation/_foundation.scss.
 
 // Import all of Foundation
-@import 'foundation/foundation';
+@import "foundation/foundation";
 
 //
 // 5. Helpers
 // --------------------------------------------------
 
 // Functions
-@import 'helpers/functions';
+@import "helpers/functions";
 
 // Mixins
-@import 'helpers/mixins';
+@import "helpers/mixins";
 
 //
 // 6. Base
 // --------------------------------------------------
-@import 'base/headings';
-@import 'base/links';
+@import "base/headings";
+@import "base/links";
 
 //
 // 7. Layout
 // --------------------------------------------------
-@import 'layouts/l-default';
-@import 'layouts/l-index';
-@import 'layouts/l-page';
-@import 'layouts/l-post';
+@import "layouts/l-default";
+@import "layouts/l-index";
+@import "layouts/l-page";
+@import "layouts/l-post";
 
 //
 // 8. Modules
 // --------------------------------------------------
-@import 'modules/m-code-highlighting';
+@import "modules/m-code-highlighting";
 
 //
 // 9. State
 // --------------------------------------------------
-@import 'states/s-your-module';
+@import "states/s-your-module";
 
 //
 // 10. Theme
 // --------------------------------------------------
-@import 'themes/theme';
+@import "themes/theme";
